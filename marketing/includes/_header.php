@@ -19,21 +19,9 @@
 	<link rel="icon" type="image/ico" href="favicon.ico">
   
 	<!-- Included CSS Files -->
-	<link rel="stylesheet" href="../stylesheets/globals.css">
-	<link rel="stylesheet" href="../stylesheets/typography.css">
-	<link rel="stylesheet" href="../stylesheets/grid.css">
-	<link rel="stylesheet" href="../stylesheets/ui.css">
-	<link rel="stylesheet" href="../stylesheets/forms.css">
-	<link rel="stylesheet" href="../stylesheets/orbit.css">
-	<link rel="stylesheet" href="../stylesheets/reveal.css">
-	<link rel="stylesheet" href="../stylesheets/app.css">
-	<link rel="stylesheet" href="../stylesheets/mobile.css">
-	<link rel="stylesheet" href="presentation.css">
-	
-	<!--[if lt IE 9]>
-		<link rel="stylesheet" href="src/stylesheets/ie.css">
-	<![endif]-->
-	
+  <link rel="stylesheet/less" type="text/css" href="../stylesheets/style.less" />
+  <script src="../javascripts/less-1.1.6.min.js" type="text/javascript"></script>
+
 	<!-- IE Fix for HTML5 Tags -->
 	<!--[if lt IE 9]>
 		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
