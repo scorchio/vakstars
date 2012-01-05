@@ -47,10 +47,19 @@
 	    a, a:visited { color: @blockquote-cite-color; }
 	  }
 	}
-	
-	hr { border: solid #ddd; border-width: 1px 0 0; clear: both; margin: 12px 0 18px; height: 0; }
-	
-	abbr, acronym { text-transform: uppercase; font-size: 90%; color: #222; border-bottom: 1px solid #ddd; cursor: help; }
+
+  @hr-color: #ddd;
+	hr { border: solid @hr-color; border-width: 1px 0 0; clear: both; margin: 12px 0 18px; height: 0; }
+
+  @abbr-acronym-color: #222;
+  @abbr-acronym-border: 1px solid #ddd;
+	abbr, acronym {
+	  text-transform: uppercase;
+	  font-size: 90%;
+	  color: @abbr-acronym-color;
+	  border-bottom: @abbr-acronym-border;
+	  cursor: help;
+	 }
 	abbr { text-transform: none; }
 
 	/**
