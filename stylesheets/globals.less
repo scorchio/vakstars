@@ -93,12 +93,14 @@
 	:: Lists
 	-------------------------------------------------- */
 	ul, ol { margin-bottom: 18px; }
-	ul { list-style: none outside; }
+	ul {
+	  list-style: none outside;
+	  .square { list-style: square outside; }
+	  .circle { list-style: circle outside; }
+    .disc { list-style: disc outside; }
+	}
 	ol { list-style: decimal; }
 	ol, ul.square, ul.circle, ul.disc { margin-left: 30px; }
-	ul.square { list-style: square outside; }
-	ul.circle { list-style: circle outside; }
-	ul.disc { list-style: disc outside; }
 	li { margin-bottom: 12px; }
 	ul.large li { line-height: 21px; }
 	
@@ -106,28 +108,53 @@
 /*	--------------------------------------------------
 	:: Tables
 	-------------------------------------------------- */
-	table { background: #fff; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; margin: 0 0 18px; border: 1px solid #ddd;  }
-	
-	table thead, table tfoot { background: #f5f5f5; }
-	table thead tr th,
-	table tfoot tr th,
-	table tbody tr td,
-	table tr td,
-	table tfoot tr td { font-size: 12px; line-height: 18px; text-align: left; }
-	table thead tr th,
-	table tfoot tr td { padding: 8px 10px 9px; font-size: 14px; font-weight: bold; color: #222; }
-	table thead tr th:first-child, table tfoot tr td:first-child { border-left: none; }
-	table thead tr th:last-child, table tfoot tr td:last-child { border-right: none; }
+  @table-background: #fff;
+  @table-even-rows-background: #f9f9f9;
+  @table-border-radius: 3px;
+  @table-border: 1px solid #ddd;
+  @table-td-color: #333;
+  @table-head-foot-background: #f5f5f5;
 
-	table tbody tr.even,
-	table tbody tr.alt { background: #f9f9f9; }
-	table tbody tr:nth-child(even) { background: #f9f9f9; }
-	table tbody tr td { color: #333; padding: 9px 10px; vertical-align: top; border: none; }
+  table {
+	 .td () { font-size: 12px; line-height: 18px; text-align: left; }
+	 .header-cells () { padding: 8px 10px 9px; font-size: 14px; font-weight: bold; color: #222; }
 
-/* -------------------------------------------------- 
+    background: @table-background;
+    -moz-border-radius: @table-border-radius;
+    -webkit-border-radius: @table-border-radius;
+    border-radius: @table-border-radius; margin: 0 0 18px;
+    border: @table-border;
+
+    thead, tfoot {
+      background: @table-head-foot-background;
+
+      tr, th { .td; }
+    }
+    
+    tbody tr td,
+    tr td,
+    tfoot tr td { .td; }
+
+    thead tr th,
+    tfoot tr td {
+      .header-cells;
+      &:first-child { border-left: none; }
+      &:last-child { border-right: none; }
+    }
+
+    tbody tr {
+      &.even, &.alt { background: @table-even-rows-background; }
+      &:nth-child(even) { background: @table-even-rows-background; }
+      
+      td { color: @table-td-color; padding: 9px 10px; vertical-align: top; border: none; }
+    }
+  }
+
+/* --------------------------------------------------
 	:: Misc
 ---------------------------------------------------*/
+  @highlight-color: #ff0;
 	.left       { float: left; }
 	.right      { float: right; }
 	.hide     	{ display: none; }
-	.highlight 	{ background: #ff0; }
+	.highlight 	{ background: @highlight-color; }
