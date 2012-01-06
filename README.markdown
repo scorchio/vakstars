@@ -1,13 +1,31 @@
-Welcome to Foundation
-=====================
+LESS version
+============
 
-Foundation is a rock-solid, responsive framework for rapidly prototyping and iterating into production code. It includes a 12-column, future-friendly grid and tons of great tools and elements that'll get you up and running in no time. Clone the repo to get the marketing site, docs, and base source. You can also visit http://foundation.zurb.com to download just the base source as a starting boilerplate.
+This is the LESS version of ZURB's Foundation, which tooks advantage of the possibilities of the LESS CSS preprocessor.
+You can learn more about LESS here: http://lesscss.org/
 
-Homepage:      http://foundation.zurb.com  
-Documentation: http://foundation.zurb.com/docs  
-Download:      http://foundation.zurb.com/files/foundation-download-2.1.4.zip  
+This version is maintained by Zoltán Adamek a.k.a. [scorchio](https://github.com/scorchio).
 
-Foundation is MIT-licensed and absolutely free to use. Foundation wouldn't be possible without the support of the entire ZURB team, our friends and colleagues who gave feedback, and some luminaries who did some heavy lifting that we took advantage of (thanks guys).
+
+What Foundation is (from the original README)
+=============================================
+
+> Foundation is a rock-solid, responsive framework for rapidly prototyping and iterating into production code. It includes a 12-column, future-friendly grid and tons of great tools and elements that'll get you up and running in no time. Clone the repo to get the marketing site, docs, and base source. You can also visit http://foundation.zurb.com to download just the base source as a starting boilerplate.
+
+>Homepage:      http://foundation.zurb.com
+>Documentation: http://foundation.zurb.com/docs
+>Download:      http://foundation.zurb.com/files/foundation-download-2.1.4.zip
+
+>Foundation is MIT-licensed and absolutely free to use. Foundation wouldn't be possible without the support of the entire ZURB team, our friends and colleagues who gave feedback, and some luminaries who did some heavy lifting that we took advantage of (thanks guys).
+
+
+Advices and notes for the LESS version
+======================================
+
+* Please note that this version is still in heavy development. I do my best to make sure that this version will output a functionally equivalent Foundation, but *minor differences can occur*. If you think something is wrong, please file an issue!
+* I personally recommend to use the JS version in the header for development, but after that, it would be wise to use the lessc binary and minify the CSS output.
+* I've included both the minified and the non-minified version of LESS.js, use whichever you prefer to work with.
+* I'm planning to keep this in sync with all the included projects, but don't expect the bleeding edge version of Foundation here all the time :)
 
 Repo Contents
 =============
@@ -19,28 +37,17 @@ Repo Contents
 * JAVASCRIPTS - jQuery, app.js placeholder, placeholder
 * MARKETING - the entire marketing site (foundation.zurb.com)
 * robots.txt - Boilerplate robots file
-* STYLESHEETS - the Foundation stylesheets
+* STYLESHEETS - the LESS version of the Foundation stylesheets
 
-ZURB
-====
+To do
+=====
+* Integrate the HelpLess Helper Library, so that we can use simple markup without worrying about vendor prefixes etc.
+* Modify HelpLess: .reset, .normalize, .clearfix. Normalization should be done in a way like [m6tt's LESS Boilerplate](https://github.com/m6tt/less-boilerplate/blob/less/less/libs/boilerplate.less), so that we can customize basic settings of Foundation via normalize.
 
-Foundation was made by [ZURB](http://www.zurb.com), an interaction design and design strategy firm in Campbell, CA.
+Development Log
+===============
 
-If Foundation knocks your socks off the way we hope it does and you want more, why not check out [our jobs](http://www.zurb.com/talent/jobs)?
-
-Community
-=========
-
-Many thanks to all the people working on Foundation either to improve the base code or to support specific frameworks. If you want to get on this readme send an email to foundation@zurb.com, and if you have questions you can join the Unofficial Foundation Google Group here: http://groups.google.com/group/foundation-framework-
-
-WordPress
-
-* [Starter Theme](https://github.com/drewsymo/Foundation) by Drew Morris
-* [Optional install for roots](https://github.com/retlehs/roots) by Corey Wagehoft
-
-.NET
-
-* [NuGet Package for ASP.Net MVC](http://nuget.org/List/Packages/Zurb_Foundation_MPC3) by Edward Charbeneau
+6th Jan, 2012 - I'm almost done with LESSifying the original Foundation CSS files. That means the original syntax is cleaned up in the LESS way; I've only made smaller refactorings to take advantage of LESS and prepare further work.
 
 MIT Open Source License
 =======================
