@@ -2,10 +2,12 @@
 
 Dobpergéééééééééééééééééééééés...
 
-A verseny állása 2012. január 7-én, 2 órakor:
+A verseny állása 2012. január 8-án, 23:33-kor:
 
-1. Scor - 46
-2. Yuuki | Zaku - 34
-3. Yasa - 28
-4. Yoru - 16
-5. Szacsi - 10
+1. Yuuki - 54
+2. Scor - 52
+3. Yoru - 36
+4. Zaku - 34
+5. Yasa - 32
+6. Szacsi - 10
+6. Szandi - 10

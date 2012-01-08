@@ -6,6 +6,12 @@
   <th>Kire szavazott?</th>
   <th>Indoklás</th>
   </thead>
+
+  <tr><td>2012. 01. 08.</td><td>+</td><td>Yasa (30 &rarr; 32)</td><td>Yoru (26 &rarr; 36)</td><td>Kabalaterv</td></tr>
+  <tr><td>2012. 01. 08.</td><td>+</td><td>Yasa (28 &rarr; 30)</td><td>Yuuki (44 &rarr; 54)</td><td>Kabalaterv</td></tr>
+  <tr><td>2012. 01. 08.</td><td>+</td><td>Scor (50 &rarr; 52)</td><td>Yoru (16 &rarr; 26)</td><td>Kabalaterv</td></tr>
+  <tr><td>2012. 01. 08.</td><td>+</td><td>Scor (48 &rarr; 50)</td><td>Yuuki (34 &rarr; 44)</td><td>Kabalaterv</td></tr>
+  <tr><td>2012. 01. 08.</td><td>+</td><td>Scor (46 &rarr; 48)</td><td>Szandi (0 &rarr; 10)</td><td>Következő meet előkészítéséért</td></tr>
   <tr><td>2012. 01. 06.</td><td>+</td><td>Zaku (32 &rarr; 34)</td><td>Scor (36 &rarr; 46)</td><td>kimagaslóan nagy aktivitásért</td></tr>
   <tr><td>2012. 01. 06.</td><td>+</td><td>Zaku (30 &rarr; 32)</td><td>Yasa (18 &rarr; 28)</td><td>dA feltöltésért</td></tr>
   <tr><td>2012. 01. 06.</td><td>+</td><td>Yasa (16 &rarr; 18)</td><td>Szacsi (0 &rarr; 10)</td><td>régebbi kabalatervekért</td></tr>
@@ -21,4 +27,4 @@
   <tr><td>2012. 01. 06.</td><td>+</td><td>Scor (2 &rarr; 4)</td><td>Yuuki (0 &rarr; 10)</td><td>Beszélgetés elindítása a kabalatervezéssel kapcsolatban.</td></tr>
   <tr><td>2012. 01. 06.</td><td>+</td><td>Scor (0 &rarr; 2)</td><td>Yasa (0 &rarr; 10)</td><td>Beszélgetés elindítása a kabalatervezéssel kapcsolatban.</td></tr>
 
-</table>
+  </table>
