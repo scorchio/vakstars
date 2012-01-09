@@ -19,4 +19,5 @@ Ebben le kell írni, hogy miért szavazol a másikra - mit tett szerinted azért
 ### Összefoglalva
 
 *csináltál valami jót és rád szavaz valaki?* - szavazónként **+10** neked, **+2** a szavazónak (max. **+50** naponta)
+
 *valamit komoly butaságot csináltál és ellened szavaztak?* - szavazónként **-2** neked, -1 a szavazónak (max. **-10** naponta)
