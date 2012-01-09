@@ -32,4 +32,41 @@ header.row {
 
 body {
   font-family: 'Ubuntu', inherit;
+  background-image: url("../images/fuukowithstar.png");
+  background-attachment: fixed;
+  background-position: bottom right;
+  background-repeat: no-repeat;
+  background-size: auto auto;
+}
+
+@opacity: 20%;
+@opacity-table: 55%;
+
+ul.contained.tabs-content > li {
+  background-color: fadeout(#faf8f8, @opacity);
+}
+
+footer {
+  padding-bottom: 300px;
+  /* hogy látszódjon Fuuko */
+}
+
+table {
+  background: fadeout(@table-background, 100%);
+  thead, tfoot {
+    background: fadeout(@table-head-foot-background, @opacity);
+  }
+  tbody tr {
+    &.even, &.alt { background: fadeout(@table-even-rows-background, @opacity-table); }
+    &:nth-child(even) { background: fadeout(@table-even-rows-background, @opacity); }
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  body {
+    background-image: none;
+  }
+  footer, container, body {
+    padding-bottom: 0;
+  }
 }
