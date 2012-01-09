@@ -7,6 +7,8 @@
   <th>Indoklás</th>
   </thead>
 
+  <tr><td>2012. 01. 09.</td><td>+</td><td>Yuuki (56 &rarr; 58)</td><td>Szacsi (20 &rarr; 30)</td><td>Kabalaterv</td></tr>
+  <tr><td>2012. 01. 09.</td><td>+</td><td>Yuuki (54 &rarr; 56)</td><td>Yoru (36 &rarr; 46)</td><td>Kabalaterv</td></tr>
   <tr><td>2012. 01. 08.</td><td>+</td><td>Yasa (32 &rarr; 34)</td><td>Szacsi (10 &rarr; 20)</td><td>Kabalaterv</td></tr>
   <tr><td>2012. 01. 08.</td><td>+</td><td>Yasa (30 &rarr; 32)</td><td>Yoru (26 &rarr; 36)</td><td>Kabalaterv</td></tr>
   <tr><td>2012. 01. 08.</td><td>+</td><td>Yasa (28 &rarr; 30)</td><td>Yuuki (44 &rarr; 54)</td><td>Kabalaterv</td></tr>
