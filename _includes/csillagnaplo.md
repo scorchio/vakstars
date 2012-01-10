@@ -7,6 +7,8 @@
   <th>Indoklás</th>
   </thead>
 
+  <tr><td>2012. 01. 10.</td><td>+</td><td>Chesy (2 &rarr; 4)</td><td>Yasa (34 &rarr; 44)</td><td>Kabalatervek miatt</td></tr>
+  <tr><td>2012. 01. 10.</td><td>+</td><td>Chesy (0 &rarr; 2)</td><td>Scor (58 &rarr; 68)</td><td>Kabalatervek miatt</td></tr>
   <tr><td>2012. 01. 09.</td><td>+</td><td>Scor (56 &rarr; 58)</td><td>Yasa (34 &rarr; 44)</td><td>Mert rávett, hogy jókedvűen tudjak kabalát csinálni :)</td></tr>
   <tr><td>2012. 01. 09.</td><td>+</td><td>Scor (54 &rarr; 56)</td><td>Sába (10 &rarr; 20)</td><td>Kabalaterv</td></tr>
   <tr><td>2012. 01. 09.</td><td>+</td><td>Scor (52 &rarr; 54)</td><td>Szacsi (30 &rarr; 40)</td><td>Mert jó lett a rajz, várjuk a scan-t is szeretettel ^^</td></tr>
