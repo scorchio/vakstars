@@ -7,7 +7,7 @@
   <th>Indoklás</th>
   </thead>
 
-  <tr><td>2012. 01. 10.</td><td>+</td><td>Scor (78 &rarr; 80)</td><td>Yasa (46 &rarr; 56)</td><td>Kabalatervek</td></tr>
+  <tr><td>2012. 01. 10.</td><td>+</td><td>Scor (78 &rarr; 80)</td><td>Yasa (46 &rarr; 56)</td><td>Kabalatervek, meg a rajzom letisztogatása miatt ^^</td></tr>
   <tr><td>2012. 01. 10.</td><td>+</td><td>Yasa (44 &rarr; 46)</td><td>Scor (68 &rarr; 78)</td><td>Kabalatervek</td></tr>
   <tr><td>2012. 01. 10.</td><td>+</td><td>Chesy (2 &rarr; 4)</td><td>Yasa (34 &rarr; 44)</td><td>Kabalatervek miatt</td></tr>
   <tr><td>2012. 01. 10.</td><td>+</td><td>Chesy (0 &rarr; 2)</td><td>Scor (58 &rarr; 68)</td><td>Kabalatervek miatt</td></tr>
