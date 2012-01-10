@@ -2,7 +2,7 @@
 
 Dobpergéééééééééééééééééééééés...
 
-A verseny állása 2012. január 9-én, 22:55-kor:
+A verseny állása 2012. január 10-én, 20:50-kor:
 
 1. Scor - 68
 2. Yuuki - 60
