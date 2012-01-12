@@ -1,3 +1,8 @@
+<tr><td>2011. 01. 12.</td><td>+</td><td>Scor (86 &rarr; 88)</td><td>Noira (0 &rarr; 10)</td><td>Nosztalgiameet felemlítése miatt</td></tr>
+<tr><td>2011. 01. 12.</td><td>+</td><td>Scor (84 &rarr; 86)</td><td>Chesy (4 &rarr; 14)</td><td>Kabalaterv</td></tr>
+<tr><td>2011. 01. 12.</td><td>+</td><td>Scor (82 &rarr; 84)</td><td>Yuuki (60 &rarr; 70)</td><td>Kabalaterv</td></tr>
+<tr><td>2011. 01. 12.</td><td>+</td><td>Scor (80 &rarr; 82)</td><td>Yasa (68 &rarr; 78)</td><td>Kabalaterv</td></tr>
+<tr><td>2011. 01. 10.</td><td>+</td><td>Yasa (66 &rarr; 68)</td><td>Sába (20 &rarr; 30)</td><td>Kabalaterv</td></tr>
 <tr><td>2012. 01. 10.</td><td>+</td><td>Scor (78 &rarr; 80)</td><td>Yasa (56 &rarr; 66)</td><td>Kabalatervek, meg a rajzom letisztogatása miatt ^^</td></tr>
 <tr><td>2012. 01. 10.</td><td>+</td><td>Yasa (54 &rarr; 56)</td><td>Scor (68 &rarr; 78)</td><td>Kabalatervek</td></tr>
 <tr><td>2012. 01. 10.</td><td>+</td><td>Chesy (2 &rarr; 4)</td><td>Yasa (44 &rarr; 54)</td><td>Kabalatervek miatt</td></tr>
