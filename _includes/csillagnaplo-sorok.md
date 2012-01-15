@@ -1,3 +1,4 @@
+<tr><td>2012. 01. 15.</td><td>+</td><td>Scor (90 &rarr; 92)</td><td>Zaku (34 &rarr; 44)</td><td>Kabalatervért</td></tr>
 <tr><td>2012. 01. 15.</td><td>+</td><td>Scor (88 &rarr; 90)</td><td>Aya-chan (0 &rarr; 10)</td><td>Kabalatervért</td></tr>
 <tr><td>2011. 01. 12.</td><td>+</td><td>Yasa (78 &rarr; 80)</td><td>Chesy (14 &rarr; 24)</td><td>Kabalaterv</td></tr>
 <tr><td>2011. 01. 12.</td><td>+</td><td>Scor (86 &rarr; 88)</td><td>Noira (0 &rarr; 10)</td><td>Nosztalgiameet felemlítése miatt</td></tr>
