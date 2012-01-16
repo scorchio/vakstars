@@ -1,3 +1,10 @@
+<tr><td>2012. 01. 16.</td><td>+</td><td>Szacsi (48 &rarr; 50)</td><td>Zaku (54 &rarr; 64)</td><td>Szorgalmas kabalatervek miatt</td></tr>
+<tr><td>2012. 01. 16.</td><td>+</td><td>Szacsi (46 &rarr; 48)</td><td>Aya-chan (40 &rarr; 50)</td><td>Szorgalmas kabalatervek miatt</td></tr>
+<tr><td>2012. 01. 16.</td><td>+</td><td>Szacsi (44 &rarr; 46)</td><td>Luca (24 &rarr; 34)</td><td>Szintén kabalaterv miatt</td></tr>
+<tr><td>2012. 01. 16.</td><td>+</td><td>Szacsi (42 &rarr; 44)</td><td>Yasa (84 &rarr; 94)</td><td>Szorgos kabalatervezésért</td></tr>
+<tr><td>2012. 01. 16.</td><td>+</td><td>Szacsi (40 &rarr; 42)</td><td>Scor (94 &rarr; 104)</td><td>Csillagos játék létrehozásáért</td></tr>
+<tr><td>2012. 01. 16.</td><td>+</td><td>Luca (22 &rarr; 24)</td><td>Zaku (44 &rarr; 54)</td><td>Kabalaterv</td></tr>
+<tr><td>2012. 01. 16.</td><td>+</td><td>Luca (20 &rarr; 22)</td><td>Aya-chan (30 &rarr; 40)</td><td>Kabalaterv</td></tr>
 <tr><td>2012. 01. 16.</td><td>+</td><td>Scor (92 &rarr; 94)</td><td>Luca (10 &rarr; 20)</td><td>Kabalaterv</td></tr>
 <tr><td>2012. 01. 16.</td><td>+</td><td>Yasa (82 &rarr; 84)</td><td>Aya-chan (20 &rarr; 30)</td><td>Kabalaterv</td></tr>
 <tr><td>2012. 01. 16.</td><td>+</td><td>Yasa (80 &rarr; 82)</td><td>Luca (0 &rarr; 10)</td><td>Kabalaterv</td></tr>
