@@ -1,3 +1,6 @@
+<tr><td>2012. 01. 19.</td><td>+</td><td>Scor (106 &rarr; 108)</td><td>Zaku (66 &rarr; 76)</td><td>Kabalatervért</td></tr>
+<tr><td>2012. 01. 19.</td><td>+</td><td>Scor (104 &rarr; 106)</td><td>Szacsi (50 &rarr; 60)</td><td>Mert elkezdett AMV készítéssel foglalkozni.</td></tr>
+<tr><td>2012. 01. 19.</td><td>+</td><td>Zaku (64 &rarr; 66)</td><td>Yuuki (70 &rarr; 80)</td><td>nagyon sokat segitett az eddigi kabalatervekben, sok ihletet adott</td></tr>
 <tr><td>2012. 01. 16.</td><td>+</td><td>Szacsi (48 &rarr; 50)</td><td>Zaku (54 &rarr; 64)</td><td>Szorgalmas kabalatervek miatt</td></tr>
 <tr><td>2012. 01. 16.</td><td>+</td><td>Szacsi (46 &rarr; 48)</td><td>Aya-chan (40 &rarr; 50)</td><td>Szorgalmas kabalatervek miatt</td></tr>
 <tr><td>2012. 01. 16.</td><td>+</td><td>Szacsi (44 &rarr; 46)</td><td>Luca (24 &rarr; 34)</td><td>Szintén kabalaterv miatt</td></tr>
