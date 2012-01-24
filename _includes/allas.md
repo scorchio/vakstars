@@ -2,6 +2,6 @@
 
 Dobpergéééééééééééééééééééééés...
 
-A verseny állása 2012. január 19-én, 19:21-kor:
+A verseny állása 2012. január 24-én, 22:51-kor:
 
 {% include allas-sorok.md %}
