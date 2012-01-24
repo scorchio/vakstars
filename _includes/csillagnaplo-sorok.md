@@ -1,3 +1,8 @@
+<tr><td>2012. 01. 24.</td><td>+</td><td>Scor (110 &rarr; 112)</td><td>Yasa (98 &rarr; 108)</td><td>Szorgos előadás-tervezgetésért</td></tr>
+<tr><td>2012. 01. 24.</td><td>+</td><td>Yasa (96 &rarr; 98)</td><td>Gaara (12 &rarr; 22)</td><td>Meet helyszínéért</td></tr>
+<tr><td>2012. 01. 24.</td><td>+</td><td>Scor (108 &rarr; 110)</td><td>Gaara (2 &rarr; 12)</td><td>Mert jó házigazdánk volt az előző meeten</td></tr>
+<tr><td>2012. 01. 24.</td><td>+</td><td>Yasa (94 &rarr; 96)</td><td>Szacsi (70 &rarr; 80)</td><td>AMV-készítés</td></tr>
+<tr><td>2012. 01. 24.</td><td>+</td><td>Gaara (0 &rarr; 2)</td><td>Szacsi (60 &rarr; 70)</td><td>AMV-készítés</td></tr>
 <tr><td>2012. 01. 19.</td><td>+</td><td>Scor (106 &rarr; 108)</td><td>Zaku (66 &rarr; 76)</td><td>Kabalatervért</td></tr>
 <tr><td>2012. 01. 19.</td><td>+</td><td>Scor (104 &rarr; 106)</td><td>Szacsi (50 &rarr; 60)</td><td>Mert elkezdett AMV készítéssel foglalkozni.</td></tr>
 <tr><td>2012. 01. 19.</td><td>+</td><td>Zaku (64 &rarr; 66)</td><td>Yuuki (70 &rarr; 80)</td><td>nagyon sokat segitett az eddigi kabalatervekben, sok ihletet adott</td></tr>
