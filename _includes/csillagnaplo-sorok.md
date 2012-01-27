@@ -1,3 +1,7 @@
+<tr><td>2012. 01. 27.</td><td>+</td><td>Szacsi (86 &rarr; 88)</td><td>Scor (114 &rarr; 124)</td><td>Boro leszervezéséért</td></tr>
+<tr><td>2012. 01. 27.</td><td>+</td><td>Szacsi (84 &rarr; 86)</td><td>Gaara (22 &rarr; 32)</td><td>Mert előző meeten fogadott minket</td></tr>
+<tr><td>2012. 01. 27.</td><td>+</td><td>Szacsi (82 &rarr; 84)</td><td>Zaku (76 &rarr; 86)</td><td>Zenei készülődésért, újdonságokért</td></tr>
+<tr><td>2012. 01. 27.</td><td>+</td><td>Szacsi (80 &rarr; 82)</td><td>Yasa (118 &rarr; 128)</td><td>Szorgos munkáért, szervezkedésért, rajzok letisztításáért, asszisztenskedésért</td></tr>
 <tr><td>2012. 01. 27.</td><td>+</td><td>Scor (112 &rarr; 114)</td><td>Yasa (108 &rarr; 118)</td><td>Naptár feltöltéséért és a szkennelésekért</td></tr>
 <tr><td>2012. 01. 24.</td><td>+</td><td>Scor (110 &rarr; 112)</td><td>Yasa (98 &rarr; 108)</td><td>Szorgos előadás-tervezgetésért</td></tr>
 <tr><td>2012. 01. 24.</td><td>+</td><td>Yasa (96 &rarr; 98)</td><td>Gaara (12 &rarr; 22)</td><td>Meet helyszínéért</td></tr>
