@@ -1,3 +1,6 @@
+<tr><td>2012. 01. 27.</td><td>+</td><td>Yasa (140 &rarr; 142)</td><td>Szacsi (88 &rarr; 98)</td><td>Sulis előadásért</td></tr>
+<tr><td>2012. 01. 27.</td><td>+</td><td>Yasa (138 &rarr; 140)</td><td>Zaku (88 &rarr; 98)</td><td>Előadásos aktívkodásért</td></tr>
+<tr><td>2012. 01. 27.</td><td>+</td><td>Zaku (86 &rarr; 88)</td><td>Yasa (128 &rarr; 138)</td><td>Rajzok szorgos szkennelése, tisztogatása és a sok segítség miatt</td></tr>
 <tr><td>2012. 01. 27.</td><td>+</td><td>Szacsi (86 &rarr; 88)</td><td>Scor (114 &rarr; 124)</td><td>Boro leszervezéséért</td></tr>
 <tr><td>2012. 01. 27.</td><td>+</td><td>Szacsi (84 &rarr; 86)</td><td>Gaara (22 &rarr; 32)</td><td>Mert előző meeten fogadott minket</td></tr>
 <tr><td>2012. 01. 27.</td><td>+</td><td>Szacsi (82 &rarr; 84)</td><td>Zaku (76 &rarr; 86)</td><td>Zenei készülődésért, újdonságokért</td></tr>
