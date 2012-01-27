@@ -1,3 +1,4 @@
+<tr><td>2012. 01. 27.</td><td>+</td><td>Scor (112 &rarr; 114)</td><td>Yasa (108 &rarr; 118)</td><td>Naptár feltöltéséért és a szkennelésekért</td></tr>
 <tr><td>2012. 01. 24.</td><td>+</td><td>Scor (110 &rarr; 112)</td><td>Yasa (98 &rarr; 108)</td><td>Szorgos előadás-tervezgetésért</td></tr>
 <tr><td>2012. 01. 24.</td><td>+</td><td>Yasa (96 &rarr; 98)</td><td>Gaara (12 &rarr; 22)</td><td>Meet helyszínéért</td></tr>
 <tr><td>2012. 01. 24.</td><td>+</td><td>Scor (108 &rarr; 110)</td><td>Gaara (2 &rarr; 12)</td><td>Mert jó házigazdánk volt az előző meeten</td></tr>
