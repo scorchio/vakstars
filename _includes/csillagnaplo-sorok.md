@@ -1,3 +1,4 @@
+<tr><td>2012. 01. 28.</td><td>+</td><td>Zaku (98 &rarr; 100)</td><td>Yuuki (80 &rarr; 90)</td><td>Mert rengeteget segít az előadásra való felkészülésben</td></tr>
 <tr><td>2012. 01. 27.</td><td>+</td><td>Yasa (142 &rarr; 144)</td><td>Scor (124 &rarr; 134)</td><td>Boro leszervezősdi</td></tr>
 <tr><td>2012. 01. 27.</td><td>+</td><td>Yasa (140 &rarr; 142)</td><td>Szacsi (88 &rarr; 98)</td><td>Sulis előadásért</td></tr>
 <tr><td>2012. 01. 27.</td><td>+</td><td>Yasa (138 &rarr; 140)</td><td>Zaku (88 &rarr; 98)</td><td>Előadásos aktívkodásért</td></tr>
