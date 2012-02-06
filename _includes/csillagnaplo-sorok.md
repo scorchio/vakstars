@@ -1,3 +1,5 @@
+<tr><td>2012. 01. 20.</td><td>+</td><td>Yasa (182 &rarr; 184)</td><td>Scor (168 &rarr; 178)</td><td>sok klubos teendő munka mellett</td></tr>
+<tr><td>2012. 01. 26.</td><td>+</td><td>Yasa (180 &rarr; 182)</td><td>Zaku (130 &rarr; 140)</td><td>Meet helyszín felajánlásáért</td></tr>
 <tr><td>2012. 02. 06.</td><td>+</td><td>Szacsi (120 &rarr; 122)</td><td>Yasa (170 &rarr; 180)</td><td>Gyors és hatékony előadás kidolgozásért</td></tr>
 <tr><td>2012. 02. 06.</td><td>+</td><td>Szacsi (118 &rarr; 120)</td><td>Zaku (120 &rarr; 130)</td><td>Házigazdaságért</td></tr>
 <tr><td>2012. 02. 06.</td><td>+</td><td>Scor (166 &rarr; 168)</td><td>Chesy (36 &rarr; 46)</td><td>Közös előadástervezés</td></tr>
