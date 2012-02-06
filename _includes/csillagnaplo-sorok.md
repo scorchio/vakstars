@@ -1,3 +1,20 @@
+<tr><td>2012. 02. 06.</td><td>+</td><td>Szacsi (120 &rarr; 122)</td><td>Yasa (170 &rarr; 180)</td><td>Gyors és hatékony előadás kidolgozásért</td></tr>
+<tr><td>2012. 02. 06.</td><td>+</td><td>Szacsi (118 &rarr; 120)</td><td>Zaku (120 &rarr; 130)</td><td>Házigazdaságért</td></tr>
+<tr><td>2012. 02. 06.</td><td>+</td><td>Scor (166 &rarr; 168)</td><td>Chesy (36 &rarr; 46)</td><td>Közös előadástervezés</td></tr>
+<tr><td>2012. 02. 06.</td><td>+</td><td>Scor (164 &rarr; 166)</td><td>Gaara (42 &rarr; 52)</td><td>Közös előadástervezés</td></tr>
+<tr><td>2012. 02. 06.</td><td>+</td><td>Scor (162 &rarr; 164)</td><td>Yoru (56 &rarr; 66)</td><td>Közös előadástervezés</td></tr>
+<tr><td>2012. 02. 06.</td><td>+</td><td>Scor (160 &rarr; 162)</td><td>Yuuki (100 &rarr; 110)</td><td>Közös előadástervezés</td></tr>
+<tr><td>2012. 02. 06.</td><td>+</td><td>Scor (158 &rarr; 160)</td><td>Zaku (110 &rarr; 120)</td><td>Közös előadástervezés</td></tr>
+<tr><td>2012. 02. 06.</td><td>+</td><td>Scor (156 &rarr; 158)</td><td>Szacsi (108 &rarr; 118)</td><td>Közös előadástervezés</td></tr>
+<tr><td>2012. 02. 06.</td><td>+</td><td>Scor (154 &rarr; 156)</td><td>Yasa (160 &rarr; 170)</td><td>Közös előadástervezés</td></tr>
+<tr><td>2012. 02. 06.</td><td>+</td><td>Yasa (158 &rarr; 160)</td><td>Scor (144 &rarr; 154)</td><td>Közös előadástervezés</td></tr>
+<tr><td>2012. 02. 06.</td><td>+</td><td>Yasa (156 &rarr; 158)</td><td>Chesy (26 &rarr; 36)</td><td>Közös előadástervezés</td></tr>
+<tr><td>2012. 02. 06.</td><td>+</td><td>Yasa (154 &rarr; 156)</td><td>Gaara (32 &rarr; 42)</td><td>Közös előadástervezés</td></tr>
+<tr><td>2012. 02. 06.</td><td>+</td><td>Yasa (152 &rarr; 154)</td><td>Yoru (46 &rarr; 56)</td><td>Közös előadástervezés</td></tr>
+<tr><td>2012. 02. 06.</td><td>+</td><td>Yasa (150 &rarr; 152)</td><td>Yuuki (90 &rarr; 100)</td><td>Közös előadástervezés</td></tr>
+<tr><td>2012. 02. 06.</td><td>+</td><td>Yasa (148 &rarr; 150)</td><td>Zaku (100 &rarr; 110)</td><td>Közös előadástervezés</td></tr>
+<tr><td>2012. 02. 06.</td><td>+</td><td>Yasa (146 &rarr; 148)</td><td>Szacsi (98 &rarr; 108)</td><td>Közös előadástervezés</td></tr>
+<tr><td>2012. 01. 30.</td><td>+</td><td>Yasa (144 &rarr; 146)</td><td>Scor (134 &rarr; 144)</td><td>Kutatómunka miatt</td></tr>
 <tr><td>2012. 01. 28.</td><td>+</td><td>Zaku (98 &rarr; 100)</td><td>Yuuki (80 &rarr; 90)</td><td>Mert rengeteget segít az előadásra való felkészülésben</td></tr>
 <tr><td>2012. 01. 27.</td><td>+</td><td>Yasa (142 &rarr; 144)</td><td>Scor (124 &rarr; 134)</td><td>Boro leszervezősdi</td></tr>
 <tr><td>2012. 01. 27.</td><td>+</td><td>Yasa (140 &rarr; 142)</td><td>Szacsi (88 &rarr; 98)</td><td>Sulis előadásért</td></tr>
