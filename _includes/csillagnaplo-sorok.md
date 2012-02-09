@@ -1,3 +1,4 @@
+<tr><td>2012. 02. 09.</td><td>+</td><td>Scor (178 &rarr; 180)</td><td>Gaara (52 &rarr; 62)</td><td>Merjófej.</td></tr>
 <tr><td>2012. 01. 20.</td><td>+</td><td>Yasa (182 &rarr; 184)</td><td>Scor (168 &rarr; 178)</td><td>sok klubos teendő munka mellett</td></tr>
 <tr><td>2012. 01. 26.</td><td>+</td><td>Yasa (180 &rarr; 182)</td><td>Zaku (130 &rarr; 140)</td><td>Meet helyszín felajánlásáért</td></tr>
 <tr><td>2012. 02. 06.</td><td>+</td><td>Szacsi (120 &rarr; 122)</td><td>Yasa (170 &rarr; 180)</td><td>Gyors és hatékony előadás kidolgozásért</td></tr>
