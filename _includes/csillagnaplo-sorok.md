@@ -1,3 +1,23 @@
+<tr><td>2012. 02. 18.</td><td>+</td><td>Scor (212 &rarr; 214)</td><td>Gaara (72 &rarr; 82)</td><td>Előadás-küldetés teljesítve ;)</td></tr>
+<tr><td>2012. 02. 18.</td><td>+</td><td>Scor (210 &rarr; 212)</td><td>Yoru (86 &rarr; 96)</td><td>Előadás-küldetés teljesítve ;)</td></tr>
+<tr><td>2012. 02. 18.</td><td>+</td><td>Scor (208 &rarr; 210)</td><td>Zaku (160 &rarr; 170)</td><td>Előadás-küldetés teljesítve ;)</td></tr>
+<tr><td>2012. 02. 18.</td><td>+</td><td>Scor (206 &rarr; 208)</td><td>Yuuki (130 &rarr; 140)</td><td>Előadás-küldetés teljesítve ;)</td></tr>
+<tr><td>2012. 02. 18.</td><td>+</td><td>Scor (204 &rarr; 206)</td><td>Szacsi (142 &rarr; 152)</td><td>Előadás-küldetés teljesítve ;)</td></tr>
+<tr><td>2012. 02. 18.</td><td>+</td><td>Scor (202 &rarr; 204)</td><td>Chesy (56 &rarr; 66)</td><td>Előadás-küldetés teljesítve ;)</td></tr>
+<tr><td>2012. 02. 18.</td><td>+</td><td>Scor (200 &rarr; 202)</td><td>Yasa (210 &rarr; 220)</td><td>Előadás-küldetés teljesítve ;)</td></tr>
+<tr><td>2012. 02. 18.</td><td>+</td><td>Yasa (208 &rarr; 210)</td><td>Luca (34 &rarr; 44)</td><td>Előadás szervezés, besegítés</td></tr>
+<tr><td>2012. 02. 18.</td><td>+</td><td>Yasa (206 &rarr; 208)</td><td>Gaara (62 &rarr; 72)</td><td>Előadás szervezés, besegítés</td></tr>
+<tr><td>2012. 02. 18.</td><td>+</td><td>Yasa (204 &rarr; 206)</td><td>Yoru (76 &rarr; 86)</td><td>Előadás szervezés, besegítés</td></tr>
+<tr><td>2012. 02. 18.</td><td>+</td><td>Yasa (202 &rarr; 204)</td><td>Zaku (150 &rarr; 160)</td><td>Előadás szervezés, besegítés</td></tr>
+<tr><td>2012. 02. 18.</td><td>+</td><td>Yasa (200 &rarr; 202)</td><td>Yuuki (120 &rarr; 130)</td><td>Előadás szervezés, besegítés</td></tr>
+<tr><td>2012. 02. 18.</td><td>+</td><td>Yasa (198 &rarr; 200)</td><td>Scor (190 &rarr; 200)</td><td>Előadás szervezés, besegítés</td></tr>
+<tr><td>2012. 02. 18.</td><td>+</td><td>Yasa (196 &rarr; 198)</td><td>Szacsi (132 &rarr; 142)</td><td>Előadás szervezés, besegítés</td></tr>
+<tr><td>2012. 02. 18.</td><td>+</td><td>Yasa (194 &rarr; 196)</td><td>Chesy (46 &rarr; 56)</td><td>Előadás szervezés, besegítés</td></tr>
+<tr><td>2012. 02. 18.</td><td>+</td><td>Szacsi (130 &rarr; 132)</td><td>Yoru (66 &rarr; 76)</td><td>Mert segédkezett az előadásban</td></tr>
+<tr><td>2012. 02. 18.</td><td>+</td><td>Szacsi (128 &rarr; 130)</td><td>Zaku (140 &rarr; 150)</td><td>Teljes elismerés, hogy egyedül helyt állt, ügyesen adta elő az előadását</td></tr>
+<tr><td>2012. 02. 18.</td><td>+</td><td>Szacsi (126 &rarr; 128)</td><td>Yuuki (110 &rarr; 120)</td><td>Kemény munkáért, segítségért, workshopért</td></tr>
+<tr><td>2012. 02. 18.</td><td>+</td><td>Szacsi (124 &rarr; 126)</td><td>Scor (180 &rarr; 190)</td><td>Előadásért, szervezésért, szórólapokért</td></tr>
+<tr><td>2012. 02. 18.</td><td>+</td><td>Szacsi (122 &rarr; 124)</td><td>Yasa (184 &rarr; 194)</td><td>Előadásért, kemény munkáért</td></tr>
 <tr><td>2012. 02. 09.</td><td>+</td><td>Scor (178 &rarr; 180)</td><td>Gaara (52 &rarr; 62)</td><td>Merjófej.</td></tr>
 <tr><td>2012. 01. 20.</td><td>+</td><td>Yasa (182 &rarr; 184)</td><td>Scor (168 &rarr; 178)</td><td>sok klubos teendő munka mellett</td></tr>
 <tr><td>2012. 01. 26.</td><td>+</td><td>Yasa (180 &rarr; 182)</td><td>Zaku (130 &rarr; 140)</td><td>Meet helyszín felajánlásáért</td></tr>
