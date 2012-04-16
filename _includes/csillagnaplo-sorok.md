@@ -1,3 +1,19 @@
+<tr><td>2012. 04. 16.</td><td>+</td><td>Zaku (186 &rarr; 188)</td><td>Yasa (242 &rarr; 252)</td><td>Aktív klubos tevékenységéért</td></tr>
+<tr><td>2012. 04. 16.</td><td>+</td><td>Zaku (184 &rarr; 186)</td><td>Gaara (92 &rarr; 102)</td><td>Poszter miatt</td></tr>
+<tr><td>2012. 04. 16.</td><td>+</td><td>Zaku (182 &rarr; 184)</td><td>Yoru (108 &rarr; 118)</td><td>A jó hangulat és a felejthetetlen percek miatt, vásárlásban való segítségért</td></tr>
+<tr><td>2012. 04. 16.</td><td>+</td><td>Zaku (180 &rarr; 182)</td><td>Yuuki (150 &rarr; 160)</td><td>A jó hangulat és a felejthetetlen percek miatt, vásárlásban való segítségért</td></tr>
+<tr><td>2012. 04. 16.</td><td>+</td><td>Yoru (106 &rarr; 108)</td><td>Szacsi (162 &rarr; 172)</td><td>Szombaton nyújtott segítségért cosplay téren</td></tr>
+<tr><td>2012. 04. 16.</td><td>+</td><td>Yasa (240 &rarr; 242)</td><td>Renátó (0 &rarr; 10)</td><td>Mert egész sűrűn voltak meeten mostanában</td></tr>
+<tr><td>2012. 04. 16.</td><td>+</td><td>Yasa (238 &rarr; 240)</td><td>Zsolti (0 &rarr; 10)</td><td>Mert egész sűrűn voltak meeten mostanában</td></tr>
+<tr><td>2012. 04. 16.</td><td>+</td><td>Yasa (236 &rarr; 238)</td><td>Dóri (0 &rarr; 10)</td><td>Újonc lelkesedés miatt</td></tr>
+<tr><td>2012. 04. 16.</td><td>+</td><td>Yasa (234 &rarr; 236)</td><td>Rizi (0 &rarr; 10)</td><td>Újonc lelkesedés miatt</td></tr>
+<tr><td>2012. 04. 16.</td><td>+</td><td>Yasa (232 &rarr; 234)</td><td>Gaara (82 &rarr; 92)</td><td>Flashmob-on való részvételért</td></tr>
+<tr><td>2012. 04. 16.</td><td>+</td><td>Yasa (230 &rarr; 232)</td><td>Scor (214 &rarr; 224)</td><td>Flashmob-on való részvételért</td></tr>
+<tr><td>2012. 04. 16.</td><td>+</td><td>Yasa (228 &rarr; 230)</td><td>Chesy (66 &rarr; 76)</td><td>Flashmob-on való részvételért</td></tr>
+<tr><td>2012. 04. 16.</td><td>+</td><td>Yasa (226 &rarr; 228)</td><td>Szacsi (152 &rarr; 162)</td><td>Flashmob-on való részvételért</td></tr>
+<tr><td>2012. 04. 16.</td><td>+</td><td>Yasa (224 &rarr; 226)</td><td>Zaku (170 &rarr; 180)</td><td>Flashmob-on való részvételért</td></tr>
+<tr><td>2012. 04. 16.</td><td>+</td><td>Yasa (222 &rarr; 224)</td><td>Yuuki (140 &rarr; 150)</td><td>Flashmob-on való részvételért</td></tr>
+<tr><td>2012. 04. 16.</td><td>+</td><td>Yasa (220 &rarr; 222)</td><td>Yoru (96 &rarr; 106)</td><td>Flashmob-on való részvételért</td></tr>
 <tr><td>2012. 02. 18.</td><td>+</td><td>Scor (212 &rarr; 214)</td><td>Gaara (72 &rarr; 82)</td><td>Előadás-küldetés teljesítve ;)</td></tr>
 <tr><td>2012. 02. 18.</td><td>+</td><td>Scor (210 &rarr; 212)</td><td>Yoru (86 &rarr; 96)</td><td>Előadás-küldetés teljesítve ;)</td></tr>
 <tr><td>2012. 02. 18.</td><td>+</td><td>Scor (208 &rarr; 210)</td><td>Zaku (160 &rarr; 170)</td><td>Előadás-küldetés teljesítve ;)</td></tr>
