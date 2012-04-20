@@ -1,3 +1,18 @@
+<tr><td>2012. 04. 20.</td><td>+</td><td>Scor (246 &rarr; 248)</td><td>Szacsi (172 &rarr; 182)</td><td>IRC-n való jelenlétért (többiek is kapnak, ha meg tudják oldani...)</td></tr>
+<tr><td>2012. 04. 20.</td><td>+</td><td>Scor (244 &rarr; 246)</td><td>Luca (44 &rarr; 54)</td><td>IRC-n való jelenlétért (többiek is kapnak, ha meg tudják oldani...)</td></tr>
+<tr><td>2012. 04. 20.</td><td>+</td><td>Scor (242 &rarr; 244)</td><td>Yoru (118 &rarr; 128)</td><td>IRC-n való jelenlétért (többiek is kapnak, ha meg tudják oldani...)</td></tr>
+<tr><td>2012. 04. 20.</td><td>+</td><td>Scor (240 &rarr; 242)</td><td>Zaku (208 &rarr; 218)</td><td>IRC-n való jelenlétért (többiek is kapnak, ha meg tudják oldani...)</td></tr>
+<tr><td>2012. 04. 20.</td><td>+</td><td>Scor (238 &rarr; 240)</td><td>Rizi (30 &rarr; 40)</td><td>IRC-n való jelenlétért (többiek is kapnak, ha meg tudják oldani...)</td></tr>
+<tr><td>2012. 04. 20.</td><td>+</td><td>Scor (236 &rarr; 238)</td><td>Dóri (10 &rarr; 20)</td><td>IRC-n való jelenlétért (többiek is kapnak, ha meg tudják oldani...)</td></tr>
+<tr><td>2012. 04. 20.</td><td>+</td><td>Scor (234 &rarr; 236)</td><td>Renátó (10 &rarr; 20)</td><td>IRC-n való jelenlétért (többiek is kapnak, ha meg tudják oldani...)</td></tr>
+<tr><td>2012. 04. 20.</td><td>+</td><td>Scor (232 &rarr; 234)</td><td>Yasa (268 &rarr; 278)</td><td>IRC-n való jelenlétért (többiek is kapnak, ha meg tudják oldani...)</td></tr>
+<tr><td>2012. 04. 20.</td><td>+</td><td>Scor (230 &rarr; 232)</td><td>Yasa (258 &rarr; 268)</td><td>Supercell-es kutakodásért ++ ++ ++ :3</td></tr>
+<tr><td>2012. 04. 20.</td><td>+</td><td>Scor (228 &rarr; 230)</td><td>Yuuki (170 &rarr; 180)</td><td>Cikkírásért</td></tr>
+<tr><td>2012. 04. 20.</td><td>+</td><td>Scor (226 &rarr; 228)</td><td>Zaku (198 &rarr; 208)</td><td>Cikkírásért</td></tr>
+<tr><td>2012. 04. 20.</td><td>+</td><td>Yasa (256 &rarr; 258)</td><td>Yuuki (160 &rarr; 170)</td><td>Cikkírásért</td></tr>
+<tr><td>2012. 04. 20.</td><td>+</td><td>Yasa (254 &rarr; 256)</td><td>Rizi (20 &rarr; 30)</td><td>Cikkírásért</td></tr>
+<tr><td>2012. 04. 20.</td><td>+</td><td>Yasa (252 &rarr; 254)</td><td>Zaku (188 &rarr; 198)</td><td>Cikkírásért</td></tr>
+<tr><td>2012. 04. 20.</td><td>+</td><td>Scor (224 &rarr; 226)</td><td>Rizi (10 &rarr; 20)</td><td>Cikkírásért</td></tr>
 <tr><td>2012. 04. 16.</td><td>+</td><td>Zaku (186 &rarr; 188)</td><td>Yasa (242 &rarr; 252)</td><td>Aktív klubos tevékenységéért</td></tr>
 <tr><td>2012. 04. 16.</td><td>+</td><td>Zaku (184 &rarr; 186)</td><td>Gaara (92 &rarr; 102)</td><td>Poszter miatt</td></tr>
 <tr><td>2012. 04. 16.</td><td>+</td><td>Zaku (182 &rarr; 184)</td><td>Yoru (108 &rarr; 118)</td><td>A jó hangulat és a felejthetetlen percek miatt, vásárlásban való segítségért</td></tr>
