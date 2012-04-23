@@ -1,5 +1,5 @@
-1. Yasa - 278
-2. Scor - 258
+1. Yasa - 288
+2. Scor - 260
 3. Zaku - 228
 4. Szacsi - 182
 5. Yuuki - 180

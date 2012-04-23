@@ -1,3 +1,4 @@
+<tr><td>2012. 04. 23.</td><td>+</td><td>Scor (258 &rarr; 260)</td><td>Yasa (278 &rarr; 288)</td><td>IRC-s cikkért ^^</td></tr>
 <tr><td>2012. 04. 21.</td><td>+</td><td>Gaara (104 &rarr; 106)</td><td>Scor (248 &rarr; 258)</td><td>Mert jó kocka [scor: ezen szakadtam xD ]</td></tr>
 <tr><td>2012. 04. 21.</td><td>+</td><td>Gaara (102 &rarr; 104)</td><td>Zaku (218 &rarr; 228)</td><td>Mert jó fej</td></tr>
 <tr><td>2012. 04. 20.</td><td>+</td><td>Scor (246 &rarr; 248)</td><td>Szacsi (172 &rarr; 182)</td><td>IRC-n való jelenlétért (többiek is kapnak, ha meg tudják oldani...)</td></tr>
