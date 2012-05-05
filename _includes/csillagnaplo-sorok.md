@@ -1,3 +1,20 @@
+<tr><td>2012. 05. 05.</td><td>+</td><td>Zaku (260 &rarr; 262)</td><td>Gaara (106 &rarr; 116)</td><td>Mondo-s poszterért</td></tr>
+<tr><td>2012. 05. 05.</td><td>+</td><td>Zaku (258 &rarr; 260)</td><td>Yasa (298 &rarr; 308)</td><td>Sok-sok IRC-es segítségért</td></tr>
+<tr><td>2012. 05. 05.</td><td>+</td><td>Zaku (256 &rarr; 258)</td><td>Yasa (288 &rarr; 298)</td><td>Kiemelkedő klubos aktivitásért</td></tr>
+<tr><td>2012. 05. 05.</td><td>+</td><td>Zaku (254 &rarr; 256)</td><td>Scor (270 &rarr; 280)</td><td>A kitartásáért és odaadó munkájáért</td></tr>
+<tr><td>2012. 05. 05.</td><td>+</td><td>Zaku (252 &rarr; 254)</td><td>Scor (260 &rarr; 270)</td><td>A sok-sok mangáért</td></tr>
+<tr><td>2012. 05. 05.</td><td>+</td><td>Zaku (250 &rarr; 252)</td><td>Yuuki (200 &rarr; 210)</td><td>A felejthetetlen sushizásért</td></tr>
+<tr><td>2012. 05. 05.</td><td>+</td><td>Zaku (248 &rarr; 250)</td><td>Yoru (138 &rarr; 148)</td><td>A felejthetetlen sushizásért</td></tr>
+<tr><td>2012. 05. 05.</td><td>+</td><td>Zaku (246 &rarr; 248)</td><td>Rizi (60 &rarr; 70)</td><td>A felejthetetlen sushizásért</td></tr>
+<tr><td>2012. 05. 05.</td><td>+</td><td>Zaku (244 &rarr; 246)</td><td>Nadine (10 &rarr; 20)</td><td>Segítség a szülinapi buliban</td></tr>
+<tr><td>2012. 05. 05.</td><td>+</td><td>Zaku (242 &rarr; 244)</td><td>takarítónéni (0 &rarr; 10)</td><td>Mert jófej</td></tr>
+<tr><td>2012. 05. 05.</td><td>+</td><td>Zaku (240 &rarr; 242)</td><td>Yuuki (190 &rarr; 200)</td><td>Szülinapi bulin való részvétel</td></tr>
+<tr><td>2012. 05. 05.</td><td>+</td><td>Zaku (238 &rarr; 240)</td><td>Yoru (128 &rarr; 138)</td><td>Szülinapi bulin való részvétel</td></tr>
+<tr><td>2012. 05. 05.</td><td>+</td><td>Zaku (236 &rarr; 238)</td><td>Timi (0 &rarr; 10)</td><td>Szülinapi bulin való részvétel</td></tr>
+<tr><td>2012. 05. 05.</td><td>+</td><td>Zaku (234 &rarr; 236)</td><td>Nadine (0 &rarr; 10)</td><td>Szülinapi bulin való részvétel</td></tr>
+<tr><td>2012. 05. 05.</td><td>+</td><td>Zaku (232 &rarr; 234)</td><td>Rizi (50 &rarr; 60)</td><td>Szülinapi bulin való részvétel</td></tr>
+<tr><td>2012. 05. 05.</td><td>+</td><td>Zaku (230 &rarr; 232)</td><td>Rizi (40 &rarr; 50)</td><td>Nekomimi rendelésért (nagyon jól jött a meló)</td></tr>
+<tr><td>2012. 05. 05.</td><td>+</td><td>Zaku (228 &rarr; 230)</td><td>Yuuki (180 &rarr; 190)</td><td>Az életmentő csokikért</td></tr>
 <tr><td>2012. 04. 23.</td><td>+</td><td>Scor (258 &rarr; 260)</td><td>Yasa (278 &rarr; 288)</td><td>IRC-s cikkért ^^</td></tr>
 <tr><td>2012. 04. 21.</td><td>+</td><td>Gaara (104 &rarr; 106)</td><td>Scor (248 &rarr; 258)</td><td>Mert jó kocka [scor: ezen szakadtam xD ]</td></tr>
 <tr><td>2012. 04. 21.</td><td>+</td><td>Gaara (102 &rarr; 104)</td><td>Zaku (218 &rarr; 228)</td><td>Mert jó fej</td></tr>
