@@ -1,3 +1,15 @@
+<tr><td>2012. 05. 05</td><td>+</td><td>Yuuki (232 &rarr; 234)</td><td>Yasa (308 &rarr; 318)</td><td>IRC cikk</td></tr>
+<tr><td>2012. 05. 05</td><td>+</td><td>Yuuki (230 &rarr; 232)</td><td>Scor (280 &rarr; 290)</td><td>Manga~</td></tr>
+<tr><td>2012. 05. 05</td><td>+</td><td>Yuuki (228 &rarr; 230)</td><td>Rizi (80 &rarr; 90)</td><td>Takebayashi ostromáért~ x3</td></tr>
+<tr><td>2012. 05. 05</td><td>+</td><td>Yuuki (226 &rarr; 228)</td><td>Yoru (158 &rarr; 168)</td><td>Takebayashi ostromáért~ x3</td></tr>
+<tr><td>2012. 05. 05</td><td>+</td><td>Yuuki (224 &rarr; 226)</td><td>Zaku (282 &rarr; 292)</td><td>Takebayashi ostromáért~ x3</td></tr>
+<tr><td>2012. 05. 05</td><td>+</td><td>Yuuki (222 &rarr; 224)</td><td>Zaku (272 &rarr; 282)</td><td>Születésnapi buli szervezéséért</td></tr>
+<tr><td>2012. 05. 05</td><td>+</td><td>Yuuki (220 &rarr; 222)</td><td>Rizi (70 &rarr; 80)</td><td>Születésnapi bulin való részvételért</td></tr>
+<tr><td>2012. 05. 05</td><td>+</td><td>Yuuki (218 &rarr; 220)</td><td>Vanessa (0 &rarr; 10)</td><td>Születésnapi bulin való részvételért</td></tr>
+<tr><td>2012. 05. 05</td><td>+</td><td>Yuuki (216 &rarr; 218)</td><td>Yoru (148 &rarr; 158)</td><td>Születésnapi bulin való részvételért</td></tr>
+<tr><td>2012. 05. 05</td><td>+</td><td>Yuuki (214 &rarr; 216)</td><td>Timi (10 &rarr; 20)</td><td>Születésnapi bulin való részvételért</td></tr>
+<tr><td>2012. 05. 05</td><td>+</td><td>Yuuki (212 &rarr; 214)</td><td>Nadine (20 &rarr; 30)</td><td>Születésnapi bulin való részvételért</td></tr>
+<tr><td>2012. 05. 05</td><td>+</td><td>Yuuki (210 &rarr; 212)</td><td>Zaku (262 &rarr; 272)</td><td>Születésnapi bulin való részvételért</td></tr>
 <tr><td>2012. 05. 05.</td><td>+</td><td>Zaku (260 &rarr; 262)</td><td>Gaara (106 &rarr; 116)</td><td>Mondo-s poszterért</td></tr>
 <tr><td>2012. 05. 05.</td><td>+</td><td>Zaku (258 &rarr; 260)</td><td>Yasa (298 &rarr; 308)</td><td>Sok-sok IRC-es segítségért</td></tr>
 <tr><td>2012. 05. 05.</td><td>+</td><td>Zaku (256 &rarr; 258)</td><td>Yasa (288 &rarr; 298)</td><td>Kiemelkedő klubos aktivitásért</td></tr>
