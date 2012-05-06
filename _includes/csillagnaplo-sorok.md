@@ -1,3 +1,13 @@
+<tr><td>2012. 05. 06.</td><td>+</td><td>Scor (304 &rarr; 306)</td><td>Luca (54 &rarr; 64)</td><td>Con-os rajzverseny eredményért</td></tr>
+<tr><td>2012. 05. 06.</td><td>+</td><td>Scor (302 &rarr; 304)</td><td>Yoru (178 &rarr; 188)</td><td>Azért, mert résztvettetek a beszélgetésben FB-n</td></tr>
+<tr><td>2012. 05. 06.</td><td>+</td><td>Scor (300 &rarr; 302)</td><td>Daniella (0 &rarr; 10)</td><td>Azért, mert résztvettetek a beszélgetésben FB-n</td></tr>
+<tr><td>2012. 05. 06.</td><td>+</td><td>Scor (298 &rarr; 300)</td><td>Zaku (304 &rarr; 314)</td><td>Azért, mert résztvettetek a beszélgetésben FB-n</td></tr>
+<tr><td>2012. 05. 06.</td><td>+</td><td>Scor (296 &rarr; 298)</td><td>Szacsi (182 &rarr; 192)</td><td>Azért, mert résztvettetek a beszélgetésben FB-n</td></tr>
+<tr><td>2012. 05. 06.</td><td>+</td><td>Scor (294 &rarr; 296)</td><td>Yuuki (234 &rarr; 244)</td><td>Azért, mert résztvettetek a beszélgetésben FB-n</td></tr>
+<tr><td>2012. 05. 06.</td><td>+</td><td>Scor (292 &rarr; 294)</td><td>Chesy (76 &rarr; 86)</td><td>Azért, mert résztvettetek a beszélgetésben FB-n</td></tr>
+<tr><td>2012. 05. 06.</td><td>+</td><td>Scor (290 &rarr; 292)</td><td>Yasa (318 &rarr; 328)</td><td>Azért, mert résztvettetek a beszélgetésben FB-n</td></tr>
+<tr><td>2012. 05. 06.</td><td>+</td><td>Zaku (302 &rarr; 304)</td><td>Yoru (168 &rarr; 178)</td><td>Nori beszerzési hadműveletért (sok energiát spórolt meg)</td></tr>
+<tr><td>2012. 05. 06.</td><td>+</td><td>Rizi (90 &rarr; 92)</td><td>Zaku (292 &rarr; 302)</td><td>Macskafülekért</td></tr>
 <tr><td>2012. 05. 05</td><td>+</td><td>Yuuki (232 &rarr; 234)</td><td>Yasa (308 &rarr; 318)</td><td>IRC cikk</td></tr>
 <tr><td>2012. 05. 05</td><td>+</td><td>Yuuki (230 &rarr; 232)</td><td>Scor (280 &rarr; 290)</td><td>Manga~</td></tr>
 <tr><td>2012. 05. 05</td><td>+</td><td>Yuuki (228 &rarr; 230)</td><td>Rizi (80 &rarr; 90)</td><td>Takebayashi ostromáért~ x3</td></tr>
