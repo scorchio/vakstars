@@ -1,3 +1,30 @@
+<tr><td>2012. 05. 07.</td><td>+</td><td>Scor (336 &rarr; 338)</td><td>Yoru (208 &rarr; 218)</td><td>FB aktívkodásért</td></tr>
+<tr><td>2012. 05. 07.</td><td>+</td><td>Scor (334 &rarr; 336)</td><td>Dóri (30 &rarr; 40)</td><td>FB aktívkodásért</td></tr>
+<tr><td>2012. 05. 07.</td><td>+</td><td>Scor (332 &rarr; 334)</td><td>Luca (84 &rarr; 94)</td><td>FB aktívkodásért</td></tr>
+<tr><td>2012. 05. 07.</td><td>+</td><td>Scor (330 &rarr; 332)</td><td>Chesy (96 &rarr; 106)</td><td>FB aktívkodásért</td></tr>
+<tr><td>2012. 05. 07.</td><td>+</td><td>Scor (328 &rarr; 330)</td><td>Yuuki (294 &rarr; 304)</td><td>FB aktívkodásért</td></tr>
+<tr><td>2012. 05. 07.</td><td>+</td><td>Scor (326 &rarr; 328)</td><td>Zaku (356 &rarr; 366)</td><td>FB aktívkodásért</td></tr>
+<tr><td>2012. 05. 07.</td><td>+</td><td>Scor (324 &rarr; 326)</td><td>Szacsi (202 &rarr; 212)</td><td>FB aktívkodásért</td></tr>
+<tr><td>2012. 05. 07.</td><td>+</td><td>Scor (322 &rarr; 324)</td><td>Gaara (116 &rarr; 126)</td><td>FB aktívkodásért</td></tr>
+<tr><td>2012. 05. 07.</td><td>+</td><td>Scor (320 &rarr; 322)</td><td>Yasa (358 &rarr; 368)</td><td>FB aktívkodásért</td></tr>
+<tr><td>2012. 05. 07.</td><td>+</td><td>Scor (318 &rarr; 320)</td><td>Zaku (346 &rarr; 356)</td><td>Szorgalmas pontosztogatásért</td></tr>
+<tr><td>2012. 05. 07.</td><td>+</td><td>Scor (316 &rarr; 318)</td><td>Yasa (348 &rarr; 358)</td><td>Szorgalmas pontosztogatásért</td></tr>
+<tr><td>2012. 05. 07.</td><td>+</td><td>Yasa (346 &rarr; 348)</td><td>Dóri (20 &rarr; 30)</td><td>Szorgalmas info tanulásért</td></tr>
+<tr><td>2012. 05. 07.</td><td>+</td><td>Yasa (344 &rarr; 346)</td><td>Yuuki (284 &rarr; 294)</td><td>Az IRC-s válaszért</td></tr>
+<tr><td>2012. 05. 07.</td><td>+</td><td>Yasa (342 &rarr; 344)</td><td>Szacsi (192 &rarr; 202)</td><td>Mert ő is kezd visszatérni közénk + az IRC-s válaszért</td></tr>
+<tr><td>2012. 05. 07.</td><td>+</td><td>Yasa (340 &rarr; 342)</td><td>Chesy (86 &rarr; 96)</td><td>Mert ismét kezd visszatérni közénk</td></tr>
+<tr><td>2012. 05. 07.</td><td>+</td><td>Yasa (338 &rarr; 340)</td><td>Scor (306 &rarr; 316)</td><td>Szorgalmas csillagosztásért, a cikk miatt és az IRC-s válaszért</td></tr>
+<tr><td>2012. 05. 07.</td><td>+</td><td>Yasa (336 &rarr; 338)</td><td>Zaku (336 &rarr; 346)</td><td>Szorgalmas csillagosztásért</td></tr>
+<tr><td>2012. 05. 07.</td><td>+</td><td>Yasa (334 &rarr; 336)</td><td>Luca (74 &rarr; 84)</td><td>Mert részt vesznek Rizi csoportjában</td></tr>
+<tr><td>2012. 05. 07.</td><td>+</td><td>Yasa (332 &rarr; 334)</td><td>Zaku (326 &rarr; 336)</td><td>Mert részt vesznek Rizi csoportjában</td></tr>
+<tr><td>2012. 05. 07.</td><td>+</td><td>Yasa (330 &rarr; 332)</td><td>Yuuki (274 &rarr; 284)</td><td>Mert részt vesznek Rizi csoportjában</td></tr>
+<tr><td>2012. 05. 07.</td><td>+</td><td>Yasa (328 &rarr; 330)</td><td>Rizi (92 &rarr; 102)</td><td>Mert saját, elég aktív csapatot vezet</td></tr>
+<tr><td>2012. 05. 07.</td><td>+</td><td>Zaku (324 &rarr; 326)</td><td>Yoru (198 &rarr; 208)</td><td>Rajzolásra való ösztönzésért</td></tr>
+<tr><td>2012. 05. 07.</td><td>+</td><td>Zaku (322 &rarr; 324)</td><td>Yuuki (264 &rarr; 274)</td><td>Rajzolásra való ösztönzésért</td></tr>
+<tr><td>2012. 05. 07.</td><td>+</td><td>Zaku (320 &rarr; 322)</td><td>Luca (64 &rarr; 74)</td><td>Rajzolásra való ösztönzésért</td></tr>
+<tr><td>2012. 05. 07.</td><td>+</td><td>Zaku (318 &rarr; 320)</td><td>Yoru (188 &rarr; 198)</td><td>Állomáson levő röhejes pantomim kommunikációért</td></tr>
+<tr><td>2012. 05. 07.</td><td>+</td><td>Zaku (316 &rarr; 318)</td><td>Yuuki (254 &rarr; 264)</td><td>A bambuszért *-* (régóta vadásztam rá)</td></tr>
+<tr><td>2012. 05. 07.</td><td>+</td><td>Zaku (314 &rarr; 316)</td><td>Yuuki (244 &rarr; 254)</td><td>Házi sushi készítésért</td></tr>
 <tr><td>2012. 05. 06.</td><td>+</td><td>Scor (304 &rarr; 306)</td><td>Luca (54 &rarr; 64)</td><td>Con-os rajzverseny eredményért</td></tr>
 <tr><td>2012. 05. 06.</td><td>+</td><td>Scor (302 &rarr; 304)</td><td>Yoru (178 &rarr; 188)</td><td>Azért, mert résztvettetek a beszélgetésben FB-n</td></tr>
 <tr><td>2012. 05. 06.</td><td>+</td><td>Scor (300 &rarr; 302)</td><td>Daniella (0 &rarr; 10)</td><td>Azért, mert résztvettetek a beszélgetésben FB-n</td></tr>
