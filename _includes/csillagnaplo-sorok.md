@@ -1,3 +1,6 @@
+<tr><td>2012. 05. 08.</td><td>+</td><td>Scor (348 &rarr; 350)</td><td>Chesy (106 &rarr; 116)</td><td>Érdekességek linkeléséért az üzenőfalra</td></tr>
+<tr><td>2012. 05. 08.</td><td>+</td><td>Yasa (370 &rarr; 372)</td><td>Yuuki (304 &rarr; 314)</td><td>Hogy ne negatívkodjon :P</td></tr>
+<tr><td>2012. 05. 08.</td><td>+</td><td>Yasa (368 &rarr; 370)</td><td>Scor (338 &rarr; 348)</td><td>Oldalon való ügyködésért</td></tr>
 <tr><td>2012. 05. 07.</td><td>+</td><td>Scor (336 &rarr; 338)</td><td>Yoru (208 &rarr; 218)</td><td>FB aktívkodásért</td></tr>
 <tr><td>2012. 05. 07.</td><td>+</td><td>Scor (334 &rarr; 336)</td><td>Dóri (30 &rarr; 40)</td><td>FB aktívkodásért</td></tr>
 <tr><td>2012. 05. 07.</td><td>+</td><td>Scor (332 &rarr; 334)</td><td>Luca (84 &rarr; 94)</td><td>FB aktívkodásért</td></tr>
