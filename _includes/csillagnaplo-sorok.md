@@ -1,3 +1,7 @@
+<tr><td>2012. 05. 08</td><td>+</td><td>Zaku (370 &rarr; 372)</td><td>Szaszus (0 &rarr; 10)</td><td>Con-os performance</td></tr>
+<tr><td>2012. 05. 08</td><td>+</td><td>Zaku (368 &rarr; 370)</td><td>Yoru (218 &rarr; 228)</td><td>Táncszőnyeges trollkodás kiderítése miatt</td></tr>
+<tr><td>2012. 05. 08</td><td>+</td><td>Zaku (366 &rarr; 368)</td><td>Yuuki (314 &rarr; 324)</td><td>Kismadár ápolása/pótanya szerep</td></tr>
+<tr><td>2012. 05. 08</td><td>+</td><td>Luca (94 &rarr; 96)</td><td>Scor (350 &rarr; 360)</td><td>Ingyenmangáért xDD</td></tr>
 <tr><td>2012. 05. 08.</td><td>+</td><td>Scor (348 &rarr; 350)</td><td>Chesy (106 &rarr; 116)</td><td>Érdekességek linkeléséért az üzenőfalra</td></tr>
 <tr><td>2012. 05. 08.</td><td>+</td><td>Yasa (370 &rarr; 372)</td><td>Yuuki (304 &rarr; 314)</td><td>Hogy ne negatívkodjon :P</td></tr>
 <tr><td>2012. 05. 08.</td><td>+</td><td>Yasa (368 &rarr; 370)</td><td>Scor (338 &rarr; 348)</td><td>Oldalon való ügyködésért</td></tr>
