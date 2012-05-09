@@ -1,3 +1,7 @@
+<tr><td>2012. 05. 09.</td><td>+</td><td>Yasa (384 &rarr; 386)</td><td>Chesy (120 &rarr; 130)</td><td>Érdekességek mutogatásáért :)</td></tr>
+<tr><td>2012. 05. 09.</td><td>+</td><td>Yasa (382 &rarr; 384)</td><td>Yuuki (324 &rarr; 334)</td><td>Madárka ápolgatásáért (és a jó szívéért ami nem is annyira zárójeles, mint amennyire annak tűnik ;))</td></tr>
+<tr><td>2012. 05. 09.</td><td>+</td><td>Chesy (118 &rarr; 120)</td><td>Yasa (372 &rarr; 382)</td><td>IRC segédlet írása miatt</td></tr>
+<tr><td>2012. 05. 09.</td><td>+</td><td>Chesy (116 &rarr; 118)</td><td>Scor (360 &rarr; 370)</td><td>Új weboldal borítóképekért</td></tr>
 <tr><td>2012. 05. 08</td><td>+</td><td>Zaku (370 &rarr; 372)</td><td>Szaszus (0 &rarr; 10)</td><td>Con-os performance</td></tr>
 <tr><td>2012. 05. 08</td><td>+</td><td>Zaku (368 &rarr; 370)</td><td>Yoru (218 &rarr; 228)</td><td>Táncszőnyeges trollkodás kiderítése miatt</td></tr>
 <tr><td>2012. 05. 08</td><td>+</td><td>Zaku (366 &rarr; 368)</td><td>Yuuki (314 &rarr; 324)</td><td>Kismadár ápolása/pótanya szerep</td></tr>
