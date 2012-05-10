@@ -1,3 +1,17 @@
+<tr><td>2012. 05. 10.</td><td>+</td><td>Zaku (398 &rarr; 400)</td><td>Sába (30 &rarr; 40)</td><td>Csoportképben való segítség/részvétel</td></tr>
+<tr><td>2012. 05. 10.</td><td>+</td><td>Zaku (396 &rarr; 398)</td><td>Szaszus (20 &rarr; 30)</td><td>Csoportképben való segítség/részvétel</td></tr>
+<tr><td>2012. 05. 10.</td><td>+</td><td>Zaku (394 &rarr; 396)</td><td>Yuuki (344 &rarr; 354)</td><td>Csoportképben való segítség/részvétel</td></tr>
+<tr><td>2012. 05. 10.</td><td>+</td><td>Zaku (392 &rarr; 394)</td><td>Gaara (126 &rarr; 136)</td><td>Csoportképben való segítség/részvétel</td></tr>
+<tr><td>2012. 05. 10.</td><td>+</td><td>Zaku (390 &rarr; 392)</td><td>Dóri (40 &rarr; 50)</td><td>Csoportképben való segítség/részvétel</td></tr>
+<tr><td>2012. 05. 10.</td><td>+</td><td>Zaku (388 &rarr; 390)</td><td>Renátó (20 &rarr; 30)</td><td>Csoportképben való segítség/részvétel</td></tr>
+<tr><td>2012. 05. 10.</td><td>+</td><td>Zaku (386 &rarr; 388)</td><td>Luca (96 &rarr; 106)</td><td>Csoportképben való segítség/részvétel</td></tr>
+<tr><td>2012. 05. 10.</td><td>+</td><td>Zaku (384 &rarr; 386)</td><td>Yasa (396 &rarr; 406)</td><td>Csoportképben való segítség/részvétel</td></tr>
+<tr><td>2012. 05. 10.</td><td>+</td><td>Zaku (382 &rarr; 384)</td><td>Scor (380 &rarr; 390)</td><td>Csoportképben való segítség/részvétel</td></tr>
+<tr><td>2012. 05. 10.</td><td>+</td><td>Zaku (380 &rarr; 382)</td><td>Szaszus (10 &rarr; 20)</td><td>Meeten való részvételért</td></tr>
+<tr><td>2012. 05. 10.</td><td>+</td><td>Zaku (378 &rarr; 380)</td><td>Rizi (102 &rarr; 112)</td><td>Mert jófej :D</td></tr>
+<tr><td>2012. 05. 10.</td><td>+</td><td>Zaku (376 &rarr; 378)</td><td>Yuuki (334 &rarr; 344)</td><td>A teáért *_*</td></tr>
+<tr><td>2012. 05. 10.</td><td>+</td><td>Zaku (374 &rarr; 376)</td><td>Scor (370 &rarr; 380)</td><td>A megható zongora 'demo'-ért</td></tr>
+<tr><td>2012. 05. 10.</td><td>+</td><td>Zaku (372 &rarr; 374)</td><td>Yasa (386 &rarr; 396)</td><td>A rejtélyes összetevőket tartalmazó furcsán jó kedvet okozó bubikért :D</td></tr>
 <tr><td>2012. 05. 09.</td><td>+</td><td>Yasa (384 &rarr; 386)</td><td>Chesy (120 &rarr; 130)</td><td>Érdekességek mutogatásáért :)</td></tr>
 <tr><td>2012. 05. 09.</td><td>+</td><td>Yasa (382 &rarr; 384)</td><td>Yuuki (324 &rarr; 334)</td><td>Madárka ápolgatásáért (és a jó szívéért ami nem is annyira zárójeles, mint amennyire annak tűnik ;))</td></tr>
 <tr><td>2012. 05. 09.</td><td>+</td><td>Chesy (118 &rarr; 120)</td><td>Yasa (372 &rarr; 382)</td><td>IRC segédlet írása miatt</td></tr>
