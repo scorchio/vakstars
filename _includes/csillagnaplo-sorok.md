@@ -1,5 +1,5 @@
 <tr><td>2012. 05. 13.</td><td>+</td><td>Dóri (114 &rarr; 116)</td><td>Chesy (150 &rarr; 160)</td><td>A cuccok miatt, amit linkelt és jó cikk lett belőlük</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Dóri (112 &rarr; 114)</td><td>Scor (456 &rarr; 466)</td><td>Zongora, cikkek, tanítás/segítés</td></tr>
+<tr><td>2012. 05. 13.</td><td>+</td><td>Dóri (112 &rarr; 114)</td><td>Scor (456 &rarr; 466)</td><td>Zongora, cikkek, tanítás / segítés</td></tr>
 <tr><td>2012. 05. 13.</td><td>+</td><td>Dóri (110 &rarr; 112)</td><td>Zaku (450 &rarr; 460)</td><td>Mindig odaadta a fotógépet *.*</td></tr>
 <tr><td>2012. 05. 13.</td><td>+</td><td>Dóri (108 &rarr; 110)</td><td>Szacsi (232 &rarr; 242)</td><td>Segít nevet keresni</td></tr>
 <tr><td>2012. 05. 13.</td><td>+</td><td>Dóri (106 &rarr; 108)</td><td>Yasa (466 &rarr; 476)</td><td>Cikkek, segít nevet keresni</td></tr>
