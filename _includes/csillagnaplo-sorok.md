@@ -34,7 +34,7 @@
 <tr><td>2012. 05. 13.</td><td>+</td><td>Scor (414 &rarr; 416)</td><td>Yuuki (374 &rarr; 384)</td><td>Aktívkodásért klubos FB oldalon</td></tr>
 <tr><td>2012. 05. 13.</td><td>+</td><td>Scor (412 &rarr; 414)</td><td>Yoru (228 &rarr; 238)</td><td>Aktívkodásért klubos FB oldalon</td></tr>
 <tr><td>2012. 05. 13.</td><td>+</td><td>Scor (410 &rarr; 412)</td><td>Yasa (436 &rarr; 446)</td><td>Aktívkodásért klubos FB oldalon</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Scor (408 &rarr; 410)</td><td>Papee (0 &rarr; 10)</td><td>L'Oreal :] na jó, matricákért, de ezt tudja amúgy is ;)</td></tr>
+<tr><td>2012. 05. 13.</td><td>+</td><td>Scor (408 &rarr; 410)</td><td>Papee (0 &rarr; 10)</td><td>L&apos;Oreal :] na jó, matricákért, de ezt tudja amúgy is ;)</td></tr>
 <tr><td>2012. 05. 13.</td><td>+</td><td>Scor (406 &rarr; 408)</td><td>Renátó (40 &rarr; 50)</td><td>Tegnapi keresőkifejezés/blogpost konzultációért</td></tr>
 <tr><td>2012. 05. 13.</td><td>+</td><td>Scor (404 &rarr; 406)</td><td>Nezu (10 &rarr; 20)</td><td>Tegnapi keresőkifejezés/blogpost konzultációért</td></tr>
 <tr><td>2012. 05. 13.</td><td>+</td><td>Scor (402 &rarr; 404)</td><td>Nezu (0 &rarr; 10)</td><td>Feed-tippekért</td></tr>
@@ -63,7 +63,7 @@
 <tr><td>2012. 05. 10.</td><td>+</td><td>Zaku (380 &rarr; 382)</td><td>Szaszus (10 &rarr; 20)</td><td>Meeten való részvételért</td></tr>
 <tr><td>2012. 05. 10.</td><td>+</td><td>Zaku (378 &rarr; 380)</td><td>Rizi (102 &rarr; 112)</td><td>Mert jófej :D</td></tr>
 <tr><td>2012. 05. 10.</td><td>+</td><td>Zaku (376 &rarr; 378)</td><td>Yuuki (334 &rarr; 344)</td><td>A teáért *_*</td></tr>
-<tr><td>2012. 05. 10.</td><td>+</td><td>Zaku (374 &rarr; 376)</td><td>Scor (370 &rarr; 380)</td><td>A megható zongora 'demo'-ért</td></tr>
+<tr><td>2012. 05. 10.</td><td>+</td><td>Zaku (374 &rarr; 376)</td><td>Scor (370 &rarr; 380)</td><td>A megható zongora &apos;demo&apos;-ért</td></tr>
 <tr><td>2012. 05. 10.</td><td>+</td><td>Zaku (372 &rarr; 374)</td><td>Yasa (386 &rarr; 396)</td><td>A rejtélyes összetevőket tartalmazó furcsán jó kedvet okozó bubikért :D</td></tr>
 <tr><td>2012. 05. 09.</td><td>+</td><td>Yasa (384 &rarr; 386)</td><td>Chesy (120 &rarr; 130)</td><td>Érdekességek mutogatásáért :)</td></tr>
 <tr><td>2012. 05. 09.</td><td>+</td><td>Yasa (382 &rarr; 384)</td><td>Yuuki (324 &rarr; 334)</td><td>Madárka ápolgatásáért (és a jó szívéért ami nem is annyira zárójeles, mint amennyire annak tűnik ;))</td></tr>
