@@ -1,3 +1,5 @@
+Itt egyelőre csak a legutolsó száz szavazat látszik célszerűségi okokból, de majd Scor továbbfejleszti jól... ^^
+
 <table class="naplo">
   <thead>
   <th>Dátum</th>
