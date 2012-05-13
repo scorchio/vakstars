@@ -34,7 +34,7 @@
 <tr><td>2012. 05. 13.</td><td>+</td><td>Scor (414 &rarr; 416)</td><td>Yuuki (374 &rarr; 384)</td><td>Aktívkodásért klubos FB oldalon</td></tr>
 <tr><td>2012. 05. 13.</td><td>+</td><td>Scor (412 &rarr; 414)</td><td>Yoru (228 &rarr; 238)</td><td>Aktívkodásért klubos FB oldalon</td></tr>
 <tr><td>2012. 05. 13.</td><td>+</td><td>Scor (410 &rarr; 412)</td><td>Yasa (436 &rarr; 446)</td><td>Aktívkodásért klubos FB oldalon</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Scor (408 &rarr; 410)</td><td>Papee (0 &rarr; 10)</td><td>L'Oreal :] na jó, matricákért, de ezt tudja amúgy is ;)</td></tr>
+<tr><td>2012. 05. 13.</td><td>+</td><td>Scor (408 &rarr; 410)</td><td>Papee (0 &rarr; 10)</td><td>L'Oreal :D na jó, matricákért, de ezt tudja amúgy is ;)</td></tr>
 <tr><td>2012. 05. 13.</td><td>+</td><td>Scor (406 &rarr; 408)</td><td>Renátó (40 &rarr; 50)</td><td>Tegnapi keresőkifejezés/blogpost konzultációért</td></tr>
 <tr><td>2012. 05. 13.</td><td>+</td><td>Scor (404 &rarr; 406)</td><td>Nezu (10 &rarr; 20)</td><td>Tegnapi keresőkifejezés/blogpost konzultációért</td></tr>
 <tr><td>2012. 05. 13.</td><td>+</td><td>Scor (402 &rarr; 404)</td><td>Nezu (0 &rarr; 10)</td><td>Feed-tippekért</td></tr>
