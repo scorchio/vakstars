@@ -1,3 +1,4 @@
+<tr><td>2012. 05. 15.</td><td>+</td><td>Scor (476 &rarr; 478)</td><td>Yasa (496 &rarr; 506)</td><td>Szépek lettek a fejlécképek *_*</td></tr>
 <tr><td>2012. 05. 15.</td><td>+</td><td>Dóri (120 &rarr; 122)</td><td>Rizi (144 &rarr; 154)</td><td>like a boss :P, kellemes útitárs a vonaton</td></tr>
 <tr><td>2012. 05. 15.</td><td>+</td><td>Dóri (118 &rarr; 120)</td><td>Renátó (60 &rarr; 70)</td><td>SG segítség, bubii</td></tr>
 <tr><td>2012. 05. 15.</td><td>+</td><td>Dóri (116 &rarr; 118)</td><td>Yasa (486 &rarr; 496)</td><td>Csoportkép harc, Lain artbook, bubii</td></tr>
@@ -97,4 +98,3 @@
 <tr><td>2012. 05. 07.</td><td>+</td><td>Scor (316 &rarr; 318)</td><td>Yasa (348 &rarr; 358)</td><td>Szorgalmas pontosztogatásért</td></tr>
 <tr><td>2012. 05. 07.</td><td>+</td><td>Yasa (346 &rarr; 348)</td><td>Dóri (20 &rarr; 30)</td><td>Szorgalmas info tanulásért</td></tr>
 <tr><td>2012. 05. 07.</td><td>+</td><td>Yasa (344 &rarr; 346)</td><td>Yuuki (284 &rarr; 294)</td><td>Az IRC-s válaszért</td></tr>
-<tr><td>2012. 05. 07.</td><td>+</td><td>Yasa (342 &rarr; 344)</td><td>Szacsi (192 &rarr; 202)</td><td>Mert ő is kezd visszatérni közénk + az IRC-s válaszért</td></tr>
