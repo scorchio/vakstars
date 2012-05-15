@@ -1,3 +1,11 @@
+<tr><td>2012. 05. 15.</td><td>+</td><td>Dóri (120 &rarr; 122)</td><td>Rizi (144 &rarr; 154)</td><td>like a boss :P, kellemes útitárs a vonaton</td></tr>
+<tr><td>2012. 05. 15.</td><td>+</td><td>Dóri (118 &rarr; 120)</td><td>Renátó (60 &rarr; 70)</td><td>SG segítség, bubii</td></tr>
+<tr><td>2012. 05. 15.</td><td>+</td><td>Dóri (116 &rarr; 118)</td><td>Yasa (486 &rarr; 496)</td><td>Csoportkép harc, Lain artbook, bubii</td></tr>
+<tr><td>2012. 05. 15.</td><td>+</td><td>Papee (18 &rarr; 20)</td><td>Zaku (460 &rarr; 470)</td><td>Az aranyos tévedésért a kommentben.</td></tr>
+<tr><td>2012. 05. 15.</td><td>+</td><td>Papee (16 &rarr; 18)</td><td>Daniella (20 &rarr; 30)</td><td>Mert ő is hozzászólt.</td></tr>
+<tr><td>2012. 05. 15.</td><td>+</td><td>Papee (14 &rarr; 16)</td><td>Yuuki (404 &rarr; 414)</td><td>Mert nagyon jó fej volt a kommentben</td></tr>
+<tr><td>2012. 05. 15.</td><td>+</td><td>Papee (12 &rarr; 14)</td><td>Yasa (476 &rarr; 486)</td><td>Mert szent fáradalomnak hiszi</td></tr>
+<tr><td>2012. 05. 15.</td><td>+</td><td>Papee (10 &rarr; 12)</td><td>Scor (466 &rarr; 476)</td><td>Mert gondoltál rám</td></tr>
 <tr><td>2012. 05. 13.</td><td>+</td><td>Dóri (114 &rarr; 116)</td><td>Chesy (150 &rarr; 160)</td><td>A cuccok miatt, amit linkelt és jó cikk lett belőlük</td></tr>
 <tr><td>2012. 05. 13.</td><td>+</td><td>Dóri (112 &rarr; 114)</td><td>Scor (456 &rarr; 466)</td><td>Zongora, cikkek, tanítás / segítés</td></tr>
 <tr><td>2012. 05. 13.</td><td>+</td><td>Dóri (110 &rarr; 112)</td><td>Zaku (450 &rarr; 460)</td><td>Mindig odaadta a fotógépet *.*</td></tr>
@@ -90,11 +98,3 @@
 <tr><td>2012. 05. 07.</td><td>+</td><td>Yasa (346 &rarr; 348)</td><td>Dóri (20 &rarr; 30)</td><td>Szorgalmas info tanulásért</td></tr>
 <tr><td>2012. 05. 07.</td><td>+</td><td>Yasa (344 &rarr; 346)</td><td>Yuuki (284 &rarr; 294)</td><td>Az IRC-s válaszért</td></tr>
 <tr><td>2012. 05. 07.</td><td>+</td><td>Yasa (342 &rarr; 344)</td><td>Szacsi (192 &rarr; 202)</td><td>Mert ő is kezd visszatérni közénk + az IRC-s válaszért</td></tr>
-<tr><td>2012. 05. 07.</td><td>+</td><td>Yasa (340 &rarr; 342)</td><td>Chesy (86 &rarr; 96)</td><td>Mert ismét kezd visszatérni közénk</td></tr>
-<tr><td>2012. 05. 07.</td><td>+</td><td>Yasa (338 &rarr; 340)</td><td>Scor (306 &rarr; 316)</td><td>Szorgalmas csillagosztásért, a cikk miatt és az IRC-s válaszért</td></tr>
-<tr><td>2012. 05. 07.</td><td>+</td><td>Yasa (336 &rarr; 338)</td><td>Zaku (336 &rarr; 346)</td><td>Szorgalmas csillagosztásért</td></tr>
-<tr><td>2012. 05. 07.</td><td>+</td><td>Yasa (334 &rarr; 336)</td><td>Luca (74 &rarr; 84)</td><td>Mert részt vesznek Rizi csoportjában</td></tr>
-<tr><td>2012. 05. 07.</td><td>+</td><td>Yasa (332 &rarr; 334)</td><td>Zaku (326 &rarr; 336)</td><td>Mert részt vesznek Rizi csoportjában</td></tr>
-<tr><td>2012. 05. 07.</td><td>+</td><td>Yasa (330 &rarr; 332)</td><td>Yuuki (274 &rarr; 284)</td><td>Mert részt vesznek Rizi csoportjában</td></tr>
-<tr><td>2012. 05. 07.</td><td>+</td><td>Yasa (328 &rarr; 330)</td><td>Rizi (92 &rarr; 102)</td><td>Mert saját, elég aktív csapatot vezet</td></tr>
-<tr><td>2012. 05. 07.</td><td>+</td><td>Zaku (324 &rarr; 326)</td><td>Yoru (198 &rarr; 208)</td><td>Rajzolásra való ösztönzésért</td></tr>
