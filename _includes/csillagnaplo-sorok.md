@@ -1,3 +1,16 @@
+<tr><td>2012. 05. 25.</td><td>+</td><td>Scor (540 &rarr; 542)</td><td>Yasa (544 &rarr; 554)</td><td>Meet utáni randomkodásért, kész élmény volt :D</td></tr>
+<tr><td>2012. 05. 25.</td><td>+</td><td>Scor (538 &rarr; 540)</td><td>Chesy (190 &rarr; 200)</td><td>Meet utáni randomkodásért, kész élmény volt :D</td></tr>
+<tr><td>2012. 05. 25.</td><td>+</td><td>Scor (536 &rarr; 538)</td><td>Dóri (172 &rarr; 182)</td><td>Meet utáni randomkodásért, kész élmény volt :D</td></tr>
+<tr><td>2012. 05. 25.</td><td>+</td><td>Scor (534 &rarr; 536)</td><td>Renátó (80 &rarr; 90)</td><td>Meet utáni randomkodásért, kész élmény volt :D</td></tr>
+<tr><td>2012. 05. 25.</td><td>+</td><td>Scor (532 &rarr; 534)</td><td>Renátó (70 &rarr; 80)</td><td>Mert lenn voltak meeten</td></tr>
+<tr><td>2012. 05. 25.</td><td>+</td><td>Scor (530 &rarr; 532)</td><td>Zsolti (30 &rarr; 40)</td><td>Mert lenn voltak meeten</td></tr>
+<tr><td>2012. 05. 25.</td><td>+</td><td>Scor (528 &rarr; 530)</td><td>Zsolti (20 &rarr; 30)</td><td>Keep it going man</td></tr>
+<tr><td>2012. 05. 25.</td><td>+</td><td>Szaszus (62 &rarr; 64)</td><td>Yuuki (464 &rarr; 474)</td><td>Szülinapi ajándék *_*</td></tr>
+<tr><td>2012. 05. 25.</td><td>+</td><td>Yasa (542 &rarr; 544)</td><td>Scor (518 &rarr; 528)</td><td>A matrica darabolásért</td></tr>
+<tr><td>2012. 05. 25.</td><td>+</td><td>Yasa (540 &rarr; 542)</td><td>Papee (30 &rarr; 40)</td><td>A matricákért</td></tr>
+<tr><td>2012. 05. 25.</td><td>+</td><td>Zaku (522 &rarr; 524)</td><td>Yoru (248 &rarr; 258)</td><td>Mert kipróbálhatom a pasztellkrétáit</td></tr>
+<tr><td>2012. 05. 25.</td><td>+</td><td>Zaku (520 &rarr; 522)</td><td>Vanessa (10 &rarr; 20)</td><td>Mert elviselt az osztálykiránduláson és a végsőkig kitartott :D</td></tr>
+<tr><td>2012. 05. 25.</td><td>+</td><td>Zaku (518 &rarr; 520)</td><td>Papee (20 &rarr; 30)</td><td>A matricákért :D</td></tr>
 <tr><td>2012. 05. 21.</td><td>+</td><td>Scor (516 &rarr; 518)</td><td>Yasa (530 &rarr; 540)</td><td>A szombati napunkért ^^</td></tr>
 <tr><td>2012. 05. 21.</td><td>+</td><td>Scor (514 &rarr; 516)</td><td>Chesy (180 &rarr; 190)</td><td>A szombati napunkért ^^</td></tr>
 <tr><td>2012. 05. 21.</td><td>+</td><td>Scor (512 &rarr; 514)</td><td>Szacsi (262 &rarr; 272)</td><td>A szombati napunkért ^^</td></tr>
@@ -85,16 +98,3 @@
 <tr><td>2012. 05. 13.</td><td>+</td><td>Yuuki (360 &rarr; 362)</td><td>Scor (390 &rarr; 400)</td><td>megható zongora előadásért</td></tr>
 <tr><td>2012. 05. 13.</td><td>+</td><td>Yuuki (358 &rarr; 360)</td><td>Zaku (400 &rarr; 410)</td><td>Cukooor *w*</td></tr>
 <tr><td>2012. 05. 13.</td><td>+</td><td>Yuuki (356 &rarr; 358)</td><td>Yasa (416 &rarr; 426)</td><td>Buborékfújóért</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Yuuki (354 &rarr; 356)</td><td>Yasa (406 &rarr; 416)</td><td>Nem negatívkodok... annyit &gt;.&lt;</td></tr>
-<tr><td>2012. 05. 10.</td><td>+</td><td>Zaku (398 &rarr; 400)</td><td>Sába (30 &rarr; 40)</td><td>Csoportképben való segítség/részvétel</td></tr>
-<tr><td>2012. 05. 10.</td><td>+</td><td>Zaku (396 &rarr; 398)</td><td>Szaszus (20 &rarr; 30)</td><td>Csoportképben való segítség/részvétel</td></tr>
-<tr><td>2012. 05. 10.</td><td>+</td><td>Zaku (394 &rarr; 396)</td><td>Yuuki (344 &rarr; 354)</td><td>Csoportképben való segítség/részvétel</td></tr>
-<tr><td>2012. 05. 10.</td><td>+</td><td>Zaku (392 &rarr; 394)</td><td>Gaara (126 &rarr; 136)</td><td>Csoportképben való segítség/részvétel</td></tr>
-<tr><td>2012. 05. 10.</td><td>+</td><td>Zaku (390 &rarr; 392)</td><td>Dóri (40 &rarr; 50)</td><td>Csoportképben való segítség/részvétel</td></tr>
-<tr><td>2012. 05. 10.</td><td>+</td><td>Zaku (388 &rarr; 390)</td><td>Renátó (20 &rarr; 30)</td><td>Csoportképben való segítség/részvétel</td></tr>
-<tr><td>2012. 05. 10.</td><td>+</td><td>Zaku (386 &rarr; 388)</td><td>Luca (96 &rarr; 106)</td><td>Csoportképben való segítség/részvétel</td></tr>
-<tr><td>2012. 05. 10.</td><td>+</td><td>Zaku (384 &rarr; 386)</td><td>Yasa (396 &rarr; 406)</td><td>Csoportképben való segítség/részvétel</td></tr>
-<tr><td>2012. 05. 10.</td><td>+</td><td>Zaku (382 &rarr; 384)</td><td>Scor (380 &rarr; 390)</td><td>Csoportképben való segítség/részvétel</td></tr>
-<tr><td>2012. 05. 10.</td><td>+</td><td>Zaku (380 &rarr; 382)</td><td>Szaszus (10 &rarr; 20)</td><td>Meeten való részvételért</td></tr>
-<tr><td>2012. 05. 10.</td><td>+</td><td>Zaku (378 &rarr; 380)</td><td>Rizi (102 &rarr; 112)</td><td>Mert jófej :D</td></tr>
-<tr><td>2012. 05. 10.</td><td>+</td><td>Zaku (376 &rarr; 378)</td><td>Yuuki (334 &rarr; 344)</td><td>A teáért *_*</td></tr>
