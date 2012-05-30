@@ -2,6 +2,6 @@
 
 Dobpergéééééééééééééééééééééés...
 
-A verseny állása 2012. május 25-én, 22:38-kor:
+A verseny állása 2012. május 30-án, 22:02-kor:
 
 {% include allas-sorok.md %}

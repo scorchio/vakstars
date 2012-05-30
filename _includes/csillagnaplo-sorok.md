@@ -1,3 +1,16 @@
+<tr><td>2012. 05. 30.</td><td>+</td><td>Scor (564 &rarr; 566)</td><td>Rizi (154 &rarr; 164)</td><td>KRM aktívkodás</td></tr>
+<tr><td>2012. 05. 30.</td><td>+</td><td>Scor (562 &rarr; 564)</td><td>Yasa (572 &rarr; 582)</td><td>Állandó alapprogram (mangarajzolás stb.) felvetéséért, bonyolításáért</td></tr>
+<tr><td>2012. 05. 30.</td><td>+</td><td>Szaszus (64 &rarr; 66)</td><td>Yuuki (474 &rarr; 484)</td><td>Mert segített a kémia házidogában ^^</td></tr>
+<tr><td>2012. 05. 30.</td><td>+</td><td>Yasa (570 &rarr; 572)</td><td>Scor (552 &rarr; 562)</td><td>A szótár újraélesztése miatt</td></tr>
+<tr><td>2012. 05. 30.</td><td>+</td><td>Yasa (568 &rarr; 570)</td><td>Scor (542 &rarr; 552)</td><td>A meet utáni... minek is nevezzem... elvetemültségért :D</td></tr>
+<tr><td>2012. 05. 30.</td><td>+</td><td>Yasa (566 &rarr; 568)</td><td>Renátó (100 &rarr; 110)</td><td>A meet utáni... minek is nevezzem... elvetemültségért :D</td></tr>
+<tr><td>2012. 05. 30.</td><td>+</td><td>Yasa (564 &rarr; 566)</td><td>Dóri (182 &rarr; 192)</td><td>A meet utáni... minek is nevezzem... elvetemültségért :D</td></tr>
+<tr><td>2012. 05. 30.</td><td>+</td><td>Yasa (562 &rarr; 564)</td><td>Chesy (210 &rarr; 220)</td><td>A meet utáni... minek is nevezzem... elvetemültségért :D</td></tr>
+<tr><td>2012. 05. 30.</td><td>+</td><td>Yasa (560 &rarr; 562)</td><td>Zaku (526 &rarr; 536)</td><td>Fényképezőgépért és mert megint készülhettek vicces képek :)</td></tr>
+<tr><td>2012. 05. 30.</td><td>+</td><td>Yasa (558 &rarr; 560)</td><td>Chesy (200 &rarr; 210)</td><td>Mert jöttek meet-re :)</td></tr>
+<tr><td>2012. 05. 30.</td><td>+</td><td>Yasa (556 &rarr; 558)</td><td>Zsolti (40 &rarr; 50)</td><td>Mert jöttek meet-re :)</td></tr>
+<tr><td>2012. 05. 30.</td><td>+</td><td>Yasa (554 &rarr; 556)</td><td>Renátó (90 &rarr; 100)</td><td>Mert jöttek meet-re :)</td></tr>
+<tr><td>2012. 05. 30.</td><td>+</td><td>Zaku (524 &rarr; 526)</td><td>Yoru (258 &rarr; 268)</td><td>A SakuraZakás dobozszerzős tippjéért *-*</td></tr>
 <tr><td>2012. 05. 25.</td><td>+</td><td>Scor (540 &rarr; 542)</td><td>Yasa (544 &rarr; 554)</td><td>Meet utáni randomkodásért, kész élmény volt :D</td></tr>
 <tr><td>2012. 05. 25.</td><td>+</td><td>Scor (538 &rarr; 540)</td><td>Chesy (190 &rarr; 200)</td><td>Meet utáni randomkodásért, kész élmény volt :D</td></tr>
 <tr><td>2012. 05. 25.</td><td>+</td><td>Scor (536 &rarr; 538)</td><td>Dóri (172 &rarr; 182)</td><td>Meet utáni randomkodásért, kész élmény volt :D</td></tr>
@@ -85,16 +98,3 @@
 <tr><td>2012. 05. 13.</td><td>+</td><td>Scor (408 &rarr; 410)</td><td>Papee (0 &rarr; 10)</td><td>L&apos;Oreal :] na jó, matricákért, de ezt tudja amúgy is ;)</td></tr>
 <tr><td>2012. 05. 13.</td><td>+</td><td>Scor (406 &rarr; 408)</td><td>Renátó (40 &rarr; 50)</td><td>Tegnapi keresőkifejezés/blogpost konzultációért</td></tr>
 <tr><td>2012. 05. 13.</td><td>+</td><td>Scor (404 &rarr; 406)</td><td>Nezu (10 &rarr; 20)</td><td>Tegnapi keresőkifejezés/blogpost konzultációért</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Scor (402 &rarr; 404)</td><td>Nezu (0 &rarr; 10)</td><td>Feed-tippekért</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Scor (400 &rarr; 402)</td><td>Yasa (426 &rarr; 436)</td><td>Mert megtanított valamire, amire még senki más nem tudott :3</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Rizi (122 &rarr; 124)</td><td>Dóri (60 &rarr; 70)</td><td>Mert olyan kedves velem *-*</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Szaszus (40 &rarr; 42)</td><td>Zaku (410 &rarr; 420)</td><td>Mert elhívott meetre</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Yuuki (372 &rarr; 374)</td><td>Renátó (30 &rarr; 40)</td><td>Aktívkodásért</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Yuuki (370 &rarr; 372)</td><td>Sába (40 &rarr; 50)</td><td>Aktívkodásért</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Yuuki (368 &rarr; 370)</td><td>Szaszus (30 &rarr; 40)</td><td>Aktívkodásért</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Yuuki (366 &rarr; 368)</td><td>Luca (106 &rarr; 116)</td><td>Aktívkodásért</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Yuuki (364 &rarr; 366)</td><td>Rizi (112 &rarr; 122)</td><td>mert cukik a copfjai *-*</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Yuuki (362 &rarr; 364)</td><td>Dóri (50 &rarr; 60)</td><td>like a boss :D</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Yuuki (360 &rarr; 362)</td><td>Scor (390 &rarr; 400)</td><td>megható zongora előadásért</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Yuuki (358 &rarr; 360)</td><td>Zaku (400 &rarr; 410)</td><td>Cukooor *w*</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Yuuki (356 &rarr; 358)</td><td>Yasa (416 &rarr; 426)</td><td>Buborékfújóért</td></tr>
