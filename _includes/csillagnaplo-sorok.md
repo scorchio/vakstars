@@ -1,3 +1,10 @@
+<tr><td>2012. 06. 05.</td><td>+</td><td>Yasa (594 &rarr; 596)</td><td>Dóri (202 &rarr; 212)</td><td>Mert képes végighallgatni Scor kőkockulásait :D</td></tr>
+<tr><td>2012. 06. 05.</td><td>+</td><td>Yasa (592 &rarr; 594)</td><td>Scor (576 &rarr; 586)</td><td>Szorgalmas zongorázás miatt ^^</td></tr>
+<tr><td>2012. 06. 05.</td><td>+</td><td>Zaku (544 &rarr; 546)</td><td>Szacsi (272 &rarr; 282)</td><td>Animeajánlásért</td></tr>
+<tr><td>2012. 06. 05.</td><td>+</td><td>Zaku (542 &rarr; 544)</td><td>Yuuki (484 &rarr; 494)</td><td>Tanulásban való segítség</td></tr>
+<tr><td>2012. 06. 05.</td><td>+</td><td>Zaku (540 &rarr; 542)</td><td>Scor (566 &rarr; 576)</td><td>A lemaradások orvoslásáért :D (cikkek, fényképek)</td></tr>
+<tr><td>2012. 06. 05.</td><td>+</td><td>Zaku (538 &rarr; 540)</td><td>Dóri (192 &rarr; 202)</td><td>A ficek elolvasásásáért és biztató szavaiért &gt;.&lt;</td></tr>
+<tr><td>2012. 06. 05.</td><td>+</td><td>Zaku (536 &rarr; 538)</td><td>Yasa (582 &rarr; 592)</td><td>A finom muffinos receptért *-*</td></tr>
 <tr><td>2012. 05. 30.</td><td>+</td><td>Scor (564 &rarr; 566)</td><td>Rizi (154 &rarr; 164)</td><td>KRM aktívkodás</td></tr>
 <tr><td>2012. 05. 30.</td><td>+</td><td>Scor (562 &rarr; 564)</td><td>Yasa (572 &rarr; 582)</td><td>Állandó alapprogram (mangarajzolás stb.) felvetéséért, bonyolításáért</td></tr>
 <tr><td>2012. 05. 30.</td><td>+</td><td>Szaszus (64 &rarr; 66)</td><td>Yuuki (474 &rarr; 484)</td><td>Mert segített a kémia házidogában ^^</td></tr>
@@ -91,10 +98,3 @@
 <tr><td>2012. 05. 13.</td><td>+</td><td>Scor (422 &rarr; 424)</td><td>Szaszus (42 &rarr; 52)</td><td>Aktívkodásért klubos FB csoportban</td></tr>
 <tr><td>2012. 05. 13.</td><td>+</td><td>Scor (420 &rarr; 422)</td><td>Daniella (10 &rarr; 20)</td><td>Aktívkodásért klubos FB csoportban</td></tr>
 <tr><td>2012. 05. 13.</td><td>+</td><td>Scor (418 &rarr; 420)</td><td>Chesy (130 &rarr; 140)</td><td>Aktívkodásért klubos FB oldalon</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Scor (416 &rarr; 418)</td><td>Zaku (420 &rarr; 430)</td><td>Aktívkodásért klubos FB oldalon</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Scor (414 &rarr; 416)</td><td>Yuuki (374 &rarr; 384)</td><td>Aktívkodásért klubos FB oldalon</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Scor (412 &rarr; 414)</td><td>Yoru (228 &rarr; 238)</td><td>Aktívkodásért klubos FB oldalon</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Scor (410 &rarr; 412)</td><td>Yasa (436 &rarr; 446)</td><td>Aktívkodásért klubos FB oldalon</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Scor (408 &rarr; 410)</td><td>Papee (0 &rarr; 10)</td><td>L&apos;Oreal :] na jó, matricákért, de ezt tudja amúgy is ;)</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Scor (406 &rarr; 408)</td><td>Renátó (40 &rarr; 50)</td><td>Tegnapi keresőkifejezés/blogpost konzultációért</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Scor (404 &rarr; 406)</td><td>Nezu (10 &rarr; 20)</td><td>Tegnapi keresőkifejezés/blogpost konzultációért</td></tr>
