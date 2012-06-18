@@ -1,3 +1,45 @@
+<tr><td>2012. 06. 18.</td><td>+</td><td>Yuuki (576 &rarr; 578)</td><td>Luca (166 &rarr; 176)</td><td>mert a kezemben foghattam egy Ipad-et *-*</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Yuuki (574 &rarr; 576)</td><td>Rizi (204 &rarr; 214)</td><td>cukoooor ~~ *-*</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Yuuki (572 &rarr; 574)</td><td>Zaku (646 &rarr; 656)</td><td>KRM meet.</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Yuuki (570 &rarr; 572)</td><td>Rizi (194 &rarr; 204)</td><td>KRM meet.</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Yuuki (568 &rarr; 570)</td><td>Szaszus (66 &rarr; 76)</td><td>mert etetett. xD</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Yuuki (566 &rarr; 568)</td><td>Yoru (268 &rarr; 278)</td><td>a körmökért</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Yuuki (564 &rarr; 566)</td><td>Dóri (292 &rarr; 302)</td><td>mert mindig hozza a gépet.</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Yuuki (562 &rarr; 564)</td><td>Zaku (636 &rarr; 646)</td><td>Sok sok fényképért.</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Yuuki (560 &rarr; 562)</td><td>Dóri (282 &rarr; 292)</td><td>mert StarWars fan *-*</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Yuuki (558 &rarr; 560)</td><td>Zaku (626 &rarr; 636)</td><td>a szombati nap megszervezéséért és meghívásért.</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Yuuki (556 &rarr; 558)</td><td>Dóri (272 &rarr; 282)</td><td>Sushis és csokievős szombatért.</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Yuuki (554 &rarr; 556)</td><td>Zaku (616 &rarr; 626)</td><td>Sushis és csokievős szombatért.</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Dóri (270 &rarr; 272)</td><td>Nezu (40 &rarr; 50)</td><td>volt meeten ^^</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Dóri (268 &rarr; 270)</td><td>Renátó (120 &rarr; 130)</td><td>Rappelz mókázások :D</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Dóri (266 &rarr; 268)</td><td>Szacsi (312 &rarr; 322)</td><td>felirat, animeajánlás miatt ^^</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Dóri (264 &rarr; 266)</td><td>Yuuki (544 &rarr; 554)</td><td>szombati sushizás miatt ^^</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Dóri (262 &rarr; 264)</td><td>Zaku (606 &rarr; 616)</td><td>szombati sushizás miatt ^^</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Dóri (260 &rarr; 262)</td><td>Yasa (606 &rarr; 616)</td><td>aranyos és mindig segít :)</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Dóri (258 &rarr; 260)</td><td>Scor (596 &rarr; 606)</td><td>türelmes kockulásért :)</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Dóri (256 &rarr; 258)</td><td>Zaku (596 &rarr; 606)</td><td>a képek feltöltésében való nélkülözhetetlen segitségért :)</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Dóri (254 &rarr; 256)</td><td>Zaku (586 &rarr; 596)</td><td>beszerezte nekem a kitűzőt *-*</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Dóri (252 &rarr; 254)</td><td>Papee (40 &rarr; 50)</td><td>matrica :) </td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (584 &rarr; 586)</td><td>Renátó (110 &rarr; 120)</td><td>Uno trollkodásért :D</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (582 &rarr; 584)</td><td>Yasa (596 &rarr; 606)</td><td>képekhez való aktiv kommentekért^^</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (580 &rarr; 582)</td><td>Yuuki (534 &rarr; 544)</td><td>KRM meeten valo részvétel és ökörködések miatt :D</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (578 &rarr; 580)</td><td>Rizi (184 &rarr; 194)</td><td>KRM meeten valo részvétel és ökörködések miatt :D</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (576 &rarr; 578)</td><td>Yuuki (524 &rarr; 534)</td><td>az érdekesre sikerül sushikészités miatt :D</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (574 &rarr; 576)</td><td>Dóri (242 &rarr; 252)</td><td>az érdekesre sikerül sushikészités miatt :D</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (572 &rarr; 574)</td><td>Dóri (232 &rarr; 242)</td><td>dA-s aktivitásért</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (570 &rarr; 572)</td><td>Yuuki (514 &rarr; 524)</td><td>dA-s aktivitásért</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (568 &rarr; 570)</td><td>Szacsi (302 &rarr; 312)</td><td>dA-s aktivitásért</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (566 &rarr; 568)</td><td>Rizi (174 &rarr; 184)</td><td>dA-s aktivitásért</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (564 &rarr; 566)</td><td>Szacsi (292 &rarr; 302)</td><td>dA segítségért</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (562 &rarr; 564)</td><td>Dóri (222 &rarr; 232)</td><td>a kitartó fényképes feltöltésekért</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (560 &rarr; 562)</td><td>Yuuki (504 &rarr; 514)</td><td>teáért *-*</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (558 &rarr; 560)</td><td>Szacsi (282 &rarr; 292)</td><td>animékért  :D</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (556 &rarr; 558)</td><td>Scor (586 &rarr; 596)</td><td>animéért :)</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (554 &rarr; 556)</td><td>Gaara (146 &rarr; 156)</td><td>életmentő kóla (ebben a melegben...)</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (552 &rarr; 554)</td><td>Zsolti (50 &rarr; 60)</td><td>vicces de &quot;cuki&quot; robot modellért :D</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (550 &rarr; 552)</td><td>Rizi (164 &rarr; 174)</td><td>a lelkes aktivíkodásért és kitartásáért</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (548 &rarr; 550)</td><td>Yuuki (494 &rarr; 504)</td><td>a photoshopozáshoz való kedvem ujraélesztéséért :D</td></tr>
+<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (546 &rarr; 548)</td><td>Dóri (212 &rarr; 222)</td><td>a sok segitségért (főleg a fényképek)</td></tr>
 <tr><td>2012. 06. 05.</td><td>+</td><td>Yasa (594 &rarr; 596)</td><td>Dóri (202 &rarr; 212)</td><td>Mert képes végighallgatni Scor kőkockulásait :D</td></tr>
 <tr><td>2012. 06. 05.</td><td>+</td><td>Yasa (592 &rarr; 594)</td><td>Scor (576 &rarr; 586)</td><td>Szorgalmas zongorázás miatt ^^</td></tr>
 <tr><td>2012. 06. 05.</td><td>+</td><td>Zaku (544 &rarr; 546)</td><td>Szacsi (272 &rarr; 282)</td><td>Animeajánlásért</td></tr>
@@ -56,45 +98,3 @@
 <tr><td>2012. 05. 21.</td><td>+</td><td>Yasa (512 &rarr; 514)</td><td>Yuuki (414 &rarr; 424)</td><td>Házigazdáskodásért és a finom tortáért ^^</td></tr>
 <tr><td>2012. 05. 21.</td><td>+</td><td>Yasa (510 &rarr; 512)</td><td>Luca (136 &rarr; 146)</td><td>Köszönöm a rajzot és hogy le tudtál jönni szombaton~ ^^</td></tr>
 <tr><td>2012. 05. 21.</td><td>+</td><td>Yasa (508 &rarr; 510)</td><td>Dóri (122 &rarr; 132)</td><td>Köszönöm a rajzot, hogy jött szombaton és hogy hozott fényképezőgépet, amivel tudtatok sok vicces képet csinálni</td></tr>
-<tr><td>2012. 05. 21.</td><td>+</td><td>Yasa (506 &rarr; 508)</td><td>Zaku (470 &rarr; 480)</td><td>Sok fényképezésért, azért, hogy eljöttél és az aggódásért :D</td></tr>
-<tr><td>2012. 05. 15.</td><td>+</td><td>Scor (476 &rarr; 478)</td><td>Yasa (496 &rarr; 506)</td><td>Szépek lettek a fejlécképek *_*</td></tr>
-<tr><td>2012. 05. 15.</td><td>+</td><td>Dóri (120 &rarr; 122)</td><td>Rizi (144 &rarr; 154)</td><td>like a boss :P, kellemes útitárs a vonaton</td></tr>
-<tr><td>2012. 05. 15.</td><td>+</td><td>Dóri (118 &rarr; 120)</td><td>Renátó (60 &rarr; 70)</td><td>SG segítség, bubii</td></tr>
-<tr><td>2012. 05. 15.</td><td>+</td><td>Dóri (116 &rarr; 118)</td><td>Yasa (486 &rarr; 496)</td><td>Csoportkép harc, Lain artbook, bubii</td></tr>
-<tr><td>2012. 05. 15.</td><td>+</td><td>Papee (18 &rarr; 20)</td><td>Zaku (460 &rarr; 470)</td><td>Az aranyos tévedésért a kommentben.</td></tr>
-<tr><td>2012. 05. 15.</td><td>+</td><td>Papee (16 &rarr; 18)</td><td>Daniella (20 &rarr; 30)</td><td>Mert ő is hozzászólt.</td></tr>
-<tr><td>2012. 05. 15.</td><td>+</td><td>Papee (14 &rarr; 16)</td><td>Yuuki (404 &rarr; 414)</td><td>Mert nagyon jó fej volt a kommentben</td></tr>
-<tr><td>2012. 05. 15.</td><td>+</td><td>Papee (12 &rarr; 14)</td><td>Yasa (476 &rarr; 486)</td><td>Mert szent fáradalomnak hiszi</td></tr>
-<tr><td>2012. 05. 15.</td><td>+</td><td>Papee (10 &rarr; 12)</td><td>Scor (466 &rarr; 476)</td><td>Mert gondoltál rám</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Dóri (114 &rarr; 116)</td><td>Chesy (150 &rarr; 160)</td><td>A cuccok miatt, amit linkelt és jó cikk lett belőlük</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Dóri (112 &rarr; 114)</td><td>Scor (456 &rarr; 466)</td><td>Zongora, cikkek, tanítás / segítés</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Dóri (110 &rarr; 112)</td><td>Zaku (450 &rarr; 460)</td><td>Mindig odaadta a fotógépet *.*</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Dóri (108 &rarr; 110)</td><td>Szacsi (232 &rarr; 242)</td><td>Segít nevet keresni</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Dóri (106 &rarr; 108)</td><td>Yasa (466 &rarr; 476)</td><td>Cikkek, segít nevet keresni</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Dóri (104 &rarr; 106)</td><td>Nezu (30 &rarr; 40)</td><td>Jófejek és kedvesek és szóbaállnak velem meg ilyesmik ^^ </td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Dóri (102 &rarr; 104)</td><td>Zsolti (10 &rarr; 20)</td><td>Jófejek és kedvesek és szóbaállnak velem meg ilyesmik ^^ </td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Dóri (100 &rarr; 102)</td><td>Szacsi (222 &rarr; 232)</td><td>Jófejek és kedvesek és szóbaállnak velem meg ilyesmik ^^ </td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Dóri (98 &rarr; 100)</td><td>Szaszus (52 &rarr; 62)</td><td>Jófejek és kedvesek és szóbaállnak velem meg ilyesmik ^^ </td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Dóri (96 &rarr; 98)</td><td>Sába (50 &rarr; 60)</td><td>Jófejek és kedvesek és szóbaállnak velem meg ilyesmik ^^ </td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Dóri (94 &rarr; 96)</td><td>Gaara (136 &rarr; 146)</td><td>Jófejek és kedvesek és szóbaállnak velem meg ilyesmik ^^ </td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Dóri (92 &rarr; 94)</td><td>Luca (126 &rarr; 136)</td><td>Jófejek és kedvesek és szóbaállnak velem meg ilyesmik ^^ </td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Dóri (90 &rarr; 92)</td><td>Renátó (50 &rarr; 60)</td><td>Jófejek és kedvesek és szóbaállnak velem meg ilyesmik ^^ </td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Dóri (88 &rarr; 90)</td><td>Yuuki (394 &rarr; 404)</td><td>Jófejek és kedvesek és szóbaállnak velem meg ilyesmik ^^ </td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Dóri (86 &rarr; 88)</td><td>Zaku (440 &rarr; 450)</td><td>Jófejek és kedvesek és szóbaállnak velem meg ilyesmik ^^ </td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Dóri (84 &rarr; 86)</td><td>Rizi (134 &rarr; 144)</td><td>Jófejek és kedvesek és szóbaállnak velem meg ilyesmik ^^ </td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Dóri (82 &rarr; 84)</td><td>Scor (446 &rarr; 456)</td><td>Jófejek és kedvesek és szóbaállnak velem meg ilyesmik ^^ </td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Dóri (80 &rarr; 82)</td><td>Yasa (456 &rarr; 466)</td><td>Jófejek és kedvesek és szóbaállnak velem meg ilyesmik ^^ </td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Scor (444 &rarr; 446)</td><td>Rizi (124 &rarr; 134)</td><td>Aktívkodásért klubos FB csoportban</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Scor (442 &rarr; 444)</td><td>Nadine (30 &rarr; 40)</td><td>Aktívkodásért klubos FB csoportban</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Scor (440 &rarr; 442)</td><td>Yoru (238 &rarr; 248)</td><td>Aktívkodásért klubos FB csoportban</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Scor (438 &rarr; 440)</td><td>Yuuki (384 &rarr; 394)</td><td>Aktívkodásért klubos FB csoportban</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Scor (436 &rarr; 438)</td><td>Luca (116 &rarr; 126)</td><td>Aktívkodásért klubos FB csoportban</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Scor (434 &rarr; 436)</td><td>Nezu (20 &rarr; 30)</td><td>Aktívkodásért klubos FB csoportban</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Scor (432 &rarr; 434)</td><td>Yasa (446 &rarr; 456)</td><td>Aktívkodásért klubos FB csoportban</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Scor (430 &rarr; 432)</td><td>Zaku (430 &rarr; 440)</td><td>Aktívkodásért klubos FB csoportban</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Scor (428 &rarr; 430)</td><td>Szacsi (212 &rarr; 222)</td><td>Aktívkodásért klubos FB csoportban</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Scor (426 &rarr; 428)</td><td>Chesy (140 &rarr; 150)</td><td>Aktívkodásért klubos FB csoportban</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Scor (424 &rarr; 426)</td><td>Dóri (70 &rarr; 80)</td><td>Aktívkodásért klubos FB csoportban</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Scor (422 &rarr; 424)</td><td>Szaszus (42 &rarr; 52)</td><td>Aktívkodásért klubos FB csoportban</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Scor (420 &rarr; 422)</td><td>Daniella (10 &rarr; 20)</td><td>Aktívkodásért klubos FB csoportban</td></tr>
-<tr><td>2012. 05. 13.</td><td>+</td><td>Scor (418 &rarr; 420)</td><td>Chesy (130 &rarr; 140)</td><td>Aktívkodásért klubos FB oldalon</td></tr>
