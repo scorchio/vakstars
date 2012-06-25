@@ -1,3 +1,13 @@
+<tr><td>2012. 06. 25.</td><td>+</td><td>Scor (700 &rarr; 702)</td><td>Daniella (30 &rarr; 40)</td><td>Nosztalgiatalálkozó szervezés első körben</td></tr>
+<tr><td>2012. 06. 25.</td><td>+</td><td>Scor (698 &rarr; 700)</td><td>Renátó (170 &rarr; 180)</td><td>Nosztalgiatalálkozó szervezés első körben</td></tr>
+<tr><td>2012. 06. 25.</td><td>+</td><td>Scor (696 &rarr; 698)</td><td>Zsolti (110 &rarr; 120)</td><td>Nosztalgiatalálkozó szervezés első körben</td></tr>
+<tr><td>2012. 06. 25.</td><td>+</td><td>Scor (694 &rarr; 696)</td><td>Nezu (70 &rarr; 80)</td><td>Nosztalgiatalálkozó szervezés első körben</td></tr>
+<tr><td>2012. 06. 25.</td><td>+</td><td>Scor (692 &rarr; 694)</td><td>Szacsi (394 &rarr; 404)</td><td>Nosztalgiatalálkozó szervezés első körben</td></tr>
+<tr><td>2012. 06. 25.</td><td>+</td><td>Scor (690 &rarr; 692)</td><td>Yasa (696 &rarr; 706)</td><td>Nosztalgiatalálkozó szervezés első körben</td></tr>
+<tr><td>2012. 06. 25.</td><td>+</td><td>Scor (688 &rarr; 690)</td><td>Yasa (686 &rarr; 696)</td><td>Anime-ellátmányért ^^</td></tr>
+<tr><td>2012. 06. 25.</td><td>+</td><td>Scor (686 &rarr; 688)</td><td>Yasa (676 &rarr; 686)</td><td>Hétvégéért :)</td></tr>
+<tr><td>2012. 06. 25.</td><td>+</td><td>Zaku (724 &rarr; 726)</td><td>Yuuki (628 &rarr; 638)</td><td>Ikemen desu ne megmutatásáért &gt;.&lt;</td></tr>
+<tr><td>2012. 06. 25.</td><td>+</td><td>Zaku (722 &rarr; 724)</td><td>Rizi (254 &rarr; 264)</td><td>A netes rajzbemutatóért és oktatásért</td></tr>
 <tr><td>2012. 06. 21.</td><td>+</td><td>Szacsi (392 &rarr; 394)</td><td>Scor (676 &rarr; 686)</td><td>Amiért IRC-n aktívkodtak</td></tr>
 <tr><td>2012. 06. 21.</td><td>+</td><td>Szacsi (390 &rarr; 392)</td><td>Dóri (332 &rarr; 342)</td><td>Amiért IRC-n aktívkodtak</td></tr>
 <tr><td>2012. 06. 21.</td><td>+</td><td>Szacsi (388 &rarr; 390)</td><td>Nezu (60 &rarr; 70)</td><td>Amiért IRC-n aktívkodtak</td></tr>
@@ -88,13 +98,3 @@
 <tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (560 &rarr; 562)</td><td>Yuuki (504 &rarr; 514)</td><td>teáért *-*</td></tr>
 <tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (558 &rarr; 560)</td><td>Szacsi (282 &rarr; 292)</td><td>animékért  :D</td></tr>
 <tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (556 &rarr; 558)</td><td>Scor (586 &rarr; 596)</td><td>animéért :)</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (554 &rarr; 556)</td><td>Gaara (146 &rarr; 156)</td><td>életmentő kóla (ebben a melegben...)</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (552 &rarr; 554)</td><td>Zsolti (50 &rarr; 60)</td><td>vicces de &quot;cuki&quot; robot modellért :D</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (550 &rarr; 552)</td><td>Rizi (164 &rarr; 174)</td><td>a lelkes aktivíkodásért és kitartásáért</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (548 &rarr; 550)</td><td>Yuuki (494 &rarr; 504)</td><td>a photoshopozáshoz való kedvem ujraélesztéséért :D</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (546 &rarr; 548)</td><td>Dóri (212 &rarr; 222)</td><td>a sok segitségért (főleg a fényképek)</td></tr>
-<tr><td>2012. 06. 05.</td><td>+</td><td>Yasa (594 &rarr; 596)</td><td>Dóri (202 &rarr; 212)</td><td>Mert képes végighallgatni Scor kőkockulásait :D</td></tr>
-<tr><td>2012. 06. 05.</td><td>+</td><td>Yasa (592 &rarr; 594)</td><td>Scor (576 &rarr; 586)</td><td>Szorgalmas zongorázás miatt ^^</td></tr>
-<tr><td>2012. 06. 05.</td><td>+</td><td>Zaku (544 &rarr; 546)</td><td>Szacsi (272 &rarr; 282)</td><td>Animeajánlásért</td></tr>
-<tr><td>2012. 06. 05.</td><td>+</td><td>Zaku (542 &rarr; 544)</td><td>Yuuki (484 &rarr; 494)</td><td>Tanulásban való segítség</td></tr>
-<tr><td>2012. 06. 05.</td><td>+</td><td>Zaku (540 &rarr; 542)</td><td>Scor (566 &rarr; 576)</td><td>A lemaradások orvoslásáért :D (cikkek, fényképek)</td></tr>
