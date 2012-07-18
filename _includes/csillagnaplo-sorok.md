@@ -1,3 +1,18 @@
+<tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (754 &rarr; 756)</td><td>Scor (702 &rarr; 712)</td><td>Segítség a képek válogatásában, értékelésében</td></tr>
+<tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (752 &rarr; 754)</td><td>Szacsi (424 &rarr; 434)</td><td>Segítség a képek válogatásában, értékelésében</td></tr>
+<tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (750 &rarr; 752)</td><td>Zsolti (140 &rarr; 150)</td><td>Segítség a képek válogatásában, értékelésében</td></tr>
+<tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (748 &rarr; 750)</td><td>Yuuki (658 &rarr; 668)</td><td>Segítség a képek válogatásában, értékelésében</td></tr>
+<tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (746 &rarr; 748)</td><td>Yasa (706 &rarr; 716)</td><td>Segítség a képek válogatásában, értékelésében</td></tr>
+<tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (744 &rarr; 746)</td><td>Yuuki (648 &rarr; 658)</td><td>A doramáért és a poszterekért</td></tr>
+<tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (742 &rarr; 744)</td><td>Szacsi (414 &rarr; 424)</td><td>Mert 3 liter Pepsi után is kezelhető állapotban volt :D</td></tr>
+<tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (740 &rarr; 742)</td><td>Zsolti (130 &rarr; 140)</td><td>Tanabata ünnepen (szombaton) történő részvételért</td></tr>
+<tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (738 &rarr; 740)</td><td>Gaara (166 &rarr; 176)</td><td>Tanabata ünnepen (szombaton) történő részvételért</td></tr>
+<tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (736 &rarr; 738)</td><td>Yuuki (638 &rarr; 648)</td><td>Tanabata ünnepen (szombaton) történő részvételért</td></tr>
+<tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (734 &rarr; 736)</td><td>Szacsi (404 &rarr; 414)</td><td>Tanabata ünnepen (szombaton) történő részvételért</td></tr>
+<tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (732 &rarr; 734)</td><td>Yoru (318 &rarr; 328)</td><td>Tanabata ünnepen (szombaton) történő részvételért</td></tr>
+<tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (730 &rarr; 732)</td><td>Zsolti (120 &rarr; 130)</td><td>Jól el lehet vele beszélgetni ^^</td></tr>
+<tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (728 &rarr; 730)</td><td>Rizi (274 &rarr; 284)</td><td>KRM kitartó és rendíthetetlen vezetéséért</td></tr>
+<tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (726 &rarr; 728)</td><td>Rizi (264 &rarr; 274)</td><td>Eladásban és reklámozásban való segítség</td></tr>
 <tr><td>2012. 06. 25.</td><td>+</td><td>Scor (700 &rarr; 702)</td><td>Daniella (30 &rarr; 40)</td><td>Nosztalgiatalálkozó szervezés első körben</td></tr>
 <tr><td>2012. 06. 25.</td><td>+</td><td>Scor (698 &rarr; 700)</td><td>Renátó (170 &rarr; 180)</td><td>Nosztalgiatalálkozó szervezés első körben</td></tr>
 <tr><td>2012. 06. 25.</td><td>+</td><td>Scor (696 &rarr; 698)</td><td>Zsolti (110 &rarr; 120)</td><td>Nosztalgiatalálkozó szervezés első körben</td></tr>
@@ -83,18 +98,3 @@
 <tr><td>2012. 06. 18.</td><td>+</td><td>Dóri (256 &rarr; 258)</td><td>Zaku (596 &rarr; 606)</td><td>a képek feltöltésében való nélkülözhetetlen segitségért :)</td></tr>
 <tr><td>2012. 06. 18.</td><td>+</td><td>Dóri (254 &rarr; 256)</td><td>Zaku (586 &rarr; 596)</td><td>beszerezte nekem a kitűzőt *-*</td></tr>
 <tr><td>2012. 06. 18.</td><td>+</td><td>Dóri (252 &rarr; 254)</td><td>Papee (40 &rarr; 50)</td><td>matrica :) </td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (584 &rarr; 586)</td><td>Renátó (110 &rarr; 120)</td><td>Uno trollkodásért :D</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (582 &rarr; 584)</td><td>Yasa (596 &rarr; 606)</td><td>képekhez való aktiv kommentekért^^</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (580 &rarr; 582)</td><td>Yuuki (534 &rarr; 544)</td><td>KRM meeten valo részvétel és ökörködések miatt :D</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (578 &rarr; 580)</td><td>Rizi (184 &rarr; 194)</td><td>KRM meeten valo részvétel és ökörködések miatt :D</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (576 &rarr; 578)</td><td>Yuuki (524 &rarr; 534)</td><td>az érdekesre sikerül sushikészités miatt :D</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (574 &rarr; 576)</td><td>Dóri (242 &rarr; 252)</td><td>az érdekesre sikerül sushikészités miatt :D</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (572 &rarr; 574)</td><td>Dóri (232 &rarr; 242)</td><td>dA-s aktivitásért</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (570 &rarr; 572)</td><td>Yuuki (514 &rarr; 524)</td><td>dA-s aktivitásért</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (568 &rarr; 570)</td><td>Szacsi (302 &rarr; 312)</td><td>dA-s aktivitásért</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (566 &rarr; 568)</td><td>Rizi (174 &rarr; 184)</td><td>dA-s aktivitásért</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (564 &rarr; 566)</td><td>Szacsi (292 &rarr; 302)</td><td>dA segítségért</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (562 &rarr; 564)</td><td>Dóri (222 &rarr; 232)</td><td>a kitartó fényképes feltöltésekért</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (560 &rarr; 562)</td><td>Yuuki (504 &rarr; 514)</td><td>teáért *-*</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (558 &rarr; 560)</td><td>Szacsi (282 &rarr; 292)</td><td>animékért  :D</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Zaku (556 &rarr; 558)</td><td>Scor (586 &rarr; 596)</td><td>animéért :)</td></tr>
