@@ -1,3 +1,22 @@
+<tr><td>2012. 08. 28.</td><td>+</td><td>Zaku (792 &rarr; 794)</td><td>Scor (712 &rarr; 722)</td><td>nosztalgiameet összehozásáért</td></tr>
+<tr><td>2012. 08. 28.</td><td>+</td><td>Zaku (790 &rarr; 792)</td><td>Yasa (736 &rarr; 746)</td><td>mert bebizonyította, hogy a vaníliás -tényleg hideg- fagyi jó capuchinos nápolyival :D (jó? finom mint a fene *-*)</td></tr>
+<tr><td>2012. 08. 28.</td><td>+</td><td>Zaku (788 &rarr; 790)</td><td>Yasa (726 &rarr; 736)</td><td>mert felrángatott a trambulinra :D</td></tr>
+<tr><td>2012. 08. 28.</td><td>+</td><td>Zaku (786 &rarr; 788)</td><td>Chesy (270 &rarr; 280)</td><td>mert felrángatott a trambulinra :D</td></tr>
+<tr><td>2012. 08. 28.</td><td>+</td><td>Zaku (784 &rarr; 786)</td><td>Myki (0 &rarr; 10)</td><td>nosztalgiameeten való fotózásért :D</td></tr>
+<tr><td>2012. 08. 28.</td><td>+</td><td>Zaku (782 &rarr; 784)</td><td>Luca (176 &rarr; 186)</td><td>rajzos aktívkodásért</td></tr>
+<tr><td>2012. 08. 28.</td><td>+</td><td>Zaku (780 &rarr; 782)</td><td>Gaara (176 &rarr; 186)</td><td>a szalonnasütögetős meetért :3</td></tr>
+<tr><td>2012. 08. 28.</td><td>+</td><td>Zaku (778 &rarr; 780)</td><td>Dóri (352 &rarr; 362)</td><td>mert megosztotta ételét az éhezőkkel *-* (avagy miatta lett mindenkinek fehér a szája széle... persze a salátáról beszélek :D)</td></tr>
+<tr><td>2012. 08. 28.</td><td>+</td><td>Zaku (776 &rarr; 778)</td><td>Zsolti (150 &rarr; 160)</td><td>LOL :D (a segítségért és a meccsekért :D)</td></tr>
+<tr><td>2012. 08. 28.</td><td>+</td><td>Zaku (774 &rarr; 776)</td><td>Kitty (0 &rarr; 10)</td><td>LOL :D (a segítségért és a meccsekért :D)</td></tr>
+<tr><td>2012. 08. 28.</td><td>+</td><td>Zaku (772 &rarr; 774)</td><td>Renátó (180 &rarr; 190)</td><td>LOL :D (a segítségért és a meccsekért :D)</td></tr>
+<tr><td>2012. 08. 28.</td><td>+</td><td>Zaku (770 &rarr; 772)</td><td>Yuuki (668 &rarr; 678)</td><td>játékokért *-* (assassin&apos;s)</td></tr>
+<tr><td>2012. 08. 28.</td><td>+</td><td>Zaku (768 &rarr; 770)</td><td>Dóri (342 &rarr; 352)</td><td>aktív fényképezésekért :D</td></tr>
+<tr><td>2012. 08. 28.</td><td>+</td><td>Zaku (766 &rarr; 768)</td><td>Rizi (304 &rarr; 314)</td><td>mangákért :3</td></tr>
+<tr><td>2012. 08. 28.</td><td>+</td><td>Zaku (764 &rarr; 766)</td><td>Szacsi (444 &rarr; 454)</td><td>mangákért :3</td></tr>
+<tr><td>2012. 08. 28.</td><td>+</td><td>Zaku (762 &rarr; 764)</td><td>Yasa (716 &rarr; 726)</td><td>a sok buksisimiért &gt;.&lt;</td></tr>
+<tr><td>2012. 08. 28.</td><td>+</td><td>Zaku (760 &rarr; 762)</td><td>Rizi (294 &rarr; 304)</td><td>vásárlásban és kikapcsolódásban való segítségért :D</td></tr>
+<tr><td>2012. 08. 28.</td><td>+</td><td>Zaku (758 &rarr; 760)</td><td>Rizi (284 &rarr; 294)</td><td>mangákért</td></tr>
+<tr><td>2012. 08. 28.</td><td>+</td><td>Zaku (756 &rarr; 758)</td><td>Szacsi (434 &rarr; 444)</td><td>mangákért</td></tr>
 <tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (754 &rarr; 756)</td><td>Scor (702 &rarr; 712)</td><td>Segítség a képek válogatásában, értékelésében</td></tr>
 <tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (752 &rarr; 754)</td><td>Szacsi (424 &rarr; 434)</td><td>Segítség a képek válogatásában, értékelésében</td></tr>
 <tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (750 &rarr; 752)</td><td>Zsolti (140 &rarr; 150)</td><td>Segítség a képek válogatásában, értékelésében</td></tr>
@@ -79,22 +98,3 @@
 <tr><td>2012. 06. 18.</td><td>+</td><td>Yuuki (576 &rarr; 578)</td><td>Luca (166 &rarr; 176)</td><td>mert a kezemben foghattam egy Ipad-et *-*</td></tr>
 <tr><td>2012. 06. 18.</td><td>+</td><td>Yuuki (574 &rarr; 576)</td><td>Rizi (204 &rarr; 214)</td><td>cukoooor ~~ *-*</td></tr>
 <tr><td>2012. 06. 18.</td><td>+</td><td>Yuuki (572 &rarr; 574)</td><td>Zaku (646 &rarr; 656)</td><td>KRM meet.</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Yuuki (570 &rarr; 572)</td><td>Rizi (194 &rarr; 204)</td><td>KRM meet.</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Yuuki (568 &rarr; 570)</td><td>Szaszus (66 &rarr; 76)</td><td>mert etetett. xD</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Yuuki (566 &rarr; 568)</td><td>Yoru (268 &rarr; 278)</td><td>a körmökért</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Yuuki (564 &rarr; 566)</td><td>Dóri (292 &rarr; 302)</td><td>mert mindig hozza a gépet.</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Yuuki (562 &rarr; 564)</td><td>Zaku (636 &rarr; 646)</td><td>Sok sok fényképért.</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Yuuki (560 &rarr; 562)</td><td>Dóri (282 &rarr; 292)</td><td>mert StarWars fan *-*</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Yuuki (558 &rarr; 560)</td><td>Zaku (626 &rarr; 636)</td><td>a szombati nap megszervezéséért és meghívásért.</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Yuuki (556 &rarr; 558)</td><td>Dóri (272 &rarr; 282)</td><td>Sushis és csokievős szombatért.</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Yuuki (554 &rarr; 556)</td><td>Zaku (616 &rarr; 626)</td><td>Sushis és csokievős szombatért.</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Dóri (270 &rarr; 272)</td><td>Nezu (40 &rarr; 50)</td><td>volt meeten ^^</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Dóri (268 &rarr; 270)</td><td>Renátó (120 &rarr; 130)</td><td>Rappelz mókázások :D</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Dóri (266 &rarr; 268)</td><td>Szacsi (312 &rarr; 322)</td><td>felirat, animeajánlás miatt ^^</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Dóri (264 &rarr; 266)</td><td>Yuuki (544 &rarr; 554)</td><td>szombati sushizás miatt ^^</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Dóri (262 &rarr; 264)</td><td>Zaku (606 &rarr; 616)</td><td>szombati sushizás miatt ^^</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Dóri (260 &rarr; 262)</td><td>Yasa (606 &rarr; 616)</td><td>aranyos és mindig segít :)</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Dóri (258 &rarr; 260)</td><td>Scor (596 &rarr; 606)</td><td>türelmes kockulásért :)</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Dóri (256 &rarr; 258)</td><td>Zaku (596 &rarr; 606)</td><td>a képek feltöltésében való nélkülözhetetlen segitségért :)</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Dóri (254 &rarr; 256)</td><td>Zaku (586 &rarr; 596)</td><td>beszerezte nekem a kitűzőt *-*</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Dóri (252 &rarr; 254)</td><td>Papee (40 &rarr; 50)</td><td>matrica :) </td></tr>
