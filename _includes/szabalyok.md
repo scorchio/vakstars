@@ -8,11 +8,7 @@ Vigyázz! Ha sikerül valami nagy butaságot csinálni, akkor akár ellened is s
 
 Nagyon fontos, hogy naponta nem lehet *50 csillagnál többet kapni*, illetve *10 csillagnál többet veszíteni*. Ha a szavazat túllépné a maximumot, akkor csak rögzítésre kerül, de nem módosítja a csillagok számát.
 
-Még egy fontos "apróság": szavazni csak úgy lehet, hogyha Scornak egy üzenetet
-* a fórumon, privben,
-* Facebook-on, privben,
-* SMS-ben vagy
-* e-mail-ben.
+Még egy fontos "apróság": szavazni csak úgy lehet, hogyha küldesz a csodálatos csillag-brigádnak egy mailt a vakstars kukac gmail pont com címre! ^^
 
 Ebben le kell írni, hogy miért szavazol a másikra - **mit tett szerinted azért, hogy jobb legyen a klubnak?**
 

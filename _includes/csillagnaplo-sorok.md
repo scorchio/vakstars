@@ -1,3 +1,39 @@
+<tr><td>2012.10.12.</td><td>+</td><td>Yasa (800 &rarr; 802)</td><td>Yuuki (698 &rarr; 708)</td><td>Mert faggatózott, hogy ki jön meet-re, még ha Ő maga most nem is tudott részt venni :3</td></tr>
+<tr><td>2012.10.12.</td><td>+</td><td>Yasa (798 &rarr; 800)</td><td>Luca (206 &rarr; 216)</td><td>Rengeteg rajzolásért</td></tr>
+<tr><td>2012.10.12.</td><td>+</td><td>Yasa (796 &rarr; 798)</td><td>Rizi (330 &rarr; 340)</td><td>Lelkesedésért</td></tr>
+<tr><td>2012.10.12.</td><td>+</td><td>Yasa (794 &rarr; 796)</td><td>Taka (20 &rarr; 30)</td><td>Jogsi letételéért</td></tr>
+<tr><td>2012.10.12.</td><td>+</td><td>Yasa (792 &rarr; 794)</td><td>Zaku (842 &rarr; 852)</td><td>Képek feltöltögetéséért</td></tr>
+<tr><td>2012.10.12.</td><td>+</td><td>Yasa (790 &rarr; 792)</td><td>Dóri (412 &rarr; 422)</td><td>Meet-es fotózásért</td></tr>
+<tr><td>2012.10.12.</td><td>+</td><td>Yasa (788 &rarr; 790)</td><td>Dóri (402 &rarr; 412)</td><td>OKTV-n való részvételért</td></tr>
+<tr><td>2012.10.12.</td><td>+</td><td>Yasa (786 &rarr; 788)</td><td>Luca (196 &rarr; 206)</td><td>FB-n való aktívkodásért</td></tr>
+<tr><td>2012.10.12.</td><td>+</td><td>Yasa (784 &rarr; 786)</td><td>Szacsi (474 &rarr; 484)</td><td>FB-n való aktívkodásért</td></tr>
+<tr><td>2012.10.12.</td><td>+</td><td>Yasa (782 &rarr; 784)</td><td>Zaku (832 &rarr; 842)</td><td>FB-n való aktívkodásért</td></tr>
+<tr><td>2012.10.12.</td><td>+</td><td>Yasa (780 &rarr; 782)</td><td>Taka (10 &rarr; 20)</td><td>FB-n való aktívkodásért</td></tr>
+<tr><td>2012.10.12.</td><td>+</td><td>Yasa (778 &rarr; 780)</td><td>Scor (784 &rarr; 794)</td><td>FB-re való ütemezésért</td></tr>
+<tr><td>2012.10.12.</td><td>+</td><td>Yasa (776 &rarr; 778)</td><td>Scor (774 &rarr; 784)</td><td>Sok ügyeskedésért</td></tr>
+<tr><td>2012.10.12.</td><td>+</td><td>Dóri (400 &rarr; 402)</td><td>Nezu (80 &rarr; 90)</td><td>A matek segítségért</td></tr>
+<tr><td>2012.10.12.</td><td>+</td><td>Dóri (398 &rarr; 400)</td><td>Renátó (190 &rarr; 200)</td><td>A fórum aktivitásért</td></tr>
+<tr><td>2012.10.12.</td><td>+</td><td>Dóri (396 &rarr; 398)</td><td>Szacsi (464 &rarr; 474)</td><td>Az animés facebook posztokért</td></tr>
+<tr><td>2012.10.12.</td><td>+</td><td>Dóri (394 &rarr; 396)</td><td>Zaku (822 &rarr; 832)</td><td>A fotók utómunkájáért</td></tr>
+<tr><td>2012.10.12.</td><td>+</td><td>Dóri (392 &rarr; 394)</td><td>Zaku (812 &rarr; 822)</td><td>A finom boros teáért</td></tr>
+<tr><td>2012.10.12.</td><td>+</td><td>Dóri (390 &rarr; 392)</td><td>Yasa (766 &rarr; 776)</td><td>A meeten való beszélgetésért</td></tr>
+<tr><td>2012.10.12.</td><td>+</td><td>Dóri (388 &rarr; 390)</td><td>Yasa (756 &rarr; 766)</td><td>A kisfilmes ötletért</td></tr>
+<tr><td>2012.10.12.</td><td>+</td><td>Dóri (386 &rarr; 388)</td><td>Rizi (320 &rarr; 330)</td><td>A jó ötletekért</td></tr>
+<tr><td>2012.10.12.</td><td>+</td><td>Dóri (384 &rarr; 386)</td><td>Scor (764 &rarr; 774)</td><td>A jó ötletekért</td></tr>
+<tr><td>2012.10.12.</td><td>+</td><td>Dóri (382 &rarr; 384)</td><td>Scor (754 &rarr; 764)</td><td>Mert ügyesen megírta az android appot</td></tr>
+<tr><td>2012.10.12.</td><td>+</td><td>Zaku (810 &rarr; 812)</td><td>Dóri (372 &rarr; 382)</td><td>Fotózásban való segítségért</td></tr>
+<tr><td>2012.10.12.</td><td>+</td><td>Zaku (808 &rarr; 810)</td><td>Scor (744 &rarr; 754)</td><td>A délutáni random beszélgetésért - nagyon jól jött</td></tr>
+<tr><td>2012.10.12.</td><td>+</td><td>Zaku (806 &rarr; 808)</td><td>Yuuki (688 &rarr; 698)</td><td>Rukkolában való segítségért, összedolgozásért</td></tr>
+<tr><td>2012.10.12.</td><td>+</td><td>Zaku (804 &rarr; 806)</td><td>Yoru (328 &rarr; 338)</td><td>Gyors segítségért a Death Note bábu beszerzésében</td></tr>
+<tr><td>2012.10.11.</td><td>+</td><td>Rizi (318 &rarr; 320)</td><td>Gaara (186 &rarr; 196)</td><td>A máriós cukorkákért</td></tr>
+<tr><td>2012.10.11.</td><td>+</td><td>Rizi (316 &rarr; 318)</td><td>Scor (734 &rarr; 744)</td><td>A remek ötletekért</td></tr>
+<tr><td>2012.10.11.</td><td>+</td><td>Rizi (314 &rarr; 316)</td><td>Dóri (362 &rarr; 372)</td><td>A meet-es fotózásért</td></tr>
+<tr><td>2012.10.11.</td><td>+</td><td>Scor (732 &rarr; 734)</td><td>Zaku (794 &rarr; 804)</td><td>A facebook-os csoportbéli bejegyzésekért</td></tr>
+<tr><td>2012.10.11.</td><td>+</td><td>Scor (730 &rarr; 732)</td><td>Luca (186 &rarr; 196)</td><td>A facebook-os csoportbéli bejegyzésekért</td></tr>
+<tr><td>2012.10.11.</td><td>+</td><td>Scor (728 &rarr; 730)</td><td>Yuuki (678 &rarr; 688)</td><td>A facebook-os csoportbéli bejegyzésekért</td></tr>
+<tr><td>2012.10.11.</td><td>+</td><td>Scor (726 &rarr; 728)</td><td>Szacsi (454 &rarr; 464)</td><td>A facebook-os csoportbéli bejegyzésekért</td></tr>
+<tr><td>2012.10.11.</td><td>+</td><td>Scor (724 &rarr; 726)</td><td>Taka (0 &rarr; 10)</td><td>Mert meglett a jogsija</td></tr>
+<tr><td>2012.10.11.</td><td>+</td><td>Scor (722 &rarr; 724)</td><td>Yasa (746 &rarr; 756)</td><td>A kisfilmes ötlet felvetéséért</td></tr>
 <tr><td>2012. 08. 28.</td><td>+</td><td>Zaku (792 &rarr; 794)</td><td>Scor (712 &rarr; 722)</td><td>nosztalgiameet összehozásáért</td></tr>
 <tr><td>2012. 08. 28.</td><td>+</td><td>Zaku (790 &rarr; 792)</td><td>Yasa (736 &rarr; 746)</td><td>mert bebizonyította, hogy a vaníliás -tényleg hideg- fagyi jó capuchinos nápolyival :D (jó? finom mint a fene *-*)</td></tr>
 <tr><td>2012. 08. 28.</td><td>+</td><td>Zaku (788 &rarr; 790)</td><td>Yasa (726 &rarr; 736)</td><td>mert felrángatott a trambulinra :D</td></tr>
@@ -62,39 +98,3 @@
 <tr><td>2012. 06. 21.</td><td>+</td><td>Szacsi (358 &rarr; 360)</td><td>Dóri (322 &rarr; 332)</td><td>Mert meeten volt és jó buli volt XD</td></tr>
 <tr><td>2012. 06. 21.</td><td>+</td><td>Szacsi (356 &rarr; 358)</td><td>Chesy (250 &rarr; 260)</td><td>Mert meeten volt és jó buli volt XD</td></tr>
 <tr><td>2012. 06. 21.</td><td>+</td><td>Szacsi (354 &rarr; 356)</td><td>Scor (666 &rarr; 676)</td><td>Mert meeten volt és jó buli volt XD</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Szacsi (352 &rarr; 354)</td><td>Yasa (656 &rarr; 666)</td><td>Mert meeten volt és jó buli volt XD</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Yasa (654 &rarr; 656)</td><td>Nezu (50 &rarr; 60)</td><td>IRC-n való fenn létért :)</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Yasa (652 &rarr; 654)</td><td>Yoru (288 &rarr; 298)</td><td>IRC-n való fenn létért :)</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Yasa (650 &rarr; 652)</td><td>Rizi (224 &rarr; 234)</td><td>IRC-n való fenn létért :)</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Yasa (648 &rarr; 650)</td><td>Yuuki (598 &rarr; 608)</td><td>IRC-n való fenn létért :)</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Yasa (646 &rarr; 648)</td><td>Zaku (692 &rarr; 702)</td><td>IRC-n való fenn létért :)</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Yasa (644 &rarr; 646)</td><td>Szacsi (342 &rarr; 352)</td><td>IRC-n való fenn létért :)</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Yasa (642 &rarr; 644)</td><td>Chesy (240 &rarr; 250)</td><td>IRC-n való fenn létért :)</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Yasa (640 &rarr; 642)</td><td>Renátó (140 &rarr; 150)</td><td>IRC-n való fenn létért :)</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Yasa (638 &rarr; 640)</td><td>Dóri (312 &rarr; 322)</td><td>IRC-n való fenn létért :)</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Yasa (636 &rarr; 638)</td><td>Scor (656 &rarr; 666)</td><td>IRC-n való fenn létért :)</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Yasa (634 &rarr; 636)</td><td>Szacsi (332 &rarr; 342)</td><td>Tegnap esti hülyülésekért :D</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Yasa (632 &rarr; 634)</td><td>Chesy (230 &rarr; 240)</td><td>Tegnap esti hülyülésekért :D</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Yasa (630 &rarr; 632)</td><td>Renátó (130 &rarr; 140)</td><td>Tegnap esti hülyülésekért :D</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Yasa (628 &rarr; 630)</td><td>Dóri (302 &rarr; 312)</td><td>Tegnap esti hülyülésekért :D</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Yasa (626 &rarr; 628)</td><td>Scor (646 &rarr; 656)</td><td>Tegnap esti hülyülésekért :D</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Yasa (624 &rarr; 626)</td><td>Zaku (682 &rarr; 692)</td><td>Képek készítgetéséért és gyors feltöltéséért</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Yasa (622 &rarr; 624)</td><td>Zsolti (90 &rarr; 100)</td><td>Mert meg is varrta Szacsi felsőjét... :D</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Yasa (620 &rarr; 622)</td><td>Chesy (220 &rarr; 230)</td><td>Mert jött meetre :) (és kitartás gyakorlathoz~ :D)</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Yasa (618 &rarr; 620)</td><td>Szacsi (322 &rarr; 332)</td><td>Mert jött meetre és mert komolyan képes majdnem minden nap mailt írni :D</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Yasa (616 &rarr; 618)</td><td>Scor (636 &rarr; 646)</td><td>Mert végül csak el tudott jönni időben meetre</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Zaku (680 &rarr; 682)</td><td>Zsolti (80 &rarr; 90)</td><td>A rögtönzött asztal építéséért :D</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Zaku (678 &rarr; 680)</td><td>Scor (626 &rarr; 636)</td><td>A rögtönzött asztal építéséért :D</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Zaku (676 &rarr; 678)</td><td>Scor (616 &rarr; 626)</td><td>A végtelenített ivóvíz ellátásért ^^</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Zaku (674 &rarr; 676)</td><td>Rizi (214 &rarr; 224)</td><td>Vízzel való lesben támadásért :D</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Zaku (672 &rarr; 674)</td><td>Yuuki (588 &rarr; 598)</td><td>Képek bescanneléséért</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Zaku (670 &rarr; 672)</td><td>Zsolti (70 &rarr; 80)</td><td>Az autóval tett szolgálatokért :D fuvarozás-csomagtárolás-légkondi</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Zaku (668 &rarr; 670)</td><td>Gaara (156 &rarr; 166)</td><td>A szép evőpálcikáért *-*</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Zaku (666 &rarr; 668)</td><td>Yoru (278 &rarr; 288)</td><td>Nori beszerzéséért</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Szaszus (82 &rarr; 84)</td><td>Zaku (656 &rarr; 666)</td><td>Sok képért ^^</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Szaszus (80 &rarr; 82)</td><td>Yuuki (578 &rarr; 588)</td><td>Mert felejthetetlenné tette a napomat :3</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Szaszus (78 &rarr; 80)</td><td>Scor (606 &rarr; 616)</td><td>Mert megrendelte a plüsst *-*</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Szaszus (76 &rarr; 78)</td><td>Zsolti (60 &rarr; 70)</td><td>Mert kölcsön tudott adni kis mánit ^^</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Yuuki (576 &rarr; 578)</td><td>Luca (166 &rarr; 176)</td><td>mert a kezemben foghattam egy Ipad-et *-*</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Yuuki (574 &rarr; 576)</td><td>Rizi (204 &rarr; 214)</td><td>cukoooor ~~ *-*</td></tr>
-<tr><td>2012. 06. 18.</td><td>+</td><td>Yuuki (572 &rarr; 574)</td><td>Zaku (646 &rarr; 656)</td><td>KRM meet.</td></tr>
