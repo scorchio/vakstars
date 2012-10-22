@@ -1,3 +1,13 @@
+<tr><td>2012.10.21.</td><td>+</td><td>Scor (812 &rarr; 814)</td><td>Chesy (280 &rarr; 290)</td><td>Az FB csoporton belüli aktívkodásért.</td></tr>
+<tr><td>2012.10.21.</td><td>+</td><td>Scor (810 &rarr; 812)</td><td>Yuuki (708 &rarr; 718)</td><td>Az FB csoporton belüli aktívkodásért.</td></tr>
+<tr><td>2012.10.21.</td><td>+</td><td>Scor (808 &rarr; 810)</td><td>Zaku (852 &rarr; 862)</td><td>Az FB csoporton belüli aktívkodásért.</td></tr>
+<tr><td>2012.10.21.</td><td>+</td><td>Scor (806 &rarr; 808)</td><td>Rizi (340 &rarr; 350)</td><td>Az FB csoporton belüli aktívkodásért.</td></tr>
+<tr><td>2012.10.21.</td><td>+</td><td>Scor (804 &rarr; 806)</td><td>Luca (226 &rarr; 236)</td><td>Az FB csoporton belüli aktívkodásért.</td></tr>
+<tr><td>2012.10.21.</td><td>+</td><td>Scor (802 &rarr; 804)</td><td>Taka (30 &rarr; 40)</td><td>Az FB csoporton belüli aktívkodásért.</td></tr>
+<tr><td>2012.10.21.</td><td>+</td><td>Scor (800 &rarr; 802)</td><td>Szacsi (484 &rarr; 494)</td><td>az FB csoporton belüli aktívkodásért.</td></tr>
+<tr><td>2012.10.21.</td><td>+</td><td>Scor (798 &rarr; 800)</td><td>Luca (216 &rarr; 226)</td><td>Hogy tartja magát még akkor is, amikor nem egyszerű...</td></tr>
+<tr><td>2012.10.21.</td><td>+</td><td>Scor (796 &rarr; 798)</td><td>Yasa (802 &rarr; 812)</td><td>Mert együtt sokkal jobb volt vakstars-t bővíteni :)</td></tr>
+<tr><td>2012.10.21.</td><td>+</td><td>Scor (794 &rarr; 796)</td><td>Renátó (200 &rarr; 210)</td><td>A látogatásáért, örültem hogy újra tudtunk dumálni</td></tr>
 <tr><td>2012.10.12.</td><td>+</td><td>Yasa (800 &rarr; 802)</td><td>Yuuki (698 &rarr; 708)</td><td>Mert faggatózott, hogy ki jön meet-re, még ha Ő maga most nem is tudott részt venni :3</td></tr>
 <tr><td>2012.10.12.</td><td>+</td><td>Yasa (798 &rarr; 800)</td><td>Luca (206 &rarr; 216)</td><td>Rengeteg rajzolásért</td></tr>
 <tr><td>2012.10.12.</td><td>+</td><td>Yasa (796 &rarr; 798)</td><td>Rizi (330 &rarr; 340)</td><td>Lelkesedésért</td></tr>
@@ -88,13 +98,3 @@
 <tr><td>2012. 06. 21.</td><td>+</td><td>Szacsi (378 &rarr; 380)</td><td>Rizi (244 &rarr; 254)</td><td>Amiért IRC-n aktívkodtak</td></tr>
 <tr><td>2012. 06. 21.</td><td>+</td><td>Szacsi (376 &rarr; 378)</td><td>Yuuki (618 &rarr; 628)</td><td>Amiért IRC-n aktívkodtak</td></tr>
 <tr><td>2012. 06. 21.</td><td>+</td><td>Szacsi (374 &rarr; 376)</td><td>Yasa (666 &rarr; 676)</td><td>Amiért IRC-n aktívkodtak</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Szacsi (372 &rarr; 374)</td><td>Renátó (150 &rarr; 160)</td><td>Mert meeten volt és jó buli volt XD</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Szacsi (370 &rarr; 372)</td><td>Zsolti (100 &rarr; 110)</td><td>Mert meeten volt és jó buli volt XD</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Szacsi (368 &rarr; 370)</td><td>Rizi (234 &rarr; 244)</td><td>Mert meeten volt és jó buli volt XD</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Szacsi (366 &rarr; 368)</td><td>Szaszus (84 &rarr; 94)</td><td>Mert meeten volt és jó buli volt XD</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Szacsi (364 &rarr; 366)</td><td>Yoru (298 &rarr; 308)</td><td>Mert meeten volt és jó buli volt XD</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Szacsi (362 &rarr; 364)</td><td>Yuuki (608 &rarr; 618)</td><td>Mert meeten volt és jó buli volt XD</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Szacsi (360 &rarr; 362)</td><td>Zaku (702 &rarr; 712)</td><td>Mert meeten volt és jó buli volt XD</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Szacsi (358 &rarr; 360)</td><td>Dóri (322 &rarr; 332)</td><td>Mert meeten volt és jó buli volt XD</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Szacsi (356 &rarr; 358)</td><td>Chesy (250 &rarr; 260)</td><td>Mert meeten volt és jó buli volt XD</td></tr>
-<tr><td>2012. 06. 21.</td><td>+</td><td>Szacsi (354 &rarr; 356)</td><td>Scor (666 &rarr; 676)</td><td>Mert meeten volt és jó buli volt XD</td></tr>
