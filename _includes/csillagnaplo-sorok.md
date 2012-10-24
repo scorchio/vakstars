@@ -1,3 +1,22 @@
+<tr><td>2012.10.24.</td><td>+</td><td>Yuuki (770 &rarr; 772)</td><td>Renátó (240 &rarr; 250)</td><td>Mert kezdenek éledezni, és a távolból is figyelemmel kísérnek minket :3</td></tr>
+<tr><td>2012.10.24.</td><td>+</td><td>Yuuki (768 &rarr; 770)</td><td>Szacsi (494 &rarr; 504)</td><td>Mert kezdenek éledezni, és a távolból is figyelemmel kísérnek minket :3</td></tr>
+<tr><td>2012.10.24.</td><td>+</td><td>Yuuki (766 &rarr; 768)</td><td>Taka (50 &rarr; 60)</td><td>Mert kezdenek éledezni, és a távolból is figyelemmel kísérnek minket :3</td></tr>
+<tr><td>2012.10.24.</td><td>+</td><td>Yuuki (764 &rarr; 766)</td><td>Chesy (290 &rarr; 300)</td><td>Mert kezdenek éledezni, és a távolból is figyelemmel kísérnek minket :3</td></tr>
+<tr><td>2012.10.24.</td><td>+</td><td>Yuuki (762 &rarr; 764)</td><td>Zaku (916 &rarr; 926)</td><td>Aktívkodásért ^^</td></tr>
+<tr><td>2012.10.24.</td><td>+</td><td>Yuuki (760 &rarr; 762)</td><td>Zaku (906 &rarr; 916)</td><td>Fotózásért</td></tr>
+<tr><td>2012.10.24.</td><td>+</td><td>Yuuki (758 &rarr; 760)</td><td>Dóri (466 &rarr; 476)</td><td>Fotózásért :3 (És a szemgolyó nem bánt! Az finom!)</td></tr>
+<tr><td>2012.10.24.</td><td>+</td><td>Yuuki (756 &rarr; 758)</td><td>Rizi (380 &rarr; 390)</td><td>Mert mindig meghallgat</td></tr>
+<tr><td>2012.10.24.</td><td>+</td><td>Yuuki (754 &rarr; 756)</td><td>Rizi (370 &rarr; 380)</td><td>Sok-sok hasznos ötletért</td></tr>
+<tr><td>2012.10.24.</td><td>+</td><td>Yuuki (752 &rarr; 754)</td><td>Luca (260 &rarr; 270)</td><td>Mert képes volt várni rám Con-n egy órát, és csak utána tudta meg az okát x3</td></tr>
+<tr><td>2012.10.24.</td><td>+</td><td>Yuuki (750 &rarr; 752)</td><td>Yasa (854 &rarr; 864)</td><td>Mert nagyon sokat segített az elmúlt időszakban</td></tr>
+<tr><td>2012.10.24.</td><td>+</td><td>Yuuki (748 &rarr; 750)</td><td>Scor (884 &rarr; 894)</td><td>Fülhallgató hangszabályzó megmutatásáért (nem beszólni! xD)</td></tr>
+<tr><td>2012.10.24.</td><td>+</td><td>Dóri (464 &rarr; 466)</td><td>Scor (874 &rarr; 884)</td><td>IRC-s aktívkodásért</td></tr>
+<tr><td>2012.10.24.</td><td>+</td><td>Dóri (462 &rarr; 464)</td><td>Nezu (90 &rarr; 100)</td><td>IRC-s aktívkodásért</td></tr>
+<tr><td>2012.10.24.</td><td>+</td><td>Dóri (460 &rarr; 462)</td><td>Renátó (230 &rarr; 240)</td><td>IRC-s aktívkodásért</td></tr>
+<tr><td>2012.10.24.</td><td>+</td><td>Dóri (458 &rarr; 460)</td><td>Zaku (896 &rarr; 906)</td><td>IRC-s aktívkodásért</td></tr>
+<tr><td>2012.10.24.</td><td>+</td><td>Dóri (456 &rarr; 458)</td><td>Zaku (886 &rarr; 896)</td><td>A vásárlásért</td></tr>
+<tr><td>2012.10.24.</td><td>+</td><td>Dóri (454 &rarr; 456)</td><td>Scor (864 &rarr; 874)</td><td>A csillagos játék programjának okos bővítéséért</td></tr>
+<tr><td>2012.10.24.</td><td>+</td><td>Dóri (452 &rarr; 454)</td><td>Yasa (844 &rarr; 854)</td><td>A csillagos játék programjának okos bővítéséért</td></tr>
 <tr><td>2012.10.23.</td><td>+</td><td>Yasa (842 &rarr; 844)</td><td>Yuuki (738 &rarr; 748)</td><td>A zenehallgatásos mutogatós valamiért :D</td></tr>
 <tr><td>2012.10.23.</td><td>+</td><td>Yasa (840 &rarr; 842)</td><td>Rizi (360 &rarr; 370)</td><td>Mert türelmes volt a pisztáciával kapcsolatban :D</td></tr>
 <tr><td>2012.10.23.</td><td>+</td><td>Yasa (838 &rarr; 840)</td><td>Luca (250 &rarr; 260)</td><td>Az ötletért, hogy menjünk kávézni a múltkori meet-en :D</td></tr>
@@ -79,22 +98,3 @@
 <tr><td>2012. 08. 28.</td><td>+</td><td>Zaku (768 &rarr; 770)</td><td>Dóri (342 &rarr; 352)</td><td>aktív fényképezésekért :D</td></tr>
 <tr><td>2012. 08. 28.</td><td>+</td><td>Zaku (766 &rarr; 768)</td><td>Rizi (304 &rarr; 314)</td><td>mangákért :3</td></tr>
 <tr><td>2012. 08. 28.</td><td>+</td><td>Zaku (764 &rarr; 766)</td><td>Szacsi (444 &rarr; 454)</td><td>mangákért :3</td></tr>
-<tr><td>2012. 08. 28.</td><td>+</td><td>Zaku (762 &rarr; 764)</td><td>Yasa (716 &rarr; 726)</td><td>a sok buksisimiért &gt;.&lt;</td></tr>
-<tr><td>2012. 08. 28.</td><td>+</td><td>Zaku (760 &rarr; 762)</td><td>Rizi (294 &rarr; 304)</td><td>vásárlásban és kikapcsolódásban való segítségért :D</td></tr>
-<tr><td>2012. 08. 28.</td><td>+</td><td>Zaku (758 &rarr; 760)</td><td>Rizi (284 &rarr; 294)</td><td>mangákért</td></tr>
-<tr><td>2012. 08. 28.</td><td>+</td><td>Zaku (756 &rarr; 758)</td><td>Szacsi (434 &rarr; 444)</td><td>mangákért</td></tr>
-<tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (754 &rarr; 756)</td><td>Scor (702 &rarr; 712)</td><td>Segítség a képek válogatásában, értékelésében</td></tr>
-<tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (752 &rarr; 754)</td><td>Szacsi (424 &rarr; 434)</td><td>Segítség a képek válogatásában, értékelésében</td></tr>
-<tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (750 &rarr; 752)</td><td>Zsolti (140 &rarr; 150)</td><td>Segítség a képek válogatásában, értékelésében</td></tr>
-<tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (748 &rarr; 750)</td><td>Yuuki (658 &rarr; 668)</td><td>Segítség a képek válogatásában, értékelésében</td></tr>
-<tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (746 &rarr; 748)</td><td>Yasa (706 &rarr; 716)</td><td>Segítség a képek válogatásában, értékelésében</td></tr>
-<tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (744 &rarr; 746)</td><td>Yuuki (648 &rarr; 658)</td><td>A doramáért és a poszterekért</td></tr>
-<tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (742 &rarr; 744)</td><td>Szacsi (414 &rarr; 424)</td><td>Mert 3 liter Pepsi után is kezelhető állapotban volt :D</td></tr>
-<tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (740 &rarr; 742)</td><td>Zsolti (130 &rarr; 140)</td><td>Tanabata ünnepen (szombaton) történő részvételért</td></tr>
-<tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (738 &rarr; 740)</td><td>Gaara (166 &rarr; 176)</td><td>Tanabata ünnepen (szombaton) történő részvételért</td></tr>
-<tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (736 &rarr; 738)</td><td>Yuuki (638 &rarr; 648)</td><td>Tanabata ünnepen (szombaton) történő részvételért</td></tr>
-<tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (734 &rarr; 736)</td><td>Szacsi (404 &rarr; 414)</td><td>Tanabata ünnepen (szombaton) történő részvételért</td></tr>
-<tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (732 &rarr; 734)</td><td>Yoru (318 &rarr; 328)</td><td>Tanabata ünnepen (szombaton) történő részvételért</td></tr>
-<tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (730 &rarr; 732)</td><td>Zsolti (120 &rarr; 130)</td><td>Jól el lehet vele beszélgetni ^^</td></tr>
-<tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (728 &rarr; 730)</td><td>Rizi (274 &rarr; 284)</td><td>KRM kitartó és rendíthetetlen vezetéséért</td></tr>
-<tr><td>2012. 07. 18.</td><td>+</td><td>Zaku (726 &rarr; 728)</td><td>Rizi (264 &rarr; 274)</td><td>Eladásban és reklámozásban való segítség</td></tr>
