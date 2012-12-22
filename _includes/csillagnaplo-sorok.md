@@ -1,3 +1,29 @@
+<tr><td>2012.12.23.</td><td>+</td><td>Yasa (968 &rarr; 970)</td><td>Scor (986 &rarr; 996)</td><td>A klubos aktívkodásért :)</td></tr>
+<tr><td>2012.12.23.</td><td>+</td><td>Yasa (966 &rarr; 968)</td><td>Dóri (568 &rarr; 578)</td><td>Mert teljesen megőrülni vicces :D</td></tr>
+<tr><td>2012.12.23.</td><td>+</td><td>Yasa (964 &rarr; 966)</td><td>Renátó (300 &rarr; 310)</td><td>Mert teljesen megőrülni vicces :D</td></tr>
+<tr><td>2012.12.23.</td><td>+</td><td>Yasa (962 &rarr; 964)</td><td>Scor (976 &rarr; 986)</td><td>Mert teljesen megőrülni vicces :D</td></tr>
+<tr><td>2012.12.23.</td><td>+</td><td>Yasa (960 &rarr; 962)</td><td>Dóri (558 &rarr; 568)</td><td>Meet-en való részvételért :)</td></tr>
+<tr><td>2012.12.23.</td><td>+</td><td>Yasa (958 &rarr; 960)</td><td>Zaku (1024 &rarr; 1034)</td><td>Meet-en való részvételért :)</td></tr>
+<tr><td>2012.12.23.</td><td>+</td><td>Yasa (956 &rarr; 958)</td><td>Yuuki (812 &rarr; 822)</td><td>Meet-en való részvételért :)</td></tr>
+<tr><td>2012.12.23.</td><td>+</td><td>Yasa (954 &rarr; 956)</td><td>Luca (340 &rarr; 350)</td><td>Meet-en való részvételért :)</td></tr>
+<tr><td>2012.12.23.</td><td>+</td><td>Yasa (952 &rarr; 954)</td><td>Renátó (290 &rarr; 300)</td><td>Meet-en való részvételért :)</td></tr>
+<tr><td>2012.12.23.</td><td>+</td><td>Yasa (950 &rarr; 952)</td><td>Scor (966 &rarr; 976)</td><td>Meet-en való részvételért :)</td></tr>
+<tr><td>2012.12.23.</td><td>+</td><td>Yasa (948 &rarr; 950)</td><td>Chesy (340 &rarr; 350)</td><td>Vízágyas videóért :D</td></tr>
+<tr><td>2012.12.23.</td><td>+</td><td>Scor (964 &rarr; 966)</td><td>Yasa (938 &rarr; 948)</td><td>Buffer feltöltésében való segítségért + mai napi rohangálásért ;)</td></tr>
+<tr><td>2012.12.23.</td><td>+</td><td>Scor (962 &rarr; 964)</td><td>Yuuki (802 &rarr; 812)</td><td>Segítség a rendelések öhm... viszonylag zavarmentes lebonyolításában</td></tr>
+<tr><td>2012.12.23.</td><td>+</td><td>Scor (960 &rarr; 962)</td><td>Yasa (928 &rarr; 938)</td><td>Meet végi megőrülésért :D</td></tr>
+<tr><td>2012.12.23.</td><td>+</td><td>Scor (958 &rarr; 960)</td><td>Dóri (548 &rarr; 558)</td><td>Meet végi megőrülésért :D</td></tr>
+<tr><td>2012.12.23.</td><td>+</td><td>Scor (956 &rarr; 958)</td><td>Renátó (280 &rarr; 290)</td><td>Meet végi megőrülésért :D</td></tr>
+<tr><td>2012.12.23.</td><td>+</td><td>Scor (954 &rarr; 956)</td><td>Yasa (918 &rarr; 928)</td><td>Mert voltak meeten</td></tr>
+<tr><td>2012.12.23.</td><td>+</td><td>Scor (952 &rarr; 954)</td><td>Luca (330 &rarr; 340)</td><td>Mert voltak meeten</td></tr>
+<tr><td>2012.12.23.</td><td>+</td><td>Scor (950 &rarr; 952)</td><td>Dóri (538 &rarr; 548)</td><td>Mert voltak meeten</td></tr>
+<tr><td>2012.12.23.</td><td>+</td><td>Scor (948 &rarr; 950)</td><td>Renátó (270 &rarr; 280)</td><td>Mert voltak meeten</td></tr>
+<tr><td>2012.12.23.</td><td>+</td><td>Scor (946 &rarr; 948)</td><td>Zaku (1014 &rarr; 1024)</td><td>Mert voltak meeten</td></tr>
+<tr><td>2012.12.23.</td><td>+</td><td>Scor (944 &rarr; 946)</td><td>Yuuki (792 &rarr; 802)</td><td>Mert voltak meeten</td></tr>
+<tr><td>2012.12.23.</td><td>+</td><td>Zaku (1012 &rarr; 1014)</td><td>Renátó (260 &rarr; 270)</td><td>Mert láthattuk őt meeten *-*</td></tr>
+<tr><td>2012.12.23.</td><td>+</td><td>Zaku (1010 &rarr; 1012)</td><td>Dóri (528 &rarr; 538)</td><td>Mert kibírta a pesti túrát velem ^^</td></tr>
+<tr><td>2012.12.23.</td><td>+</td><td>Zaku (1008 &rarr; 1010)</td><td>Yuuki (782 &rarr; 792)</td><td>Karácsonyi ajándékért</td></tr>
+<tr><td>2012.12.23.</td><td>+</td><td>Zaku (1006 &rarr; 1008)</td><td>Vanessa (20 &rarr; 30)</td><td>Utalványokért</td></tr>
 <tr><td>2012.12.19.</td><td>+</td><td>Dóri (526 &rarr; 528)</td><td>Zaku (996 &rarr; 1006)</td><td>A sok beszélgetésért, ami segített kilábalni a rosszkedvből :)</td></tr>
 <tr><td>2012.12.19.</td><td>+</td><td>Dóri (524 &rarr; 526)</td><td>Yasa (908 &rarr; 918)</td><td>Esti sétálásért és beszélgetésért ^^</td></tr>
 <tr><td>2012.12.19.</td><td>+</td><td>Dóri (522 &rarr; 524)</td><td>Yuuki (772 &rarr; 782)</td><td>Mert bemehettünk hozzá melegedni meet-en :3</td></tr>
@@ -72,29 +98,3 @@
 <tr><td>2012.10.22.</td><td>+</td><td>Zaku (868 &rarr; 870)</td><td>Dóri (422 &rarr; 432)</td><td>Fotózásban való segítségért</td></tr>
 <tr><td>2012.10.22.</td><td>+</td><td>Zaku (866 &rarr; 868)</td><td>Scor (834 &rarr; 844)</td><td>A finom pogácsákért *-*</td></tr>
 <tr><td>2012.10.22.</td><td>+</td><td>Zaku (864 &rarr; 866)</td><td>Scor (824 &rarr; 834)</td><td>A csillagos játékba való aktivkodásért/módosításokért</td></tr>
-<tr><td>2012.10.22.</td><td>+</td><td>Zaku (862 &rarr; 864)</td><td>Yasa (812 &rarr; 822)</td><td>A csillagos játékba való aktivkodásért/módosításokért</td></tr>
-<tr><td>2012.10.22.</td><td>+</td><td>Luca (238 &rarr; 240)</td><td>Yuuki (718 &rarr; 728)</td><td>Mert megvette a conjegyem</td></tr>
-<tr><td>2012.10.22.</td><td>+</td><td>Luca (236 &rarr; 238)</td><td>Scor (814 &rarr; 824)</td><td>Mert meghallgattad a problémáimat</td></tr>
-<tr><td>2012.10.21.</td><td>+</td><td>Scor (812 &rarr; 814)</td><td>Chesy (280 &rarr; 290)</td><td>Az FB csoporton belüli aktívkodásért.</td></tr>
-<tr><td>2012.10.21.</td><td>+</td><td>Scor (810 &rarr; 812)</td><td>Yuuki (708 &rarr; 718)</td><td>Az FB csoporton belüli aktívkodásért.</td></tr>
-<tr><td>2012.10.21.</td><td>+</td><td>Scor (808 &rarr; 810)</td><td>Zaku (852 &rarr; 862)</td><td>Az FB csoporton belüli aktívkodásért.</td></tr>
-<tr><td>2012.10.21.</td><td>+</td><td>Scor (806 &rarr; 808)</td><td>Rizi (340 &rarr; 350)</td><td>Az FB csoporton belüli aktívkodásért.</td></tr>
-<tr><td>2012.10.21.</td><td>+</td><td>Scor (804 &rarr; 806)</td><td>Luca (226 &rarr; 236)</td><td>Az FB csoporton belüli aktívkodásért.</td></tr>
-<tr><td>2012.10.21.</td><td>+</td><td>Scor (802 &rarr; 804)</td><td>Taka (30 &rarr; 40)</td><td>Az FB csoporton belüli aktívkodásért.</td></tr>
-<tr><td>2012.10.21.</td><td>+</td><td>Scor (800 &rarr; 802)</td><td>Szacsi (484 &rarr; 494)</td><td>az FB csoporton belüli aktívkodásért.</td></tr>
-<tr><td>2012.10.21.</td><td>+</td><td>Scor (798 &rarr; 800)</td><td>Luca (216 &rarr; 226)</td><td>Hogy tartja magát még akkor is, amikor nem egyszerű...</td></tr>
-<tr><td>2012.10.21.</td><td>+</td><td>Scor (796 &rarr; 798)</td><td>Yasa (802 &rarr; 812)</td><td>Mert együtt sokkal jobb volt vakstars-t bővíteni :)</td></tr>
-<tr><td>2012.10.21.</td><td>+</td><td>Scor (794 &rarr; 796)</td><td>Renátó (200 &rarr; 210)</td><td>A látogatásáért, örültem hogy újra tudtunk dumálni</td></tr>
-<tr><td>2012.10.12.</td><td>+</td><td>Yasa (800 &rarr; 802)</td><td>Yuuki (698 &rarr; 708)</td><td>Mert faggatózott, hogy ki jön meet-re, még ha Ő maga most nem is tudott részt venni :3</td></tr>
-<tr><td>2012.10.12.</td><td>+</td><td>Yasa (798 &rarr; 800)</td><td>Luca (206 &rarr; 216)</td><td>Rengeteg rajzolásért</td></tr>
-<tr><td>2012.10.12.</td><td>+</td><td>Yasa (796 &rarr; 798)</td><td>Rizi (330 &rarr; 340)</td><td>Lelkesedésért</td></tr>
-<tr><td>2012.10.12.</td><td>+</td><td>Yasa (794 &rarr; 796)</td><td>Taka (20 &rarr; 30)</td><td>Jogsi letételéért</td></tr>
-<tr><td>2012.10.12.</td><td>+</td><td>Yasa (792 &rarr; 794)</td><td>Zaku (842 &rarr; 852)</td><td>Képek feltöltögetéséért</td></tr>
-<tr><td>2012.10.12.</td><td>+</td><td>Yasa (790 &rarr; 792)</td><td>Dóri (412 &rarr; 422)</td><td>Meet-es fotózásért</td></tr>
-<tr><td>2012.10.12.</td><td>+</td><td>Yasa (788 &rarr; 790)</td><td>Dóri (402 &rarr; 412)</td><td>OKTV-n való részvételért</td></tr>
-<tr><td>2012.10.12.</td><td>+</td><td>Yasa (786 &rarr; 788)</td><td>Luca (196 &rarr; 206)</td><td>FB-n való aktívkodásért</td></tr>
-<tr><td>2012.10.12.</td><td>+</td><td>Yasa (784 &rarr; 786)</td><td>Szacsi (474 &rarr; 484)</td><td>FB-n való aktívkodásért</td></tr>
-<tr><td>2012.10.12.</td><td>+</td><td>Yasa (782 &rarr; 784)</td><td>Zaku (832 &rarr; 842)</td><td>FB-n való aktívkodásért</td></tr>
-<tr><td>2012.10.12.</td><td>+</td><td>Yasa (780 &rarr; 782)</td><td>Taka (10 &rarr; 20)</td><td>FB-n való aktívkodásért</td></tr>
-<tr><td>2012.10.12.</td><td>+</td><td>Yasa (778 &rarr; 780)</td><td>Scor (784 &rarr; 794)</td><td>FB-re való ütemezésért</td></tr>
-<tr><td>2012.10.12.</td><td>+</td><td>Yasa (776 &rarr; 778)</td><td>Scor (774 &rarr; 784)</td><td>Sok ügyeskedésért</td></tr>
