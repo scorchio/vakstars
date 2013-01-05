@@ -1,3 +1,11 @@
+<tr><td>2013.01.01.</td><td>+</td><td>Zaku (1048 &rarr; 1050)</td><td>Vanessa (30 &rarr; 40)</td><td>A sütis receptekért *-*</td></tr>
+<tr><td>2013.01.01.</td><td>+</td><td>Zaku (1046 &rarr; 1048)</td><td>Dóri (588 &rarr; 598)</td><td>A szilveszteri (és az egész éves aktív) ircezésért :D</td></tr>
+<tr><td>2013.01.01.</td><td>+</td><td>Zaku (1044 &rarr; 1046)</td><td>Renátó (310 &rarr; 320)</td><td>A szilveszteri (és az egész éves aktív) ircezésért :D</td></tr>
+<tr><td>2013.01.01.</td><td>+</td><td>Zaku (1042 &rarr; 1044)</td><td>Dóri (578 &rarr; 588)</td><td>A beszélgetős délutánért</td></tr>
+<tr><td>2013.01.01.</td><td>+</td><td>Zaku (1040 &rarr; 1042)</td><td>Scor (996 &rarr; 1006)</td><td>Face-s aktíkodásért</td></tr>
+<tr><td>2013.01.01.</td><td>+</td><td>Zaku (1038 &rarr; 1040)</td><td>Yasa (970 &rarr; 980)</td><td>Face-s aktíkodásért</td></tr>
+<tr><td>2013.01.01.</td><td>+</td><td>Zaku (1036 &rarr; 1038)</td><td>Taka (70 &rarr; 80)</td><td>Face-s aktíkodásért</td></tr>
+<tr><td>2013.01.01.</td><td>+</td><td>Zaku (1034 &rarr; 1036)</td><td>Chesy (350 &rarr; 360)</td><td>Face-s aktíkodásért</td></tr>
 <tr><td>2012.12.23.</td><td>+</td><td>Yasa (968 &rarr; 970)</td><td>Scor (986 &rarr; 996)</td><td>A klubos aktívkodásért :)</td></tr>
 <tr><td>2012.12.23.</td><td>+</td><td>Yasa (966 &rarr; 968)</td><td>Dóri (568 &rarr; 578)</td><td>Mert teljesen megőrülni vicces :D</td></tr>
 <tr><td>2012.12.23.</td><td>+</td><td>Yasa (964 &rarr; 966)</td><td>Renátó (300 &rarr; 310)</td><td>Mert teljesen megőrülni vicces :D</td></tr>
@@ -90,11 +98,3 @@
 <tr><td>2012.10.23.</td><td>+</td><td>Yasa (830 &rarr; 832)</td><td>Zaku (876 &rarr; 886)</td><td>A heti meet-ek feltöltögetéséért</td></tr>
 <tr><td>2012.10.23.</td><td>+</td><td>Yasa (828 &rarr; 830)</td><td>Renátó (220 &rarr; 230)</td><td>Mert magához képest aktív FB-n :D</td></tr>
 <tr><td>2012.10.23.</td><td>+</td><td>Yasa (826 &rarr; 828)</td><td>Taka (40 &rarr; 50)</td><td>FB-n való aktívkodásért</td></tr>
-<tr><td>2012.10.23.</td><td>+</td><td>Yasa (824 &rarr; 826)</td><td>Rizi (350 &rarr; 360)</td><td>FB-n való aktívkodásért</td></tr>
-<tr><td>2012.10.23.</td><td>+</td><td>Yasa (822 &rarr; 824)</td><td>Luca (240 &rarr; 250)</td><td>FB-n való aktívkodásért</td></tr>
-<tr><td>2012.10.22.</td><td>+</td><td>Zaku (874 &rarr; 876)</td><td>Renátó (210 &rarr; 220)</td><td>IRC-es aktívkodásért</td></tr>
-<tr><td>2012.10.22.</td><td>+</td><td>Zaku (872 &rarr; 874)</td><td>Yuuki (728 &rarr; 738)</td><td>Zenekeresésben való segítségért</td></tr>
-<tr><td>2012.10.22.</td><td>+</td><td>Zaku (870 &rarr; 872)</td><td>Dóri (432 &rarr; 442)</td><td>Vásárlásban való segítségért</td></tr>
-<tr><td>2012.10.22.</td><td>+</td><td>Zaku (868 &rarr; 870)</td><td>Dóri (422 &rarr; 432)</td><td>Fotózásban való segítségért</td></tr>
-<tr><td>2012.10.22.</td><td>+</td><td>Zaku (866 &rarr; 868)</td><td>Scor (834 &rarr; 844)</td><td>A finom pogácsákért *-*</td></tr>
-<tr><td>2012.10.22.</td><td>+</td><td>Zaku (864 &rarr; 866)</td><td>Scor (824 &rarr; 834)</td><td>A csillagos játékba való aktivkodásért/módosításokért</td></tr>
