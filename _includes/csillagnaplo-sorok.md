@@ -1,3 +1,20 @@
+<tr><td>2013.01.08.</td><td>+</td><td>Yasa (996 &rarr; 998)</td><td>Scor (1056 &rarr; 1066)</td><td>Zenei aktívkodásért, és a WIP-ért :) </td></tr>
+<tr><td>2013.01.08.</td><td>+</td><td>Yasa (994 &rarr; 996)</td><td>Scor (1046 &rarr; 1056)</td><td>Klubos aktívkodásért :)</td></tr>
+<tr><td>2013.01.08.</td><td>+</td><td>Yasa (992 &rarr; 994)</td><td>Zaku (1076 &rarr; 1086)</td><td>Szorgalmas csillagászatkodásért :D</td></tr>
+<tr><td>2013.01.08.</td><td>+</td><td>Yasa (990 &rarr; 992)</td><td>Szacsi (554 &rarr; 564)</td><td>Fórumon való aktívkodásért :)</td></tr>
+<tr><td>2013.01.08.</td><td>+</td><td>Yasa (988 &rarr; 990)</td><td>Luca (350 &rarr; 360)</td><td>Fórumon való aktívkodásért :)</td></tr>
+<tr><td>2013.01.08.</td><td>+</td><td>Yasa (986 &rarr; 988)</td><td>Renátó (330 &rarr; 340)</td><td>Fórumon való aktívkodásért :)</td></tr>
+<tr><td>2013.01.08.</td><td>+</td><td>Yasa (984 &rarr; 986)</td><td>Dóri (608 &rarr; 618)</td><td>Fórumon való aktívkodásért :)</td></tr>
+<tr><td>2013.01.08.</td><td>+</td><td>Yasa (982 &rarr; 984)</td><td>Scor (1036 &rarr; 1046)</td><td>Fórumon való aktívkodásért :)</td></tr>
+<tr><td>2013.01.08.</td><td>+</td><td>Yasa (980 &rarr; 982)</td><td>Zaku (1066 &rarr; 1076)</td><td>Fórumon való aktívkodásért :)</td></tr>
+<tr><td>2013.01.07.</td><td>+</td><td>Zaku (1064 &rarr; 1066)</td><td>Scor (1026 &rarr; 1036)</td><td>MAL csoportban való jelenlétért</td></tr>
+<tr><td>2013.01.07.</td><td>+</td><td>Zaku (1062 &rarr; 1064)</td><td>Szacsi (544 &rarr; 554)</td><td>MAL csoportban való jelenlétért</td></tr>
+<tr><td>2013.01.07.</td><td>+</td><td>Zaku (1060 &rarr; 1062)</td><td>Rizi (410 &rarr; 420)</td><td>MAL csoportban való jelenlétért</td></tr>
+<tr><td>2013.01.07.</td><td>+</td><td>Zaku (1058 &rarr; 1060)</td><td>Dóri (598 &rarr; 608)</td><td>MAL csoportban való jelenlétért</td></tr>
+<tr><td>2013.01.06.</td><td>+</td><td>Zaku (1056 &rarr; 1058)</td><td>Scor (1016 &rarr; 1026)</td><td>Myanimelist-es tippért, csoport létrehozásáért</td></tr>
+<tr><td>2013.01.06.</td><td>+</td><td>Zaku (1054 &rarr; 1056)</td><td>Scor (1006 &rarr; 1016)</td><td>Esti IRC-eses eszmecseréért </td></tr>
+<tr><td>2013.01.06.</td><td>+</td><td>Zaku (1052 &rarr; 1054)</td><td>Renátó (320 &rarr; 330)</td><td>Esti IRC-eses eszmecseréért </td></tr>
+<tr><td>2013.01.06.</td><td>+</td><td>Zaku (1050 &rarr; 1052)</td><td>Nezu (100 &rarr; 110)</td><td>Esti IRC-eses eszmecseréért </td></tr>
 <tr><td>2013.01.01.</td><td>+</td><td>Zaku (1048 &rarr; 1050)</td><td>Vanessa (30 &rarr; 40)</td><td>A sütis receptekért *-*</td></tr>
 <tr><td>2013.01.01.</td><td>+</td><td>Zaku (1046 &rarr; 1048)</td><td>Dóri (588 &rarr; 598)</td><td>A szilveszteri (és az egész éves aktív) ircezésért :D</td></tr>
 <tr><td>2013.01.01.</td><td>+</td><td>Zaku (1044 &rarr; 1046)</td><td>Renátó (310 &rarr; 320)</td><td>A szilveszteri (és az egész éves aktív) ircezésért :D</td></tr>
@@ -81,20 +98,3 @@
 <tr><td>2012.10.24.</td><td>+</td><td>Yuuki (754 &rarr; 756)</td><td>Rizi (370 &rarr; 380)</td><td>Sok-sok hasznos ötletért</td></tr>
 <tr><td>2012.10.24.</td><td>+</td><td>Yuuki (752 &rarr; 754)</td><td>Luca (260 &rarr; 270)</td><td>Mert képes volt várni rám Con-n egy órát, és csak utána tudta meg az okát x3</td></tr>
 <tr><td>2012.10.24.</td><td>+</td><td>Yuuki (750 &rarr; 752)</td><td>Yasa (854 &rarr; 864)</td><td>Mert nagyon sokat segített az elmúlt időszakban</td></tr>
-<tr><td>2012.10.24.</td><td>+</td><td>Yuuki (748 &rarr; 750)</td><td>Scor (884 &rarr; 894)</td><td>Fülhallgató hangszabályzó megmutatásáért (nem beszólni! xD)</td></tr>
-<tr><td>2012.10.24.</td><td>+</td><td>Dóri (464 &rarr; 466)</td><td>Scor (874 &rarr; 884)</td><td>IRC-s aktívkodásért</td></tr>
-<tr><td>2012.10.24.</td><td>+</td><td>Dóri (462 &rarr; 464)</td><td>Nezu (90 &rarr; 100)</td><td>IRC-s aktívkodásért</td></tr>
-<tr><td>2012.10.24.</td><td>+</td><td>Dóri (460 &rarr; 462)</td><td>Renátó (230 &rarr; 240)</td><td>IRC-s aktívkodásért</td></tr>
-<tr><td>2012.10.24.</td><td>+</td><td>Dóri (458 &rarr; 460)</td><td>Zaku (896 &rarr; 906)</td><td>IRC-s aktívkodásért</td></tr>
-<tr><td>2012.10.24.</td><td>+</td><td>Dóri (456 &rarr; 458)</td><td>Zaku (886 &rarr; 896)</td><td>A vásárlásért</td></tr>
-<tr><td>2012.10.24.</td><td>+</td><td>Dóri (454 &rarr; 456)</td><td>Scor (864 &rarr; 874)</td><td>A csillagos játék programjának okos bővítéséért</td></tr>
-<tr><td>2012.10.24.</td><td>+</td><td>Dóri (452 &rarr; 454)</td><td>Yasa (844 &rarr; 854)</td><td>A csillagos játék programjának okos bővítéséért</td></tr>
-<tr><td>2012.10.23.</td><td>+</td><td>Yasa (842 &rarr; 844)</td><td>Yuuki (738 &rarr; 748)</td><td>A zenehallgatásos mutogatós valamiért :D</td></tr>
-<tr><td>2012.10.23.</td><td>+</td><td>Yasa (840 &rarr; 842)</td><td>Rizi (360 &rarr; 370)</td><td>Mert türelmes volt a pisztáciával kapcsolatban :D</td></tr>
-<tr><td>2012.10.23.</td><td>+</td><td>Yasa (838 &rarr; 840)</td><td>Luca (250 &rarr; 260)</td><td>Az ötletért, hogy menjünk kávézni a múltkori meet-en :D</td></tr>
-<tr><td>2012.10.23.</td><td>+</td><td>Yasa (836 &rarr; 838)</td><td>Scor (854 &rarr; 864)</td><td>Mert meghívott meet-en egy kávéra :) (Egy nagyon oishi kávéra ;))</td></tr>
-<tr><td>2012.10.23.</td><td>+</td><td>Yasa (834 &rarr; 836)</td><td>Scor (844 &rarr; 854)</td><td>Mert megkönnyítettük a csillagköldözgetést</td></tr>
-<tr><td>2012.10.23.</td><td>+</td><td>Yasa (832 &rarr; 834)</td><td>Dóri (442 &rarr; 452)</td><td>A fotózásért :)</td></tr>
-<tr><td>2012.10.23.</td><td>+</td><td>Yasa (830 &rarr; 832)</td><td>Zaku (876 &rarr; 886)</td><td>A heti meet-ek feltöltögetéséért</td></tr>
-<tr><td>2012.10.23.</td><td>+</td><td>Yasa (828 &rarr; 830)</td><td>Renátó (220 &rarr; 230)</td><td>Mert magához képest aktív FB-n :D</td></tr>
-<tr><td>2012.10.23.</td><td>+</td><td>Yasa (826 &rarr; 828)</td><td>Taka (40 &rarr; 50)</td><td>FB-n való aktívkodásért</td></tr>
