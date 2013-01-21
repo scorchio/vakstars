@@ -1,3 +1,18 @@
+<tr><td>2013.01.21.</td><td>+</td><td>Dóri (646 &rarr; 648)</td><td>Scor (1158 &rarr; 1168)</td><td>Fórum &quot;beindításáért&quot; :)</td></tr>
+<tr><td>2013.01.21.</td><td>+</td><td>Dóri (644 &rarr; 646)</td><td>Zaku (1160 &rarr; 1170)</td><td>Mert nyitott könyves topicot fórumon :3</td></tr>
+<tr><td>2013.01.21.</td><td>+</td><td>Dóri (642 &rarr; 644)</td><td>Renátó (360 &rarr; 370)</td><td>Még a múltkori anime ajánlásért :P</td></tr>
+<tr><td>2013.01.21.</td><td>+</td><td>Dóri (640 &rarr; 642)</td><td>Szacsi (604 &rarr; 614)</td><td>A beszélgetésért, és mert mindig türelmesen vár a levelemre &gt;.&lt;</td></tr>
+<tr><td>2013.01.21.</td><td>+</td><td>Dóri (638 &rarr; 640)</td><td>Yasa (1078 &rarr; 1088)</td><td>Lelkesítő beszélgetésért :)</td></tr>
+<tr><td>2013.01.18.</td><td>+</td><td>Yasa (1076 &rarr; 1078)</td><td>Szacsi (594 &rarr; 604)</td><td>Jó kis beszélgetésért (megint csak^^)</td></tr>
+<tr><td>2013.01.18.</td><td>+</td><td>Yasa (1074 &rarr; 1076)</td><td>Luca (370 &rarr; 380)</td><td>Tetszetős zene linkelgetésért :)</td></tr>
+<tr><td>2013.01.18.</td><td>+</td><td>Yasa (1072 &rarr; 1074)</td><td>Scor (1148 &rarr; 1158)</td><td> Franciaországban való kitartásért^^ (Már nem kell sokat ott lenned!^^)</td></tr>
+<tr><td>2013.01.17.</td><td>+</td><td>Yasa (1070 &rarr; 1072)</td><td>Scor (1138 &rarr; 1148)</td><td>A múltkori, meg úgy általában a beszélgetésekért :) (Nehéz lehet állandóan engem hallgatni xD)</td></tr>
+<tr><td>2013.01.17.</td><td>+</td><td>Yasa (1068 &rarr; 1070)</td><td>Chesy (400 &rarr; 410)</td><td>A múltkori beszélgetésért :)</td></tr>
+<tr><td>2013.01.17.</td><td>+</td><td>Yasa (1066 &rarr; 1068)</td><td>Szacsi (584 &rarr; 594)</td><td>A múltkori beszélgetésért :)</td></tr>
+<tr><td>2013.01.17.</td><td>+</td><td>Yasa (1064 &rarr; 1066)</td><td>Dóri (628 &rarr; 638)</td><td>A múltkori beszélgetésért :)</td></tr>
+<tr><td>2013.01.17.</td><td>+</td><td>Yasa (1062 &rarr; 1064)</td><td>Aya-chan (50 &rarr; 60)</td><td>Hogy hamar gyógyuljon meg :)</td></tr>
+<tr><td>2013.01.17.</td><td>+</td><td>Yasa (1060 &rarr; 1062)</td><td>Szacsi (574 &rarr; 584)</td><td>A sok, kitartó tanulásért, és mert hajlandó lett miatta anime diétára menni (*tiszteleg*) </td></tr>
+<tr><td>2013.01.17.</td><td>+</td><td>Yasa (1058 &rarr; 1060)</td><td>Scor (1128 &rarr; 1138)</td><td>A 7000. kommentért a fórumon, és mert úgy érzem, hogy kell neki küldenem ;)</td></tr>
 <tr><td>2013.01.16.</td><td>+</td><td>Yasa (1056 &rarr; 1058)</td><td>Zaku (1150 &rarr; 1160)</td><td>A rengeteg csillag küldéséért :):)</td></tr>
 <tr><td>2013.01.16.</td><td>+</td><td>Yasa (1054 &rarr; 1056)</td><td>Scor (1118 &rarr; 1128)</td><td>A rengeteg csillag küldéséért :):)</td></tr>
 <tr><td>2013.01.15.</td><td>+</td><td>Yasa (1052 &rarr; 1054)</td><td>Zaku (1140 &rarr; 1150)</td><td>Fórumon a 6650. szavazatért :D</td></tr>
@@ -83,18 +98,3 @@
 <tr><td>2012.12.13.</td><td>+</td><td>Zaku (994 &rarr; 996)</td><td>Yasa (898 &rarr; 908)</td><td>A kitartásáért amíg Scor &quot;házon kívül&quot; volt :3 </td></tr>
 <tr><td>2012.12.13.</td><td>+</td><td>Zaku (992 &rarr; 994)</td><td>Scor (934 &rarr; 944)</td><td>Mert visszatért a nagy utazó épen és egészségesen :D</td></tr>
 <tr><td>2012.12.13.</td><td>+</td><td>Zaku (990 &rarr; 992)</td><td>Dóri (512 &rarr; 522)</td><td>A rukkarácsonyos könyvért *-*</td></tr>
-<tr><td>2012.12.13.</td><td>+</td><td>Zaku (988 &rarr; 990)</td><td>Luca (320 &rarr; 330)</td><td>A mangaeladásban felajánlott segítségéért (bár nem jött össze, azért köszönöm ^^)</td></tr>
-<tr><td>2012.11.04.</td><td>+</td><td>Dóri (510 &rarr; 512)</td><td>Szacsi (534 &rarr; 544)</td><td>Mert végre sikerült rendesen beszélgetnünk meet-en ^^</td></tr>
-<tr><td>2012.11.04.</td><td>+</td><td>Dóri (508 &rarr; 510)</td><td>Zaku (978 &rarr; 988)</td><td>Mert vállalta a házigazdáskodást meet-re :3</td></tr>
-<tr><td>2012.11.04.</td><td>+</td><td>Zaku (976 &rarr; 978)</td><td>Dóri (498 &rarr; 508)</td><td>Mert előbb átjött meetre és tudtunk beszélgetni, gitározni ^^ </td></tr>
-<tr><td>2012.11.04.</td><td>+</td><td>Zaku (974 &rarr; 976)</td><td>Scor (924 &rarr; 934)</td><td>A sütésbe való segítségért</td></tr>
-<tr><td>2012.11.04.</td><td>+</td><td>Zaku (972 &rarr; 974)</td><td>Szacsi (524 &rarr; 534)</td><td>A sütésbe való segítségért</td></tr>
-<tr><td>2012.11.04.</td><td>+</td><td>Zaku (970 &rarr; 972)</td><td>Dóri (488 &rarr; 498)</td><td>A sütésbe való segítségért</td></tr>
-<tr><td>2012.11.04.</td><td>+</td><td>Zaku (968 &rarr; 970)</td><td>Luca (310 &rarr; 320)</td><td>Mert bár rongyig ázott, eljutott a meetre :D</td></tr>
-<tr><td>2012.11.04.</td><td>+</td><td>Zaku (966 &rarr; 968)</td><td>Gaara (196 &rarr; 206)</td><td>Mert bár rongyig ázott, eljutott a meetre :D</td></tr>
-<tr><td>2012.11.04.</td><td>+</td><td>Zaku (964 &rarr; 966)</td><td>Scor (914 &rarr; 924)</td><td>Mert bár rongyig ázott, eljutott a meetre :D</td></tr>
-<tr><td>2012.11.04.</td><td>+</td><td>Zaku (962 &rarr; 964)</td><td>Yasa (888 &rarr; 898)</td><td>Mert bár rongyig ázott, eljutott a meetre :D</td></tr>
-<tr><td>2012.11.04.</td><td>+</td><td>Zaku (960 &rarr; 962)</td><td>Szacsi (514 &rarr; 524)</td><td>Mert bár rongyig ázott, eljutott a meetre :D</td></tr>
-<tr><td>2012.11.04.</td><td>+</td><td>Zaku (958 &rarr; 960)</td><td>Dóri (478 &rarr; 488)</td><td>Mert bár rongyig ázott, eljutott a meetre :D</td></tr>
-<tr><td>2012.11.04.</td><td>+</td><td>Zaku (956 &rarr; 958)</td><td>Chesy (330 &rarr; 340)</td><td>Mert bár rongyig ázott, eljutott a meetre :D</td></tr>
-<tr><td>2012.11.04.</td><td>+</td><td>Zaku (954 &rarr; 956)</td><td>Rizi (400 &rarr; 410)</td><td>Mert bár rongyig ázott, eljutott a meetre :D</td></tr>
