@@ -1,3 +1,19 @@
+<tr><td>2013.04.30.</td><td>+</td><td>Yasa (1302 &rarr; 1304)</td><td>Szacsi (714 &rarr; 724)</td><td>Mert aktívkodik fórumon :)</td></tr>
+<tr><td>2013.04.30.</td><td>+</td><td>Yasa (1300 &rarr; 1302)</td><td>Renátó (440 &rarr; 450)</td><td>Mert aktívkodik fórumon :)</td></tr>
+<tr><td>2013.04.30.</td><td>+</td><td>Yasa (1298 &rarr; 1300)</td><td>Scor (1308 &rarr; 1318)</td><td>Mert aktívkodik fórumon :)</td></tr>
+<tr><td>2013.04.30.</td><td>+</td><td>Yasa (1296 &rarr; 1298)</td><td>Zaku (1358 &rarr; 1368)</td><td>Mert aktívkodik fórumon :)</td></tr>
+<tr><td>2013.04.30.</td><td>+</td><td>Yasa (1294 &rarr; 1296)</td><td>Luca (480 &rarr; 490)</td><td>Mert aktívkodik fórumon :)</td></tr>
+<tr><td>2013.04.30.</td><td>+</td><td>Yasa (1292 &rarr; 1294)</td><td>Zaku (1348 &rarr; 1358)</td><td>Képek ügyködéséért :)</td></tr>
+<tr><td>2013.04.30.</td><td>+</td><td>Yasa (1290 &rarr; 1292)</td><td>Rizi (520 &rarr; 530)</td><td>Képek ügyködéséért :)</td></tr>
+<tr><td>2013.04.30.</td><td>+</td><td>Yasa (1288 &rarr; 1290)</td><td>Dóri (762 &rarr; 772)</td><td>Képek ügyködéséért :)</td></tr>
+<tr><td>2013.04.30.</td><td>+</td><td>Yasa (1286 &rarr; 1288)</td><td>Zaku (1338 &rarr; 1348)</td><td>A képek szorgalmas feltöltögetésért :)</td></tr>
+<tr><td>2013.04.30.</td><td>+</td><td>Yasa (1284 &rarr; 1286)</td><td>Zaku (1328 &rarr; 1338)</td><td>A sooook-rengeteg beszélgetésért :)</td></tr>
+<tr><td>2013.04.30.</td><td>+</td><td>Yasa (1282 &rarr; 1284)</td><td>Scor (1298 &rarr; 1308)</td><td>A sok okítgatásért :)</td></tr>
+<tr><td>2013.04.30.</td><td>+</td><td>Yasa (1280 &rarr; 1282)</td><td>Scor (1288 &rarr; 1298)</td><td>Mert helyreállította a csillagos oldalt :)</td></tr>
+<tr><td>2013.04.30.</td><td>+</td><td>Yasa (1278 &rarr; 1280)</td><td>Edina (10 &rarr; 20)</td><td>Mert rászánta magát, és eljött meet-re, jól :)</td></tr>
+<tr><td>2013.04.30.</td><td>+</td><td>Yasa (1276 &rarr; 1278)</td><td>F. Luca (0 &rarr; 10)</td><td>Mert még nem kapott csillagot :D</td></tr>
+<tr><td>2013.04.30.</td><td>+</td><td>Yasa (1274 &rarr; 1276)</td><td>Edina (0 &rarr; 10)</td><td>Mert még nem kapott csillagot :D</td></tr>
+<tr><td>2013.04.30.</td><td>+</td><td>Yasa (1272 &rarr; 1274)</td><td>Marci (0 &rarr; 10)</td><td>Mert még nem kapott csillagot :D</td></tr>
 <tr><td>2013.04.02.</td><td>+</td><td>Zaku (1326 &rarr; 1328)</td><td>Rizi (510 &rarr; 520)</td><td>KRM-es feladatok ujraélesztéésért</td></tr>
 <tr><td>2013.04.02.</td><td>+</td><td>Zaku (1324 &rarr; 1326)</td><td>Szacsi (704 &rarr; 714)</td><td>Képregényes ötletért</td></tr>
 <tr><td>2013.04.02.</td><td>+</td><td>Zaku (1322 &rarr; 1324)</td><td>Szacsi (694 &rarr; 704)</td><td>Chibi-maker járvány kitörésének elősegítéséért</td></tr>
@@ -82,19 +98,3 @@
 <tr><td>2013.01.21.</td><td>+</td><td>Scor (1180 &rarr; 1182)</td><td>Dóri (648 &rarr; 658)</td><td>Fórum</td></tr>
 <tr><td>2013.01.21.</td><td>+</td><td>Scor (1178 &rarr; 1180)</td><td>Yasa (1098 &rarr; 1108)</td><td>Fórum</td></tr>
 <tr><td>2013.01.21.</td><td>+</td><td>Scor (1176 &rarr; 1178)</td><td>Zaku (1170 &rarr; 1180)</td><td>Fórum</td></tr>
-<tr><td>2013.01.21.</td><td>+</td><td>Scor (1174 &rarr; 1176)</td><td>Luca (380 &rarr; 390)</td><td>Fórum</td></tr>
-<tr><td>2013.01.21.</td><td>+</td><td>Scor (1172 &rarr; 1174)</td><td>Yuuki (822 &rarr; 832)</td><td>Online beszélgetésekért</td></tr>
-<tr><td>2013.01.21.</td><td>+</td><td>Scor (1170 &rarr; 1172)</td><td>Szacsi (614 &rarr; 624)</td><td>Online beszélgetésekért</td></tr>
-<tr><td>2013.01.21.</td><td>+</td><td>Scor (1168 &rarr; 1170)</td><td>Yasa (1088 &rarr; 1098)</td><td>A folyamatos támogatásért :3</td></tr>
-<tr><td>2013.01.21.</td><td>+</td><td>Dóri (646 &rarr; 648)</td><td>Scor (1158 &rarr; 1168)</td><td>Fórum &quot;beindításáért&quot; :)</td></tr>
-<tr><td>2013.01.21.</td><td>+</td><td>Dóri (644 &rarr; 646)</td><td>Zaku (1160 &rarr; 1170)</td><td>Mert nyitott könyves topicot fórumon :3</td></tr>
-<tr><td>2013.01.21.</td><td>+</td><td>Dóri (642 &rarr; 644)</td><td>Renátó (360 &rarr; 370)</td><td>Még a múltkori anime ajánlásért :P</td></tr>
-<tr><td>2013.01.21.</td><td>+</td><td>Dóri (640 &rarr; 642)</td><td>Szacsi (604 &rarr; 614)</td><td>A beszélgetésért, és mert mindig türelmesen vár a levelemre &gt;.&lt;</td></tr>
-<tr><td>2013.01.21.</td><td>+</td><td>Dóri (638 &rarr; 640)</td><td>Yasa (1078 &rarr; 1088)</td><td>Lelkesítő beszélgetésért :)</td></tr>
-<tr><td>2013.01.18.</td><td>+</td><td>Yasa (1076 &rarr; 1078)</td><td>Szacsi (594 &rarr; 604)</td><td>Jó kis beszélgetésért (megint csak^^)</td></tr>
-<tr><td>2013.01.18.</td><td>+</td><td>Yasa (1074 &rarr; 1076)</td><td>Luca (370 &rarr; 380)</td><td>Tetszetős zene linkelgetésért :)</td></tr>
-<tr><td>2013.01.18.</td><td>+</td><td>Yasa (1072 &rarr; 1074)</td><td>Scor (1148 &rarr; 1158)</td><td> Franciaországban való kitartásért^^ (Már nem kell sokat ott lenned!^^)</td></tr>
-<tr><td>2013.01.17.</td><td>+</td><td>Yasa (1070 &rarr; 1072)</td><td>Scor (1138 &rarr; 1148)</td><td>A múltkori, meg úgy általában a beszélgetésekért :) (Nehéz lehet állandóan engem hallgatni xD)</td></tr>
-<tr><td>2013.01.17.</td><td>+</td><td>Yasa (1068 &rarr; 1070)</td><td>Chesy (400 &rarr; 410)</td><td>A múltkori beszélgetésért :)</td></tr>
-<tr><td>2013.01.17.</td><td>+</td><td>Yasa (1066 &rarr; 1068)</td><td>Szacsi (584 &rarr; 594)</td><td>A múltkori beszélgetésért :)</td></tr>
-<tr><td>2013.01.17.</td><td>+</td><td>Yasa (1064 &rarr; 1066)</td><td>Dóri (628 &rarr; 638)</td><td>A múltkori beszélgetésért :)</td></tr>
