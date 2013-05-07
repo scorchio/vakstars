@@ -1,3 +1,6 @@
+<tr><td>2013-05-07</td><td>+</td><td>Rizi (554 &rarr; 556)</td><td>Scor (1368 &rarr; 1378)</td><td>A csillagos játék frissítéséért és újbóli magyarázásáért :D</td></tr>
+<tr><td>2013-05-07</td><td>+</td><td>Rizi (552 &rarr; 554)</td><td>Scor (1358 &rarr; 1368)</td><td>Mert végre aktív volt KRM-ben</td></tr>
+<tr><td>2013-05-07</td><td>+</td><td>Rizi (550 &rarr; 552)</td><td>Zaku (1410 &rarr; 1420)</td><td>Mert érdeklődött a hogylétem felől és meghallgatta a sületlenségeim</td></tr>
 <tr><td>2013-05-06</td><td>+</td><td>Scor (1356 &rarr; 1358)</td><td>Dóri (772 &rarr; 782)</td><td>fórum aktívkodásért</td></tr>
 <tr><td>2013-05-06</td><td>+</td><td>Scor (1354 &rarr; 1356)</td><td>Luca (490 &rarr; 500)</td><td>fórum aktívkodásért</td></tr>
 <tr><td>2013-05-06</td><td>+</td><td>Scor (1352 &rarr; 1354)</td><td>Renátó (460 &rarr; 470)</td><td>fórum aktívkodásért</td></tr>
@@ -95,6 +98,3 @@
 <tr><td>2013-01-23</td><td>+</td><td>Zaku (1216 &rarr; 1218)</td><td>Scor (1218 &rarr; 1228)</td><td>Mert ismét csak bebizonyítottuk, hogy a fáradtság az írásképesség rovására tud menni :D (telfej? tejfel? TEFLEJ!) </td></tr>
 <tr><td>2013-01-23</td><td>+</td><td>Zaku (1214 &rarr; 1216)</td><td>Dóri (668 &rarr; 678)</td><td>Ötletekért, és mert hagyja, hogy nyúzzam :D</td></tr>
 <tr><td>2013-01-22</td><td>+</td><td>Zaku (1212 &rarr; 1214)</td><td>Scor (1208 &rarr; 1218)</td><td>Mert nehéz helyzetekben is megtalálja a módját hogy hogyan juttasson minket előrébb :D</td></tr>
-<tr><td>2013-01-22</td><td>+</td><td>Zaku (1210 &rarr; 1212)</td><td>Luca (420 &rarr; 430)</td><td>Hanazakari no kimitachi e ajánlásáért (sok boldog percet-órát-okozott ma :D)</td></tr>
-<tr><td>2013-01-22</td><td>+</td><td>Zaku (1208 &rarr; 1210)</td><td>Yasa (1132 &rarr; 1142)</td><td>Meetszervezésben való segítségért</td></tr>
-<tr><td>2013-01-22</td><td>+</td><td>Yasa (1130 &rarr; 1132)</td><td>Dóri (658 &rarr; 668)</td><td>Hogy meg legyen a lökés, hogy elkezdjen írogatni fórumon, és azért a valamiért, ami nem mondom meg, hogy mi xD</td></tr>
