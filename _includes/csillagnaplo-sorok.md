@@ -1,100 +1,100 @@
-<tr><td>2013-05-07</td><td>+</td><td>Rizi (554 &rarr; 556)</td><td>Scor (1368 &rarr; 1378)</td><td>A csillagos játék frissítéséért és újbóli magyarázásáért :D</td></tr>
-<tr><td>2013-05-07</td><td>+</td><td>Rizi (552 &rarr; 554)</td><td>Scor (1358 &rarr; 1368)</td><td>Mert végre aktív volt KRM-ben</td></tr>
-<tr><td>2013-05-07</td><td>+</td><td>Rizi (550 &rarr; 552)</td><td>Zaku (1410 &rarr; 1420)</td><td>Mert érdeklődött a hogylétem felől és meghallgatta a sületlenségeim</td></tr>
-<tr><td>2013-05-06</td><td>+</td><td>Scor (1356 &rarr; 1358)</td><td>Dóri (772 &rarr; 782)</td><td>fórum aktívkodásért</td></tr>
-<tr><td>2013-05-06</td><td>+</td><td>Scor (1354 &rarr; 1356)</td><td>Luca (490 &rarr; 500)</td><td>fórum aktívkodásért</td></tr>
-<tr><td>2013-05-06</td><td>+</td><td>Scor (1352 &rarr; 1354)</td><td>Renátó (460 &rarr; 470)</td><td>fórum aktívkodásért</td></tr>
-<tr><td>2013-05-06</td><td>+</td><td>Scor (1350 &rarr; 1352)</td><td>Zaku (1400 &rarr; 1410)</td><td>fórum aktívkodásért</td></tr>
-<tr><td>2013-05-06</td><td>+</td><td>Scor (1348 &rarr; 1350)</td><td>Yasa (1334 &rarr; 1344)</td><td>fórum aktívkodásért</td></tr>
-<tr><td>2013-05-06</td><td>+</td><td>Scor (1346 &rarr; 1348)</td><td>Rizi (540 &rarr; 550)</td><td>FB aktivitásért</td></tr>
-<tr><td>2013-05-06</td><td>+</td><td>Scor (1344 &rarr; 1346)</td><td>Szacsi (734 &rarr; 744)</td><td>FB aktivitásért</td></tr>
-<tr><td>2013-05-06</td><td>+</td><td>Scor (1342 &rarr; 1344)</td><td>Taka (90 &rarr; 100)</td><td>FB aktivitásért</td></tr>
-<tr><td>2013-05-06</td><td>+</td><td>Scor (1340 &rarr; 1342)</td><td>Levi (0 &rarr; 10)</td><td>FB aktivitásért</td></tr>
-<tr><td>2013-05-06</td><td>+</td><td>Scor (1338 &rarr; 1340)</td><td>Gaara (216 &rarr; 226)</td><td>FB aktivitásért</td></tr>
-<tr><td>2013-05-06</td><td>+</td><td>Scor (1336 &rarr; 1338)</td><td>Zaku (1390 &rarr; 1400)</td><td>meetes kérdés kiírásáért és egyéb FB aktivitásért</td></tr>
-<tr><td>2013-05-06</td><td>+</td><td>Scor (1334 &rarr; 1336)</td><td>Zaku (1380 &rarr; 1390)</td><td> a folyamatos szavazatokért</td></tr>
-<tr><td>2013-05-06</td><td>+</td><td>Scor (1332 &rarr; 1334)</td><td>Yasa (1324 &rarr; 1334)</td><td>Ingress aktívkodásért ;)</td></tr>
-<tr><td>2013-05-06</td><td>+</td><td>Scor (1330 &rarr; 1332)</td><td>Renátó (450 &rarr; 460)</td><td>segítségért a VAKstars tervezésben</td></tr>
-<tr><td>2013-05-06</td><td>+</td><td>Scor (1328 &rarr; 1330)</td><td>Yasa (1314 &rarr; 1324)</td><td>segítségért a tablet helyreállításban és a VAKstars tervezgetésben :)</td></tr>
-<tr><td>2013-05-06</td><td>+</td><td>Zaku (1378 &rarr; 1380)</td><td>Scor (1318 &rarr; 1328)</td><td>a segítségéért és kitartásáért &gt;.&lt;y</td></tr>
-<tr><td>2013-05-06</td><td>+</td><td>Zaku (1376 &rarr; 1378)</td><td>Szacsi (724 &rarr; 734)</td><td>beszélgetésekért/kitartásért és mert bebizonyította hogy a cicákban rejlő erő sok dologra felhasználható *-*</td></tr>
-<tr><td>2013-05-06</td><td>+</td><td>Zaku (1374 &rarr; 1376)</td><td>Rizi (530 &rarr; 540)</td><td>noszogatásokért és segítségért &gt;.&lt;</td></tr>
-<tr><td>2013-05-06</td><td>+</td><td>Zaku (1372 &rarr; 1374)</td><td>Yoru (348 &rarr; 358)</td><td>fagyizásért :3</td></tr>
-<tr><td>2013-05-06</td><td>+</td><td>Zaku (1370 &rarr; 1372)</td><td>Vanessa (70 &rarr; 80)</td><td>megmozgatásért és segítségekért :D</td></tr>
-<tr><td>2013-05-06</td><td>+</td><td>Zaku (1368 &rarr; 1370)</td><td>Yasa (1304 &rarr; 1314)</td><td> programocska telepítőjéért *-*</td></tr>
-<tr><td>2013-04-30</td><td>+</td><td>Yasa (1302 &rarr; 1304)</td><td>Szacsi (714 &rarr; 724)</td><td>Mert aktívkodik fórumon :)</td></tr>
-<tr><td>2013-04-30</td><td>+</td><td>Yasa (1300 &rarr; 1302)</td><td>Renátó (440 &rarr; 450)</td><td>Mert aktívkodik fórumon :)</td></tr>
-<tr><td>2013-04-30</td><td>+</td><td>Yasa (1298 &rarr; 1300)</td><td>Scor (1308 &rarr; 1318)</td><td>Mert aktívkodik fórumon :)</td></tr>
-<tr><td>2013-04-30</td><td>+</td><td>Yasa (1296 &rarr; 1298)</td><td>Zaku (1358 &rarr; 1368)</td><td>Mert aktívkodik fórumon :)</td></tr>
-<tr><td>2013-04-30</td><td>+</td><td>Yasa (1294 &rarr; 1296)</td><td>Luca (480 &rarr; 490)</td><td>Mert aktívkodik fórumon :)</td></tr>
-<tr><td>2013-04-30</td><td>+</td><td>Yasa (1292 &rarr; 1294)</td><td>Zaku (1348 &rarr; 1358)</td><td>Képek ügyködéséért :)</td></tr>
-<tr><td>2013-04-30</td><td>+</td><td>Yasa (1290 &rarr; 1292)</td><td>Rizi (520 &rarr; 530)</td><td>Képek ügyködéséért :)</td></tr>
-<tr><td>2013-04-30</td><td>+</td><td>Yasa (1288 &rarr; 1290)</td><td>Dóri (762 &rarr; 772)</td><td>Képek ügyködéséért :)</td></tr>
-<tr><td>2013-04-30</td><td>+</td><td>Yasa (1286 &rarr; 1288)</td><td>Zaku (1338 &rarr; 1348)</td><td>A képek szorgalmas feltöltögetésért :)</td></tr>
-<tr><td>2013-04-30</td><td>+</td><td>Yasa (1284 &rarr; 1286)</td><td>Zaku (1328 &rarr; 1338)</td><td>A sooook-rengeteg beszélgetésért :)</td></tr>
-<tr><td>2013-04-30</td><td>+</td><td>Yasa (1282 &rarr; 1284)</td><td>Scor (1298 &rarr; 1308)</td><td>A sok okítgatásért :)</td></tr>
-<tr><td>2013-04-30</td><td>+</td><td>Yasa (1280 &rarr; 1282)</td><td>Scor (1288 &rarr; 1298)</td><td>Mert helyreállította a csillagos oldalt :)</td></tr>
-<tr><td>2013-04-30</td><td>+</td><td>Yasa (1278 &rarr; 1280)</td><td>Edina (10 &rarr; 20)</td><td>Mert rászánta magát, és eljött meet-re, jól :)</td></tr>
-<tr><td>2013-04-30</td><td>+</td><td>Yasa (1276 &rarr; 1278)</td><td>F. Luca (0 &rarr; 10)</td><td>Mert még nem kapott csillagot :D</td></tr>
-<tr><td>2013-04-30</td><td>+</td><td>Yasa (1274 &rarr; 1276)</td><td>Edina (0 &rarr; 10)</td><td>Mert még nem kapott csillagot :D</td></tr>
-<tr><td>2013-04-30</td><td>+</td><td>Yasa (1272 &rarr; 1274)</td><td>Marci (0 &rarr; 10)</td><td>Mert még nem kapott csillagot :D</td></tr>
-<tr><td>2013-04-02</td><td>+</td><td>Zaku (1326 &rarr; 1328)</td><td>Rizi (510 &rarr; 520)</td><td>KRM-es feladatok ujraélesztéésért</td></tr>
-<tr><td>2013-04-02</td><td>+</td><td>Zaku (1324 &rarr; 1326)</td><td>Szacsi (704 &rarr; 714)</td><td>Képregényes ötletért</td></tr>
-<tr><td>2013-04-02</td><td>+</td><td>Zaku (1322 &rarr; 1324)</td><td>Szacsi (694 &rarr; 704)</td><td>Chibi-maker járvány kitörésének elősegítéséért</td></tr>
-<tr><td>2013-03-18</td><td>+</td><td>Zaku (1320 &rarr; 1322)</td><td>Renátó (430 &rarr; 440)</td><td>Rajzolásba való tanácsokért :D</td></tr>
-<tr><td>2013-03-18</td><td>+</td><td>Zaku (1318 &rarr; 1320)</td><td>Szacsi (684 &rarr; 694)</td><td>Beszélgetésért és tanácsokért :)</td></tr>
-<tr><td>2013-03-13</td><td>+</td><td>Zaku (1316 &rarr; 1318)</td><td>Scor (1278 &rarr; 1288)</td><td>Skype-os beszélgetésért , és mert engedte a screenshot-okat :D</td></tr>
-<tr><td>2013-03-13</td><td>+</td><td>Zaku (1314 &rarr; 1316)</td><td>Yasa (1262 &rarr; 1272)</td><td>Beszélgetésért, édességekért &gt;.&lt;</td></tr>
-<tr><td>2013-03-04</td><td>+</td><td>Zaku (1312 &rarr; 1314)</td><td>Chesy (440 &rarr; 450)</td><td>Posztokért</td></tr>
-<tr><td>2013-03-04</td><td>+</td><td>Zaku (1310 &rarr; 1312)</td><td>Szacsi (674 &rarr; 684)</td><td>Anti-chibista nézetéért :D</td></tr>
-<tr><td>2013-03-04</td><td>+</td><td>Zaku (1308 &rarr; 1310)</td><td>Yasa (1252 &rarr; 1262)</td><td>Hírekért és beszélgetésért</td></tr>
-<tr><td>2013-03-04</td><td>+</td><td>Zaku (1306 &rarr; 1308)</td><td>Scor (1268 &rarr; 1278)</td><td>Helyzetjelentésekért, sms-ekért</td></tr>
-<tr><td>2013-02-25</td><td>+</td><td>Zaku (1304 &rarr; 1306)</td><td>Yuuki (852 &rarr; 862)</td><td>Segítőkész hozzáállásért ^^</td></tr>
-<tr><td>2013-02-25</td><td>+</td><td>Zaku (1302 &rarr; 1304)</td><td>Yasa (1242 &rarr; 1252)</td><td>Infókért és emlékeztetésért :D</td></tr>
-<tr><td>2013-02-25</td><td>+</td><td>Zaku (1300 &rarr; 1302)</td><td>Scor (1258 &rarr; 1268)</td><td>Biztonságos földet-érésért &gt;.&lt;</td></tr>
-<tr><td>2013-02-25</td><td>+</td><td>Zaku (1298 &rarr; 1300)</td><td>Renátó (420 &rarr; 430)</td><td>Cp-k megfejtéséért, karakterkeresős segítségért :3</td></tr>
-<tr><td>2013-02-25</td><td>+</td><td>Zaku (1296 &rarr; 1298)</td><td>Szacsi (664 &rarr; 674)</td><td>Cp-k megfejtéséért, karakterkeresős segítségért :3</td></tr>
-<tr><td>2013-02-14</td><td>+</td><td>Dóri (760 &rarr; 762)</td><td>Scor (1248 &rarr; 1258)</td><td>A finom csoki miatt :)</td></tr>
-<tr><td>2013-02-14</td><td>+</td><td>Dóri (758 &rarr; 760)</td><td>Yasa (1232 &rarr; 1242)</td><td>A finom csoki miatt :)</td></tr>
-<tr><td>2013-02-23</td><td>+</td><td>Zaku (1294 &rarr; 1296)</td><td>Yasa (1222 &rarr; 1232)</td><td> Kellemes beszélgetésért és rajzos segítségért &gt;.&lt;</td></tr>
-<tr><td>2013-02-23</td><td>+</td><td>Zaku (1292 &rarr; 1294)</td><td>Yasa (1212 &rarr; 1222)</td><td>Meeten való részvételért</td></tr>
-<tr><td>2013-02-23</td><td>+</td><td>Zaku (1290 &rarr; 1292)</td><td>Gaara (206 &rarr; 216)</td><td>Meeten való részvételért</td></tr>
-<tr><td>2013-02-23</td><td>+</td><td>Zaku (1288 &rarr; 1290)</td><td>Luca (470 &rarr; 480)</td><td>Meeten való részvételért</td></tr>
-<tr><td>2013-02-12</td><td>+</td><td>Zaku (1286 &rarr; 1288)</td><td>Chesy (430 &rarr; 440)</td><td>Ramenes tálakért *-* </td></tr>
-<tr><td>2013-02-12</td><td>+</td><td>Zaku (1284 &rarr; 1286)</td><td>Dóri (748 &rarr; 758)</td><td>Manga ajánlásért </td></tr>
-<tr><td>2013-02-12</td><td>+</td><td>Zaku (1282 &rarr; 1284)</td><td>Szacsi (654 &rarr; 664)</td><td>Vicces beszélgetésekért ^^</td></tr>
-<tr><td>2013-02-12</td><td>+</td><td>Zaku (1280 &rarr; 1282)</td><td>Vanessa (60 &rarr; 70)</td><td>Btooom! op ajánlásáért :D</td></tr>
-<tr><td>2013-02-04</td><td>+</td><td>Zaku (1278 &rarr; 1280)</td><td>Szacsi (644 &rarr; 654)</td><td>Klubbos eszmecseréért és kellemes beszélgetésért ^^</td></tr>
-<tr><td>2013-02-02</td><td>+</td><td>Zaku (1276 &rarr; 1278)</td><td>Vanessa (50 &rarr; 60)</td><td>A hajmeresztő délutánért :D</td></tr>
-<tr><td>2013-02-02</td><td>+</td><td>Zaku (1274 &rarr; 1276)</td><td>Dóri (738 &rarr; 748)</td><td>Segítésért a weblap szerkesztésben</td></tr>
-<tr><td>2013-02-02</td><td>+</td><td>Zaku (1272 &rarr; 1274)</td><td>Renátó (410 &rarr; 420)</td><td>Anime ajánlásért ^^</td></tr>
-<tr><td>2013-01-29</td><td>+</td><td>Zaku (1270 &rarr; 1272)</td><td>Rizi (500 &rarr; 510)</td><td>Meet-es képekért</td></tr>
-<tr><td>2013-01-29</td><td>+</td><td>Zaku (1268 &rarr; 1270)</td><td>Taka (80 &rarr; 90)</td><td>Eszméletlen  jó rajzokért *-* (meghozta a kedvemet a rajzoláshoz..nem kicsit :D)</td></tr>
-<tr><td>2013-01-28</td><td>+</td><td>Dóri (736 &rarr; 738)</td><td>Zaku (1258 &rarr; 1268)</td><td>Mert voltak meeten és jót szórakoztunk :)</td></tr>
-<tr><td>2013-01-28</td><td>+</td><td>Dóri (734 &rarr; 736)</td><td>Luca (460 &rarr; 470)</td><td>Mert voltak meeten és jót szórakoztunk :)</td></tr>
-<tr><td>2013-01-28</td><td>+</td><td>Dóri (732 &rarr; 734)</td><td>Renátó (400 &rarr; 410)</td><td>Mert voltak meeten és jót szórakoztunk :)</td></tr>
-<tr><td>2013-01-28</td><td>+</td><td>Dóri (730 &rarr; 732)</td><td>Yasa (1202 &rarr; 1212)</td><td>Mert voltak meeten és jót szórakoztunk :)</td></tr>
-<tr><td>2013-01-28</td><td>+</td><td>Dóri (728 &rarr; 730)</td><td>Scor (1238 &rarr; 1248)</td><td>Mert voltak meeten és jót szórakoztunk :)</td></tr>
-<tr><td>2013-01-27</td><td>+</td><td>Zaku (1256 &rarr; 1258)</td><td>Luca (450 &rarr; 460)</td><td>Mert a dolgok ellenére is eljött végül meetre ^^</td></tr>
-<tr><td>2013-01-27</td><td>+</td><td>Zaku (1254 &rarr; 1256)</td><td>Dóri (718 &rarr; 728)</td><td>A finom sütikért *-*</td></tr>
-<tr><td>2013-01-27</td><td>+</td><td>Zaku (1252 &rarr; 1254)</td><td>Renátó (390 &rarr; 400)</td><td>Jó volt látni és a hócsatából is kivette a részét ^^</td></tr>
-<tr><td>2013-01-27</td><td>+</td><td>Zaku (1250 &rarr; 1252)</td><td>Yasa (1192 &rarr; 1202)</td><td>Scor lebirkózásában való segítségért :D  </td></tr>
-<tr><td>2013-01-27</td><td>+</td><td>Zaku (1248 &rarr; 1250)</td><td>Scor (1228 &rarr; 1238)</td><td>A hócsatáért és az elborult hangulatáért :D</td></tr>
-<tr><td>2013-01-25</td><td>+</td><td>Dóri (716 &rarr; 718)</td><td>Zaku (1238 &rarr; 1248)</td><td>Fogalmazós segítségért &lt;3 :)</td></tr>
-<tr><td>2013-01-25</td><td>+</td><td>Dóri (714 &rarr; 716)</td><td>Yasa (1182 &rarr; 1192)</td><td>Hógolyózós meet ötletért</td></tr>
-<tr><td>2013-01-25</td><td>+</td><td>Dóri (712 &rarr; 714)</td><td>Yasa (1172 &rarr; 1182)</td><td>Mert beszélgettünk végre egy jót élőben :)</td></tr>
-<tr><td>2013-01-25</td><td>+</td><td>Dóri (710 &rarr; 712)</td><td>Yuuki (842 &rarr; 852)</td><td>Mert tudtam velük meeten találkozni *-*</td></tr>
-<tr><td>2013-01-25</td><td>+</td><td>Dóri (708 &rarr; 710)</td><td>Yasa (1162 &rarr; 1172)</td><td>Mert tudtam velük meeten találkozni *-*</td></tr>
-<tr><td>2013-01-25</td><td>+</td><td>Yasa (1160 &rarr; 1162)</td><td>Dóri (698 &rarr; 708)</td><td>Mert végre írt fórumon! :)</td></tr>
-<tr><td>2013-01-25</td><td>+</td><td>Yasa (1158 &rarr; 1160)</td><td>Rizi (490 &rarr; 500)</td><td>Nem volt semmi, ahogy rákiabált arra a srácra :D </td></tr>
-<tr><td>2013-01-25</td><td>+</td><td>Yasa (1156 &rarr; 1158)</td><td>Zaku (1228 &rarr; 1238)</td><td> Mert jelzi, hogy igenis lenne igény arra a hétvégi meet-re, és &quot;nyúz&quot; is vele :)</td></tr>
-<tr><td>2013-01-25</td><td>+</td><td>Yasa (1154 &rarr; 1156)</td><td>Luca (440 &rarr; 450)</td><td> Hogy tudja, hogy igen is befogadjuk ;) </td></tr>
-<tr><td>2013-01-25</td><td>+</td><td>Yasa (1152 &rarr; 1154)</td><td>Dóri (688 &rarr; 698)</td><td>Mert sikerült be esnie a meet végére, és tudtam vele beszélgetni egy picit^^</td></tr>
-<tr><td>2013-01-25</td><td>+</td><td>Yasa (1150 &rarr; 1152)</td><td>Dóri (678 &rarr; 688)</td><td>A tegnapi meet-ért, jól szórakoztam^^</td></tr>
-<tr><td>2013-01-25</td><td>+</td><td>Yasa (1148 &rarr; 1150)</td><td>Rizi (480 &rarr; 490)</td><td>A tegnapi meet-ért, jól szórakoztam^^</td></tr>
-<tr><td>2013-01-25</td><td>+</td><td>Yasa (1146 &rarr; 1148)</td><td>Yuuki (832 &rarr; 842)</td><td>A tegnapi meet-ért, jól szórakoztam^^</td></tr>
-<tr><td>2013-01-25</td><td>+</td><td>Yasa (1144 &rarr; 1146)</td><td>Luca (430 &rarr; 440)</td><td>A tegnapi meet-ért, jól szórakoztam^^</td></tr>
-<tr><td>2013-01-25</td><td>+</td><td>Yasa (1142 &rarr; 1144)</td><td>Zaku (1218 &rarr; 1228)</td><td>A tegnapi meet-ért, jól szórakoztam^^</td></tr>
-<tr><td>2013-01-23</td><td>+</td><td>Zaku (1216 &rarr; 1218)</td><td>Scor (1218 &rarr; 1228)</td><td>Mert ismét csak bebizonyítottuk, hogy a fáradtság az írásképesség rovására tud menni :D (telfej? tejfel? TEFLEJ!) </td></tr>
-<tr><td>2013-01-23</td><td>+</td><td>Zaku (1214 &rarr; 1216)</td><td>Dóri (668 &rarr; 678)</td><td>Ötletekért, és mert hagyja, hogy nyúzzam :D</td></tr>
-<tr><td>2013-01-22</td><td>+</td><td>Zaku (1212 &rarr; 1214)</td><td>Scor (1208 &rarr; 1218)</td><td>Mert nehéz helyzetekben is megtalálja a módját hogy hogyan juttasson minket előrébb :D</td></tr>
+<tr><td>2013-06-03</td><td>+</td><td>Scor (1562 &rarr; 1564)</td><td>Yasa (1526 &rarr; 1536)</td><td>Mert rengeteget segítettél, hogy normálisan meg tudjuk tartani a vezetőségi meetet :3</td></tr>
+<tr><td>2013-06-03</td><td>+</td><td>Scor (1560 &rarr; 1562)</td><td>Marci (100 &rarr; 110)</td><td>Vezetőségi meet: mert vetted a fáradtságot, hogy elküldd a felvetéseidet. Köszönöm szépen ^^</td></tr>
+<tr><td>2013-06-03</td><td>+</td><td>Scor (1558 &rarr; 1560)</td><td>Yuuki (872 &rarr; 882)</td><td>Vezetőségi meet: mert vetted a fáradtságot, hogy elküldd a felvetéseidet. Köszönöm szépen ^^</td></tr>
+<tr><td>2013-06-03</td><td>+</td><td>Scor (1556 &rarr; 1558)</td><td>Rizi (646 &rarr; 656)</td><td>Vezetőségi meet: mert vetted a fáradtságot, hogy elküldd a felvetéseidet. Köszönöm szépen ^^</td></tr>
+<tr><td>2013-06-03</td><td>+</td><td>Scor (1554 &rarr; 1556)</td><td>Dóri (912 &rarr; 922)</td><td>Vezetőségi meet: mert vetted a fáradtságot, hogy elküldd a felvetéseidet. Köszönöm szépen ^^</td></tr>
+<tr><td>2013-06-03</td><td>+</td><td>Scor (1552 &rarr; 1554)</td><td>Dóri (902 &rarr; 912)</td><td>Vezetőségi meet: mert vetted a fáradtságot, hogy elküldd a felvetéseidet. Köszönöm szépen ^^</td></tr>
+<tr><td>2013-06-03</td><td>+</td><td>Scor (1550 &rarr; 1552)</td><td>Dóri (892 &rarr; 902)</td><td>Vezetőségi meet: mert vetted a fáradtságot, hogy elküldd a felvetéseidet. Köszönöm szépen ^^</td></tr>
+<tr><td>2013-06-03</td><td>+</td><td>Scor (1548 &rarr; 1550)</td><td>Zaku (1592 &rarr; 1602)</td><td>Vezetőségi meet: mert vetted a fáradtságot, hogy elküldd a felvetéseidet. Köszönöm szépen ^^</td></tr>
+<tr><td>2013-06-03</td><td>+</td><td>Scor (1546 &rarr; 1548)</td><td>Zaku (1582 &rarr; 1592)</td><td>Vezetőségi meet: mert vetted a fáradtságot, hogy elküldd a felvetéseidet. Köszönöm szépen ^^</td></tr>
+<tr><td>2013-06-03</td><td>+</td><td>Scor (1544 &rarr; 1546)</td><td>Zaku (1572 &rarr; 1582)</td><td>Vezetőségi meet: mert vetted a fáradtságot, hogy elküldd a felvetéseidet. Köszönöm szépen ^^</td></tr>
+<tr><td>2013-06-03</td><td>+</td><td>Scor (1542 &rarr; 1544)</td><td>Zaku (1562 &rarr; 1572)</td><td>Vezetőségi meet: mert vetted a fáradtságot, hogy elküldd a felvetéseidet. Köszönöm szépen ^^</td></tr>
+<tr><td>2013-06-03</td><td>+</td><td>Scor (1540 &rarr; 1542)</td><td>Zaku (1552 &rarr; 1562)</td><td>Vezetőségi meet: mert vetted a fáradtságot, hogy elküldd a felvetéseidet. Köszönöm szépen ^^</td></tr>
+<tr><td>2013-06-03</td><td>+</td><td>Scor (1538 &rarr; 1540)</td><td>Szacsi (854 &rarr; 864)</td><td>Vezetőségi meet: mert vetted a fáradtságot, hogy elküldd a felvetéseidet. Köszönöm szépen ^^</td></tr>
+<tr><td>2013-06-03</td><td>+</td><td>Scor (1536 &rarr; 1538)</td><td>Szacsi (844 &rarr; 854)</td><td>Vezetőségi meet: mert vetted a fáradtságot, hogy elküldd a felvetéseidet. Köszönöm szépen ^^</td></tr>
+<tr><td>2013-06-03</td><td>+</td><td>Scor (1534 &rarr; 1536)</td><td>Szacsi (834 &rarr; 844)</td><td>Vezetőségi meet: mert vetted a fáradtságot, hogy elküldd a felvetéseidet. Köszönöm szépen ^^</td></tr>
+<tr><td>2013-06-03</td><td>+</td><td>Scor (1532 &rarr; 1534)</td><td>Szacsi (824 &rarr; 834)</td><td>Vezetőségi meet: mert vetted a fáradtságot, hogy elküldd a felvetéseidet. Köszönöm szépen ^^</td></tr>
+<tr><td>2013-06-03</td><td>+</td><td>Scor (1530 &rarr; 1532)</td><td>Szacsi (814 &rarr; 824)</td><td>Vezetőségi meet: mert vetted a fáradtságot, hogy elküldd a felvetéseidet. Köszönöm szépen ^^</td></tr>
+<tr><td>2013-06-03</td><td>+</td><td>Scor (1528 &rarr; 1530)</td><td>Yasa (1516 &rarr; 1526)</td><td>Vezetőségi meet: mert vetted a fáradtságot, hogy elküldd a felvetéseidet. Köszönöm szépen ^^</td></tr>
+<tr><td>2013-06-03</td><td>+</td><td>Scor (1526 &rarr; 1528)</td><td>Yasa (1506 &rarr; 1516)</td><td>Vezetőségi meet: mert vetted a fáradtságot, hogy elküldd a felvetéseidet. Köszönöm szépen ^^</td></tr>
+<tr><td>2013-06-03</td><td>+</td><td>Scor (1524 &rarr; 1526)</td><td>Yasa (1496 &rarr; 1506)</td><td>Vezetőségi meet: mert vetted a fáradtságot, hogy elküldd a felvetéseidet. Köszönöm szépen ^^</td></tr>
+<tr><td>2013-06-03</td><td>+</td><td>Scor (1522 &rarr; 1524)</td><td>Yasa (1486 &rarr; 1496)</td><td>Vezetőségi meet: mert vetted a fáradtságot, hogy elküldd a felvetéseidet. Köszönöm szépen ^^</td></tr>
+<tr><td>2013-06-03</td><td>+</td><td>Scor (1520 &rarr; 1522)</td><td>Yasa (1476 &rarr; 1486)</td><td>Vezetőségi meet: mert vetted a fáradtságot, hogy elküldd a felvetéseidet. Köszönöm szépen ^^</td></tr>
+<tr><td>2013-06-03</td><td>+</td><td>Scor (1518 &rarr; 1520)</td><td>Zaku (1542 &rarr; 1552)</td><td>Akusztikusgitár fesztivál pacsi~</td></tr>
+<tr><td>2013-06-03</td><td>+</td><td>Scor (1516 &rarr; 1518)</td><td>Szacsi (804 &rarr; 814)</td><td>Akusztikusgitár fesztivál pacsi~</td></tr>
+<tr><td>2013-06-03</td><td>+</td><td>Scor (1514 &rarr; 1516)</td><td>Rizi (636 &rarr; 646)</td><td>Akusztikusgitár fesztivál pacsi~</td></tr>
+<tr><td>2013-06-03</td><td>+</td><td>Scor (1512 &rarr; 1514)</td><td>Dóri (882 &rarr; 892)</td><td>Akusztikusgitár fesztivál pacsi~</td></tr>
+<tr><td>2013-06-03</td><td>+</td><td>Scor (1510 &rarr; 1512)</td><td>Marci (90 &rarr; 100)</td><td>Akusztikusgitár fesztivál pacsi~</td></tr>
+<tr><td>2013-06-03</td><td>+</td><td>Scor (1508 &rarr; 1510)</td><td>Nezu (140 &rarr; 150)</td><td>Akusztikusgitár fesztivál pacsi~</td></tr>
+<tr><td>2013-06-03</td><td>+</td><td>Scor (1506 &rarr; 1508)</td><td>Yasa (1466 &rarr; 1476)</td><td>Akusztikusgitár fesztivál pacsi~</td></tr>
+<tr><td>2013-05-27</td><td>+</td><td>Yasa (1464 &rarr; 1466)</td><td>Scor (1496 &rarr; 1506)</td><td>Mert közös erővel nekileselkedtünk a MűvKözpont-os hirdetés összeügyködésének :)</td></tr>
+<tr><td>2013-05-27</td><td>+</td><td>Yasa (1462 &rarr; 1464)</td><td>Scor (1486 &rarr; 1496)</td><td>Mert kaptunk tőle monitort és így ismét tudok otthonról is beszélgetni :D</td></tr>
+<tr><td>2013-05-27</td><td>+</td><td>Yasa (1460 &rarr; 1462)</td><td>Scor (1476 &rarr; 1486)</td><td>Mert kiírta, hogy szét ment a gépünk (T__T) </td></tr>
+<tr><td>2013-05-27</td><td>+</td><td>Yasa (1458 &rarr; 1460)</td><td>Szonja (0 &rarr; 10)</td><td>Mert túlélte az első meet-jét velünk :D</td></tr>
+<tr><td>2013-05-27</td><td>+</td><td>Yasa (1456 &rarr; 1458)</td><td>Scor (1466 &rarr; 1476)</td><td>Vezetőségi meet felhozásáért :)</td></tr>
+<tr><td>2013-05-27</td><td>+</td><td>Yasa (1454 &rarr; 1456)</td><td>Zaku (1532 &rarr; 1542)</td><td>Szorgalmas képfeltöltögetésért :)</td></tr>
+<tr><td>2013-05-27</td><td>+</td><td>Yasa (1452 &rarr; 1454)</td><td>Zaku (1522 &rarr; 1532)</td><td> Mert teljesen lelkiismeret furdalása volt, amiért ki kellett hagynia egy meet-et :) </td></tr>
+<tr><td>2013-05-27</td><td>+</td><td>Yasa (1450 &rarr; 1452)</td><td>Zaku (1512 &rarr; 1522)</td><td>Mert eljöttek az Akusztikusgitár fesztiválra :) Jó móka volt ;)</td></tr>
+<tr><td>2013-05-27</td><td>+</td><td>Yasa (1448 &rarr; 1450)</td><td>Szacsi (794 &rarr; 804)</td><td>Mert eljöttek az Akusztikusgitár fesztiválra :) Jó móka volt ;)</td></tr>
+<tr><td>2013-05-27</td><td>+</td><td>Yasa (1446 &rarr; 1448)</td><td>Rizi (626 &rarr; 636)</td><td>Mert eljöttek az Akusztikusgitár fesztiválra :) Jó móka volt ;)</td></tr>
+<tr><td>2013-05-27</td><td>+</td><td>Yasa (1444 &rarr; 1446)</td><td>Dóri (872 &rarr; 882)</td><td>Mert eljöttek az Akusztikusgitár fesztiválra :) Jó móka volt ;)</td></tr>
+<tr><td>2013-05-27</td><td>+</td><td>Yasa (1442 &rarr; 1444)</td><td>Marci (80 &rarr; 90)</td><td>Mert eljöttek az Akusztikusgitár fesztiválra :) Jó móka volt ;)</td></tr>
+<tr><td>2013-05-27</td><td>+</td><td>Yasa (1440 &rarr; 1442)</td><td>Nezu (130 &rarr; 140)</td><td>Mert eljöttek az Akusztikusgitár fesztiválra :) Jó móka volt ;)</td></tr>
+<tr><td>2013-05-27</td><td>+</td><td>Yasa (1438 &rarr; 1440)</td><td>Scor (1456 &rarr; 1466)</td><td>Mert eljöttek az Akusztikusgitár fesztiválra :) Jó móka volt ;)</td></tr>
+<tr><td>2013-05-27</td><td>+</td><td>Yasa (1436 &rarr; 1438)</td><td>Rizi (616 &rarr; 626)</td><td>Mert részt vettek a meet-en :)</td></tr>
+<tr><td>2013-05-27</td><td>+</td><td>Yasa (1434 &rarr; 1436)</td><td>Zaku (1502 &rarr; 1512)</td><td>Mert részt vettek a meet-en :)</td></tr>
+<tr><td>2013-05-27</td><td>+</td><td>Yasa (1432 &rarr; 1434)</td><td>Luca (500 &rarr; 510)</td><td>Mert részt vettek a meet-en :)</td></tr>
+<tr><td>2013-05-27</td><td>+</td><td>Yasa (1430 &rarr; 1432)</td><td>Dóri (862 &rarr; 872)</td><td>Mert részt vettek a meet-en :)</td></tr>
+<tr><td>2013-05-27</td><td>+</td><td>Yasa (1428 &rarr; 1430)</td><td>Marci (70 &rarr; 80)</td><td>Mert részt vettek a meet-en :)</td></tr>
+<tr><td>2013-05-27</td><td>+</td><td>Yasa (1426 &rarr; 1428)</td><td>Scor (1446 &rarr; 1456)</td><td>Mert részt vettek a meet-en :)</td></tr>
+<tr><td>2013-05-27</td><td>+</td><td>Yasa (1424 &rarr; 1426)</td><td>Marci (60 &rarr; 70)</td><td>Mert szorgalmasan megcsinálták a házi feladatot :)</td></tr>
+<tr><td>2013-05-27</td><td>+</td><td>Yasa (1422 &rarr; 1424)</td><td>Zaku (1492 &rarr; 1502)</td><td>Mert szorgalmasan megcsinálták a házi feladatot :)</td></tr>
+<tr><td>2013-05-27</td><td>+</td><td>Yasa (1420 &rarr; 1422)</td><td>Yuuki (862 &rarr; 872)</td><td>Mert szorgalmasan megcsinálták a házi feladatot :)</td></tr>
+<tr><td>2013-05-27</td><td>+</td><td>Yasa (1418 &rarr; 1420)</td><td>Szacsi (784 &rarr; 794)</td><td>Mert szorgalmasan megcsinálták a házi feladatot :)</td></tr>
+<tr><td>2013-05-27</td><td>+</td><td>Yasa (1416 &rarr; 1418)</td><td>Rizi (606 &rarr; 616)</td><td>Mert szorgalmasan megcsinálták a házi feladatot :)</td></tr>
+<tr><td>2013-05-27</td><td>+</td><td>Yasa (1414 &rarr; 1416)</td><td>Dóri (852 &rarr; 862)</td><td>Mert szorgalmasan megcsinálták a házi feladatot :)</td></tr>
+<tr><td>2013-05-26</td><td>+</td><td>Zaku (1490 &rarr; 1492)</td><td>Rizi (596 &rarr; 606)</td><td>Mert eljött koncertre és jó volt &gt;.&lt;</td></tr>
+<tr><td>2013-05-26</td><td>+</td><td>Zaku (1488 &rarr; 1490)</td><td>Yasa (1404 &rarr; 1414)</td><td>Mert eljött koncertre és jó volt &gt;.&lt;</td></tr>
+<tr><td>2013-05-26</td><td>+</td><td>Zaku (1486 &rarr; 1488)</td><td>Scor (1436 &rarr; 1446)</td><td>Mert eljött koncertre és jó volt &gt;.&lt;</td></tr>
+<tr><td>2013-05-26</td><td>+</td><td>Zaku (1484 &rarr; 1486)</td><td>Nezu (120 &rarr; 130)</td><td>Mert eljött koncertre és jó volt &gt;.&lt;</td></tr>
+<tr><td>2013-05-26</td><td>+</td><td>Zaku (1482 &rarr; 1484)</td><td>Dóri (842 &rarr; 852)</td><td>Mert eljött koncertre és jó volt &gt;.&lt;</td></tr>
+<tr><td>2013-05-26</td><td>+</td><td>Zaku (1480 &rarr; 1482)</td><td>Marci (50 &rarr; 60)</td><td>Mert eljött koncertre és jó volt &gt;.&lt;</td></tr>
+<tr><td>2013-05-26</td><td>+</td><td>Zaku (1478 &rarr; 1480)</td><td>Szacsi (774 &rarr; 784)</td><td>Könyv beszerzéséért</td></tr>
+<tr><td>2013-05-26</td><td>+</td><td>Zaku (1476 &rarr; 1478)</td><td>Yasa (1394 &rarr; 1404)</td><td>Koncert és jegyvétel lebonyolításáért &gt;.&lt;</td></tr>
+<tr><td>2013-05-26</td><td>+</td><td>Zaku (1474 &rarr; 1476)</td><td>Scor (1426 &rarr; 1436)</td><td>Koncert és jegyvétel lebonyolításáért &gt;.&lt;</td></tr>
+<tr><td>2013-05-26</td><td>+</td><td>Zaku (1472 &rarr; 1474)</td><td>Szacsi (764 &rarr; 774)</td><td>Esti elborult beszélgetésért és a titkos projekt készítéséért :D</td></tr>
+<tr><td>2013-05-26</td><td>+</td><td>Zaku (1470 &rarr; 1472)</td><td>Rizi (586 &rarr; 596)</td><td>Esti elborult beszélgetésért és a titkos projekt készítéséért :D</td></tr>
+<tr><td>2013-05-22</td><td>+</td><td>Dóri (840 &rarr; 842)</td><td>Marci (40 &rarr; 50)</td><td>Ingresses mókázásért :3</td></tr>
+<tr><td>2013-05-22</td><td>+</td><td>Dóri (838 &rarr; 840)</td><td>Scor (1416 &rarr; 1426)</td><td>Ingresses mókázásért :3</td></tr>
+<tr><td>2013-05-22</td><td>+</td><td>Dóri (836 &rarr; 838)</td><td>Yasa (1384 &rarr; 1394)</td><td>Ingresses mókázásért :3</td></tr>
+<tr><td>2013-05-22</td><td>+</td><td>Dóri (834 &rarr; 836)</td><td>Zaku (1460 &rarr; 1470)</td><td>Mert segít melót keresni</td></tr>
+<tr><td>2013-05-09</td><td>+</td><td>Dóri (832 &rarr; 834)</td><td>Gaara (236 &rarr; 246)</td><td>Mert voltak meeten és résztvettek a bomberman bajnokságban :D :)</td></tr>
+<tr><td>2013-05-09</td><td>+</td><td>Dóri (830 &rarr; 832)</td><td>Levi (20 &rarr; 30)</td><td>Mert voltak meeten és résztvettek a bomberman bajnokságban :D :)</td></tr>
+<tr><td>2013-05-09</td><td>+</td><td>Dóri (828 &rarr; 830)</td><td>Marci (30 &rarr; 40)</td><td>Mert voltak meeten és résztvettek a bomberman bajnokságban :D :)</td></tr>
+<tr><td>2013-05-09</td><td>+</td><td>Dóri (826 &rarr; 828)</td><td>Zaku (1450 &rarr; 1460)</td><td>Mert voltak meeten és résztvettek a bomberman bajnokságban :D :)</td></tr>
+<tr><td>2013-05-09</td><td>+</td><td>Dóri (824 &rarr; 826)</td><td>Yasa (1374 &rarr; 1384)</td><td>Mert voltak meeten és résztvettek a bomberman bajnokságban :D :)</td></tr>
+<tr><td>2013-05-09</td><td>+</td><td>Dóri (822 &rarr; 824)</td><td>Scor (1406 &rarr; 1416)</td><td>Mert voltak meeten és résztvettek a bomberman bajnokságban :D :)</td></tr>
+<tr><td>2013-05-22</td><td>+</td><td>Zaku (1448 &rarr; 1450)</td><td>Rizi (576 &rarr; 586)</td><td>beszélgetésért és kitartásáért </td></tr>
+<tr><td>2013-05-22</td><td>+</td><td>Zaku (1446 &rarr; 1448)</td><td>Yoru (378 &rarr; 388)</td><td>vicces szervezésért és csomagkézbesítésért &gt;.&lt;</td></tr>
+<tr><td>2013-05-22</td><td>+</td><td>Zaku (1444 &rarr; 1446)</td><td>Szacsi (754 &rarr; 764)</td><td>rajzolós tippekért</td></tr>
+<tr><td>2013-05-22</td><td>+</td><td>Zaku (1442 &rarr; 1444)</td><td>Dóri (812 &rarr; 822)</td><td>rajzolós tippekért</td></tr>
+<tr><td>2013-05-22</td><td>+</td><td>Zaku (1440 &rarr; 1442)</td><td>Yasa (1364 &rarr; 1374)</td><td>rajzolós tippekért</td></tr>
+<tr><td>2013-05-22</td><td>+</td><td>Zaku (1438 &rarr; 1440)</td><td>Vanessa (90 &rarr; 100)</td><td>szervezési segítségért :D</td></tr>
+<tr><td>2013-05-22</td><td>+</td><td>Zaku (1436 &rarr; 1438)</td><td>Marci (20 &rarr; 30)</td><td>jókívánságokért és támogatásért</td></tr>
+<tr><td>2013-05-22</td><td>+</td><td>Zaku (1434 &rarr; 1436)</td><td>Vanessa (80 &rarr; 90)</td><td>jókívánságokért és támogatásért</td></tr>
+<tr><td>2013-05-22</td><td>+</td><td>Zaku (1432 &rarr; 1434)</td><td>Yoru (368 &rarr; 378)</td><td>jókívánságokért és támogatásért</td></tr>
+<tr><td>2013-05-22</td><td>+</td><td>Zaku (1430 &rarr; 1432)</td><td>Rizi (566 &rarr; 576)</td><td>jókívánságokért és támogatásért</td></tr>
+<tr><td>2013-05-22</td><td>+</td><td>Zaku (1428 &rarr; 1430)</td><td>Szacsi (744 &rarr; 754)</td><td>jókívánságokért és támogatásért</td></tr>
+<tr><td>2013-05-22</td><td>+</td><td>Zaku (1426 &rarr; 1428)</td><td>Dóri (802 &rarr; 812)</td><td>jókívánságokért és támogatásért</td></tr>
+<tr><td>2013-05-22</td><td>+</td><td>Zaku (1424 &rarr; 1426)</td><td>Yasa (1354 &rarr; 1364)</td><td>jókívánságokért és támogatásért</td></tr>
+<tr><td>2013-05-22</td><td>+</td><td>Zaku (1422 &rarr; 1424)</td><td>Scor (1396 &rarr; 1406)</td><td>jókívánságokért és támogatásért </td></tr>
+<tr><td>2013-05-12</td><td>+</td><td>Zaku (1420 &rarr; 1422)</td><td>Yasa (1344 &rarr; 1354)</td><td>telepítési útmutatóért </td></tr>
+<tr><td>2013-05-07</td><td>+</td><td>Scor (1394 &rarr; 1396)</td><td>F. Luca (10 &rarr; 20)</td><td>részvételi visszajelzésért</td></tr>
+<tr><td>2013-05-07</td><td>+</td><td>Scor (1392 &rarr; 1394)</td><td>Dóri (792 &rarr; 802)</td><td>részvételi visszajelzésért</td></tr>
+<tr><td>2013-05-07</td><td>+</td><td>Scor (1390 &rarr; 1392)</td><td>Marci (10 &rarr; 20)</td><td>részvételi visszajelzésért</td></tr>
+<tr><td>2013-05-07</td><td>+</td><td>Scor (1388 &rarr; 1390)</td><td>Levi (10 &rarr; 20)</td><td>részvételi visszajelzésért</td></tr>
+<tr><td>2013-05-07</td><td>+</td><td>Scor (1386 &rarr; 1388)</td><td>Gaara (226 &rarr; 236)</td><td>részvételi visszajelzésért</td></tr>
+<tr><td>2013-05-07</td><td>+</td><td>Scor (1384 &rarr; 1386)</td><td>Taka (100 &rarr; 110)</td><td>részvételi visszajelzésért</td></tr>
+<tr><td>2013-05-07</td><td>+</td><td>Scor (1382 &rarr; 1384)</td><td>Yoru (358 &rarr; 368)</td><td>részvételi visszajelzésért</td></tr>
+<tr><td>2013-05-07</td><td>+</td><td>Scor (1380 &rarr; 1382)</td><td>Dóri (782 &rarr; 792)</td><td>szavazatfelvitelért</td></tr>
+<tr><td>2013-05-07</td><td>+</td><td>Scor (1378 &rarr; 1380)</td><td>Rizi (556 &rarr; 566)</td><td>a &quot;gyenge&quot; képszóviccért, ami még mindig fáj :D</td></tr>
