@@ -1,3 +1,13 @@
+<tr><td>2013-06-18</td><td>+</td><td>Zaku (1618 &rarr; 1620)</td><td>Szacsi (864 &rarr; 874)</td><td>mert kitart és mindent belead &gt;.&lt;y</td></tr>
+<tr><td>2013-06-18</td><td>+</td><td>Zaku (1616 &rarr; 1618)</td><td>Marci (130 &rarr; 140)</td><td>beszélgetésért</td></tr>
+<tr><td>2013-06-18</td><td>+</td><td>Zaku (1614 &rarr; 1616)</td><td>Dóri (922 &rarr; 932)</td><td>infós segítségekért</td></tr>
+<tr><td>2013-06-18</td><td>+</td><td>Zaku (1612 &rarr; 1614)</td><td>Edina (30 &rarr; 40)</td><td>mert hű marad a &quot;csendes gyilkos&quot; becenevéhez</td></tr>
+<tr><td>2013-06-18</td><td>+</td><td>Zaku (1610 &rarr; 1612)</td><td>Rizi (676 &rarr; 686)</td><td>meet végi szívatásért :&quot;D</td></tr>
+<tr><td>2013-06-18</td><td>+</td><td>Zaku (1608 &rarr; 1610)</td><td>Marci (120 &rarr; 130)</td><td>meet végi szívatásért :&quot;D</td></tr>
+<tr><td>2013-06-18</td><td>+</td><td>Zaku (1606 &rarr; 1608)</td><td>Rizi (666 &rarr; 676)</td><td>eljöttek meetre és jól éreztük magunkat, és vicces képek lettek ^^</td></tr>
+<tr><td>2013-06-18</td><td>+</td><td>Zaku (1604 &rarr; 1606)</td><td>Marci (110 &rarr; 120)</td><td>eljöttek meetre és jól éreztük magunkat, és vicces képek lettek ^^</td></tr>
+<tr><td>2013-06-18</td><td>+</td><td>Zaku (1602 &rarr; 1604)</td><td>Edina (20 &rarr; 30)</td><td>eljöttek meetre és jól éreztük magunkat, és vicces képek lettek ^^</td></tr>
+<tr><td>2013-06-18</td><td>+</td><td>Papee (50 &rarr; 52)</td><td>Rizi (656 &rarr; 666)</td><td>No akkor hivatalosan is 10 adag csijjag illesse ezt a Rizi lyányt a meetes beszámoló elkészitésének furmányosan sírásba nevettető okán, mert megérdemli az a lyány.</td></tr>
 <tr><td>2013-06-03</td><td>+</td><td>Scor (1562 &rarr; 1564)</td><td>Yasa (1526 &rarr; 1536)</td><td>Mert rengeteget segítettél, hogy normálisan meg tudjuk tartani a vezetőségi meetet :3</td></tr>
 <tr><td>2013-06-03</td><td>+</td><td>Scor (1560 &rarr; 1562)</td><td>Marci (100 &rarr; 110)</td><td>Vezetőségi meet: mert vetted a fáradtságot, hogy elküldd a felvetéseidet. Köszönöm szépen ^^</td></tr>
 <tr><td>2013-06-03</td><td>+</td><td>Scor (1558 &rarr; 1560)</td><td>Yuuki (872 &rarr; 882)</td><td>Vezetőségi meet: mert vetted a fáradtságot, hogy elküldd a felvetéseidet. Köszönöm szépen ^^</td></tr>
@@ -88,13 +98,3 @@
 <tr><td>2013-05-22</td><td>+</td><td>Zaku (1426 &rarr; 1428)</td><td>Dóri (802 &rarr; 812)</td><td>jókívánságokért és támogatásért</td></tr>
 <tr><td>2013-05-22</td><td>+</td><td>Zaku (1424 &rarr; 1426)</td><td>Yasa (1354 &rarr; 1364)</td><td>jókívánságokért és támogatásért</td></tr>
 <tr><td>2013-05-22</td><td>+</td><td>Zaku (1422 &rarr; 1424)</td><td>Scor (1396 &rarr; 1406)</td><td>jókívánságokért és támogatásért </td></tr>
-<tr><td>2013-05-12</td><td>+</td><td>Zaku (1420 &rarr; 1422)</td><td>Yasa (1344 &rarr; 1354)</td><td>telepítési útmutatóért </td></tr>
-<tr><td>2013-05-07</td><td>+</td><td>Scor (1394 &rarr; 1396)</td><td>F. Luca (10 &rarr; 20)</td><td>részvételi visszajelzésért</td></tr>
-<tr><td>2013-05-07</td><td>+</td><td>Scor (1392 &rarr; 1394)</td><td>Dóri (792 &rarr; 802)</td><td>részvételi visszajelzésért</td></tr>
-<tr><td>2013-05-07</td><td>+</td><td>Scor (1390 &rarr; 1392)</td><td>Marci (10 &rarr; 20)</td><td>részvételi visszajelzésért</td></tr>
-<tr><td>2013-05-07</td><td>+</td><td>Scor (1388 &rarr; 1390)</td><td>Levi (10 &rarr; 20)</td><td>részvételi visszajelzésért</td></tr>
-<tr><td>2013-05-07</td><td>+</td><td>Scor (1386 &rarr; 1388)</td><td>Gaara (226 &rarr; 236)</td><td>részvételi visszajelzésért</td></tr>
-<tr><td>2013-05-07</td><td>+</td><td>Scor (1384 &rarr; 1386)</td><td>Taka (100 &rarr; 110)</td><td>részvételi visszajelzésért</td></tr>
-<tr><td>2013-05-07</td><td>+</td><td>Scor (1382 &rarr; 1384)</td><td>Yoru (358 &rarr; 368)</td><td>részvételi visszajelzésért</td></tr>
-<tr><td>2013-05-07</td><td>+</td><td>Scor (1380 &rarr; 1382)</td><td>Dóri (782 &rarr; 792)</td><td>szavazatfelvitelért</td></tr>
-<tr><td>2013-05-07</td><td>+</td><td>Scor (1378 &rarr; 1380)</td><td>Rizi (556 &rarr; 566)</td><td>a &quot;gyenge&quot; képszóviccért, ami még mindig fáj :D</td></tr>
