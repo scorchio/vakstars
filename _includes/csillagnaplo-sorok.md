@@ -1,3 +1,24 @@
+<tr><td>2014-04-18</td><td>+</td><td>Scor (1634 &rarr; 1636)</td><td>Yasa (1636 &rarr; 1646)</td><td>Segítségért a bevásárlásban :)</td></tr>
+<tr><td>2014-04-18</td><td>+</td><td>Scor (1632 &rarr; 1634)</td><td>Luca (520 &rarr; 530)</td><td>Meetup reg</td></tr>
+<tr><td>2014-04-18</td><td>+</td><td>Scor (1630 &rarr; 1632)</td><td>Yasa (1626 &rarr; 1636)</td><td>Meetup reg</td></tr>
+<tr><td>2014-04-18</td><td>+</td><td>Scor (1628 &rarr; 1630)</td><td>Zaku (1714 &rarr; 1724)</td><td>Meetup reg</td></tr>
+<tr><td>2014-04-18</td><td>+</td><td>Scor (1626 &rarr; 1628)</td><td>Taka (126 &rarr; 136)</td><td>FB aktivitás</td></tr>
+<tr><td>2014-04-18</td><td>+</td><td>Scor (1624 &rarr; 1626)</td><td>Yasa (1616 &rarr; 1626)</td><td>FB aktivitás</td></tr>
+<tr><td>2014-04-18</td><td>+</td><td>Scor (1622 &rarr; 1624)</td><td>Gaara (256 &rarr; 266)</td><td>FB aktivitás</td></tr>
+<tr><td>2014-04-18</td><td>+</td><td>Scor (1620 &rarr; 1622)</td><td>Zaku (1704 &rarr; 1714)</td><td>FB aktivitás</td></tr>
+<tr><td>2014-04-18</td><td>+</td><td>Scor (1618 &rarr; 1620)</td><td>Yasa (1606 &rarr; 1616)</td><td>Mert segített összehozni a Sakura-ünnepes cikket :)</td></tr>
+<tr><td>2014-04-18</td><td>+</td><td>Scor (1616 &rarr; 1618)</td><td>Rizi (736 &rarr; 746)</td><td> Hogy jobbuljon meg mielőbb!</td></tr>
+<tr><td>2014-04-18</td><td>+</td><td>Scor (1614 &rarr; 1616)</td><td>Luca (510 &rarr; 520)</td><td>Mert jött meetre</td></tr>
+<tr><td>2014-04-17</td><td>+</td><td>Zaku (1702 &rarr; 1704)</td><td>Rizi (726 &rarr; 736)</td><td>Hősies helytállásáért a műtétkor</td></tr>
+<tr><td>2014-04-17</td><td>+</td><td>Zaku (1700 &rarr; 1702)</td><td>Rizi (716 &rarr; 726)</td><td>KRM felélesztéséért</td></tr>
+<tr><td>2014-04-17</td><td>+</td><td>Zaku (1698 &rarr; 1700)</td><td>Szacsi (894 &rarr; 904)</td><td>Segített keresgélni és végre találkoztunk &gt;.&lt;y</td></tr>
+<tr><td>2014-04-17</td><td>+</td><td>Zaku (1696 &rarr; 1698)</td><td>Dóri (958 &rarr; 968)</td><td>Sikerült elérnem neten és jót beszélgettünk *-*</td></tr>
+<tr><td>2014-04-17</td><td>+</td><td>Zaku (1694 &rarr; 1696)</td><td>Yasa (1596 &rarr; 1606)</td><td>Mert bebizonyította hogy a bajusz jól áll nekünk :D (fotózás)</td></tr>
+<tr><td>2014-04-17</td><td>+</td><td>Zaku (1692 &rarr; 1694)</td><td>Scor (1604 &rarr; 1614)</td><td>Weboldal élesztéséért, logó beüzemeléséért</td></tr>
+<tr><td>2014-04-17</td><td>+</td><td>Zaku (1690 &rarr; 1692)</td><td>Scor (1594 &rarr; 1604)</td><td>Képek szorgos feltöltéséért </td></tr>
+<tr><td>2014-04-16</td><td>+</td><td>Taka (124 &rarr; 126)</td><td>Zaku (1680 &rarr; 1690)</td><td>A sok tanulásért</td></tr>
+<tr><td>2014-04-16</td><td>+</td><td>Taka (122 &rarr; 124)</td><td>Yasa (1586 &rarr; 1596)</td><td>Mert mindig érdeklődik a tanulmányaim felől</td></tr>
+<tr><td>2014-04-16</td><td>+</td><td>Taka (120 &rarr; 122)</td><td>Rizi (706 &rarr; 716)</td><td>Mert bármikor meghallgat</td></tr>
 <tr><td>2014-04-16</td><td>+</td><td>Scor (1592 &rarr; 1594)</td><td>Zaku (1670 &rarr; 1680)</td><td>FB aktivitásért</td></tr>
 <tr><td>2014-04-16</td><td>+</td><td>Scor (1590 &rarr; 1592)</td><td>Chesy (460 &rarr; 470)</td><td>FB aktivitásért</td></tr>
 <tr><td>2014-04-16</td><td>+</td><td>Scor (1588 &rarr; 1590)</td><td>Taka (110 &rarr; 120)</td><td>Vizsgafelkészülésért</td></tr>
@@ -77,24 +98,3 @@
 <tr><td>2013-05-27</td><td>+</td><td>Yasa (1438 &rarr; 1440)</td><td>Scor (1456 &rarr; 1466)</td><td>Mert eljöttek az Akusztikusgitár fesztiválra :) Jó móka volt ;)</td></tr>
 <tr><td>2013-05-27</td><td>+</td><td>Yasa (1436 &rarr; 1438)</td><td>Rizi (616 &rarr; 626)</td><td>Mert részt vettek a meet-en :)</td></tr>
 <tr><td>2013-05-27</td><td>+</td><td>Yasa (1434 &rarr; 1436)</td><td>Zaku (1502 &rarr; 1512)</td><td>Mert részt vettek a meet-en :)</td></tr>
-<tr><td>2013-05-27</td><td>+</td><td>Yasa (1432 &rarr; 1434)</td><td>Luca (500 &rarr; 510)</td><td>Mert részt vettek a meet-en :)</td></tr>
-<tr><td>2013-05-27</td><td>+</td><td>Yasa (1430 &rarr; 1432)</td><td>Dóri (862 &rarr; 872)</td><td>Mert részt vettek a meet-en :)</td></tr>
-<tr><td>2013-05-27</td><td>+</td><td>Yasa (1428 &rarr; 1430)</td><td>Marci (70 &rarr; 80)</td><td>Mert részt vettek a meet-en :)</td></tr>
-<tr><td>2013-05-27</td><td>+</td><td>Yasa (1426 &rarr; 1428)</td><td>Scor (1446 &rarr; 1456)</td><td>Mert részt vettek a meet-en :)</td></tr>
-<tr><td>2013-05-27</td><td>+</td><td>Yasa (1424 &rarr; 1426)</td><td>Marci (60 &rarr; 70)</td><td>Mert szorgalmasan megcsinálták a házi feladatot :)</td></tr>
-<tr><td>2013-05-27</td><td>+</td><td>Yasa (1422 &rarr; 1424)</td><td>Zaku (1492 &rarr; 1502)</td><td>Mert szorgalmasan megcsinálták a házi feladatot :)</td></tr>
-<tr><td>2013-05-27</td><td>+</td><td>Yasa (1420 &rarr; 1422)</td><td>Yuuki (862 &rarr; 872)</td><td>Mert szorgalmasan megcsinálták a házi feladatot :)</td></tr>
-<tr><td>2013-05-27</td><td>+</td><td>Yasa (1418 &rarr; 1420)</td><td>Szacsi (784 &rarr; 794)</td><td>Mert szorgalmasan megcsinálták a házi feladatot :)</td></tr>
-<tr><td>2013-05-27</td><td>+</td><td>Yasa (1416 &rarr; 1418)</td><td>Rizi (606 &rarr; 616)</td><td>Mert szorgalmasan megcsinálták a házi feladatot :)</td></tr>
-<tr><td>2013-05-27</td><td>+</td><td>Yasa (1414 &rarr; 1416)</td><td>Dóri (852 &rarr; 862)</td><td>Mert szorgalmasan megcsinálták a házi feladatot :)</td></tr>
-<tr><td>2013-05-26</td><td>+</td><td>Zaku (1490 &rarr; 1492)</td><td>Rizi (596 &rarr; 606)</td><td>Mert eljött koncertre és jó volt &gt;.&lt;</td></tr>
-<tr><td>2013-05-26</td><td>+</td><td>Zaku (1488 &rarr; 1490)</td><td>Yasa (1404 &rarr; 1414)</td><td>Mert eljött koncertre és jó volt &gt;.&lt;</td></tr>
-<tr><td>2013-05-26</td><td>+</td><td>Zaku (1486 &rarr; 1488)</td><td>Scor (1436 &rarr; 1446)</td><td>Mert eljött koncertre és jó volt &gt;.&lt;</td></tr>
-<tr><td>2013-05-26</td><td>+</td><td>Zaku (1484 &rarr; 1486)</td><td>Nezu (120 &rarr; 130)</td><td>Mert eljött koncertre és jó volt &gt;.&lt;</td></tr>
-<tr><td>2013-05-26</td><td>+</td><td>Zaku (1482 &rarr; 1484)</td><td>Dóri (842 &rarr; 852)</td><td>Mert eljött koncertre és jó volt &gt;.&lt;</td></tr>
-<tr><td>2013-05-26</td><td>+</td><td>Zaku (1480 &rarr; 1482)</td><td>Marci (50 &rarr; 60)</td><td>Mert eljött koncertre és jó volt &gt;.&lt;</td></tr>
-<tr><td>2013-05-26</td><td>+</td><td>Zaku (1478 &rarr; 1480)</td><td>Szacsi (774 &rarr; 784)</td><td>Könyv beszerzéséért</td></tr>
-<tr><td>2013-05-26</td><td>+</td><td>Zaku (1476 &rarr; 1478)</td><td>Yasa (1394 &rarr; 1404)</td><td>Koncert és jegyvétel lebonyolításáért &gt;.&lt;</td></tr>
-<tr><td>2013-05-26</td><td>+</td><td>Zaku (1474 &rarr; 1476)</td><td>Scor (1426 &rarr; 1436)</td><td>Koncert és jegyvétel lebonyolításáért &gt;.&lt;</td></tr>
-<tr><td>2013-05-26</td><td>+</td><td>Zaku (1472 &rarr; 1474)</td><td>Szacsi (764 &rarr; 774)</td><td>Esti elborult beszélgetésért és a titkos projekt készítéséért :D</td></tr>
-<tr><td>2013-05-26</td><td>+</td><td>Zaku (1470 &rarr; 1472)</td><td>Rizi (586 &rarr; 596)</td><td>Esti elborult beszélgetésért és a titkos projekt készítéséért :D</td></tr>
