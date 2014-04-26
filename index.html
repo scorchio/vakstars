@@ -4,6 +4,8 @@ layout: base
 <dl class="nice contained tabs mobile">
  <dd><a href="#szabalyok" class="active">A játék szabályai</a></dd>
  <dd><a href="#allas">A játék állása</a></dd>
+ <dd><a href="#evesAllas">Ezévi állás</a></dd>
+ <dd><a href="#haviAllas">30 napos állás</a></dd>
  <dd><a href="#csillagnaplo">Csillagnapló</a></dd>
 </dl>
 
@@ -16,6 +18,14 @@ layout: base
 {% include allas.md %}
 {% endcapture %}
 
+{% capture evesallas %}
+{% include allas-eves.md %}
+{% endcapture %}
+
+{% capture haviallas %}
+{% include allas-havi.md %}
+{% endcapture %}
+
 {% capture csillagnaplo %}
 {% include csillagnaplo.md %}
 {% endcapture %}
@@ -23,6 +33,8 @@ layout: base
 <ul class="nice tabs-content contained">
  <li class="active" id="szabalyokTab">{{ szabalyok | markdownify }}</li>
  <li id="allasTab">{{ allas | markdownify }}</li>
+ <li id="evesAllasTab">{{ evesallas | markdownify }}</li>
+ <li id="haviAllasTab">{{ haviallas | markdownify }}</li>
  <li id="csillagnaploTab">{{ csillagnaplo | markdownify }}</li>
 </ul>
 
