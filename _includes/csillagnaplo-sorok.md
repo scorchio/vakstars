@@ -1,3 +1,20 @@
+<tr><td>2014-05-12</td><td>+</td><td>Zaku (1794 &rarr; 1796)</td><td>Rizi (836 &rarr; 846)</td><td>Szuper rajzokért, a sikeres találkozásért</td></tr>
+<tr><td>2014-05-12</td><td>+</td><td>Zaku (1792 &rarr; 1794)</td><td>Dóri (978 &rarr; 988)</td><td>Beszélgetésért és mert jó volt látni </td></tr>
+<tr><td>2014-05-12</td><td>+</td><td>Zaku (1790 &rarr; 1792)</td><td>Szacsi (914 &rarr; 924)</td><td>Beszélgetésért és mert jó volt látni </td></tr>
+<tr><td>2014-05-06</td><td>+</td><td>Scor (1710 &rarr; 1712)</td><td>Yoru (408 &rarr; 418)</td><td>FB &quot;jelenlétért&quot;</td></tr>
+<tr><td>2014-05-06</td><td>+</td><td>Scor (1708 &rarr; 1710)</td><td>Taka (166 &rarr; 176)</td><td>FB &quot;jelenlétért&quot;</td></tr>
+<tr><td>2014-05-06</td><td>+</td><td>Scor (1706 &rarr; 1708)</td><td>Chesy (510 &rarr; 520)</td><td>FB &quot;jelenlétért&quot;</td></tr>
+<tr><td>2014-05-06</td><td>+</td><td>Scor (1704 &rarr; 1706)</td><td>Gaara (286 &rarr; 296)</td><td>FB &quot;jelenlétért&quot;</td></tr>
+<tr><td>2014-05-06</td><td>+</td><td>Scor (1702 &rarr; 1704)</td><td>Levi (50 &rarr; 60)</td><td>FB &quot;jelenlétért&quot;</td></tr>
+<tr><td>2014-05-06</td><td>+</td><td>Scor (1700 &rarr; 1702)</td><td>Zaku (1780 &rarr; 1790)</td><td>FB &quot;jelenlétért&quot;</td></tr>
+<tr><td>2014-05-06</td><td>+</td><td>Scor (1698 &rarr; 1700)</td><td>Rizi (826 &rarr; 836)</td><td>FB &quot;jelenlétért&quot;</td></tr>
+<tr><td>2014-05-06</td><td>+</td><td>Scor (1696 &rarr; 1698)</td><td>Yasa (1732 &rarr; 1742)</td><td>FB &quot;jelenlétért&quot;</td></tr>
+<tr><td>2014-05-06</td><td>+</td><td>Scor (1694 &rarr; 1696)</td><td>Rizi (816 &rarr; 826)</td><td>Örültem, hogy nálad lehettünk, jól éreztük magunkat!</td></tr>
+<tr><td>2014-05-06</td><td>+</td><td>Rizi (814 &rarr; 816)</td><td>Gaara (276 &rarr; 286)</td><td>Mert megosztotta a legós programot, amire el fogok menni!</td></tr>
+<tr><td>2014-05-06</td><td>+</td><td>Rizi (812 &rarr; 814)</td><td>Taka (156 &rarr; 166)</td><td>Mert meglátogatott</td></tr>
+<tr><td>2014-05-06</td><td>+</td><td>Rizi (810 &rarr; 812)</td><td>Zaku (1770 &rarr; 1780)</td><td>Mert úgy is gondol rám, hogy közben érettségizik</td></tr>
+<tr><td>2014-05-06</td><td>+</td><td>Rizi (808 &rarr; 810)</td><td>Scor (1684 &rarr; 1694)</td><td>Mert eljött hozzám egy picikét lazulni (és elviselt,még ha el is fáradt.:D)</td></tr>
+<tr><td>2014-05-06</td><td>+</td><td>Rizi (806 &rarr; 808)</td><td>Yasa (1722 &rarr; 1732)</td><td>Mert eljött hozzám egy picikét lazulni</td></tr>
 <tr><td>2014-04-30</td><td>+</td><td>Scor (1682 &rarr; 1684)</td><td>Kova (40 &rarr; 50)</td><td>A részletes Kapucíner-családleírásért FB-n, *pacsi*</td></tr>
 <tr><td>2014-04-30</td><td>+</td><td>Scor (1680 &rarr; 1682)</td><td>Yasa (1712 &rarr; 1722)</td><td>Ügyes írogatásért :)</td></tr>
 <tr><td>2014-04-30</td><td>+</td><td>Scor (1678 &rarr; 1680)</td><td>Levi (40 &rarr; 50)</td><td>Azért, hogy postolt a Conról FB-n</td></tr>
@@ -81,20 +98,3 @@
 <tr><td>2013-06-20</td><td>+</td><td>Zaku (1626 &rarr; 1628)</td><td>Dóri (932 &rarr; 942)</td><td>beszélgetésért</td></tr>
 <tr><td>2013-06-20</td><td>+</td><td>Zaku (1624 &rarr; 1626)</td><td>Szacsi (874 &rarr; 884)</td><td>Mert kitartó és legyőzhetetlen &gt;.&lt;y</td></tr>
 <tr><td>2013-06-20</td><td>+</td><td>Zaku (1622 &rarr; 1624)</td><td>Yoru (388 &rarr; 398)</td><td>Mert lophattam a vizüket :D - a környéken nem volt víz ^^&quot;&quot;</td></tr>
-<tr><td>2013-06-20</td><td>+</td><td>Zaku (1620 &rarr; 1622)</td><td>Vanessa (100 &rarr; 110)</td><td>Blúzos segítségért - nem volt rendes ünneplőm ^^&quot;</td></tr>
-<tr><td>2013-06-18</td><td>+</td><td>Papee (52 &rarr; 54)</td><td>Yasa (1536 &rarr; 1546)</td><td>Mert Scor begépelt emailjét, miszerint már feltöltötte a pontokat, frappánsan úgy értékelte: hazudsz. És ez móka volt.</td></tr>
-<tr><td>2013-06-18</td><td>+</td><td>Zaku (1618 &rarr; 1620)</td><td>Szacsi (864 &rarr; 874)</td><td>mert kitart és mindent belead &gt;.&lt;y</td></tr>
-<tr><td>2013-06-18</td><td>+</td><td>Zaku (1616 &rarr; 1618)</td><td>Marci (130 &rarr; 140)</td><td>beszélgetésért</td></tr>
-<tr><td>2013-06-18</td><td>+</td><td>Zaku (1614 &rarr; 1616)</td><td>Dóri (922 &rarr; 932)</td><td>infós segítségekért</td></tr>
-<tr><td>2013-06-18</td><td>+</td><td>Zaku (1612 &rarr; 1614)</td><td>Edina (30 &rarr; 40)</td><td>mert hű marad a &quot;csendes gyilkos&quot; becenevéhez</td></tr>
-<tr><td>2013-06-18</td><td>+</td><td>Zaku (1610 &rarr; 1612)</td><td>Rizi (676 &rarr; 686)</td><td>meet végi szívatásért :&quot;D</td></tr>
-<tr><td>2013-06-18</td><td>+</td><td>Zaku (1608 &rarr; 1610)</td><td>Marci (120 &rarr; 130)</td><td>meet végi szívatásért :&quot;D</td></tr>
-<tr><td>2013-06-18</td><td>+</td><td>Zaku (1606 &rarr; 1608)</td><td>Rizi (666 &rarr; 676)</td><td>eljöttek meetre és jól éreztük magunkat, és vicces képek lettek ^^</td></tr>
-<tr><td>2013-06-18</td><td>+</td><td>Zaku (1604 &rarr; 1606)</td><td>Marci (110 &rarr; 120)</td><td>eljöttek meetre és jól éreztük magunkat, és vicces képek lettek ^^</td></tr>
-<tr><td>2013-06-18</td><td>+</td><td>Zaku (1602 &rarr; 1604)</td><td>Edina (20 &rarr; 30)</td><td>eljöttek meetre és jól éreztük magunkat, és vicces képek lettek ^^</td></tr>
-<tr><td>2013-06-18</td><td>+</td><td>Papee (50 &rarr; 52)</td><td>Rizi (656 &rarr; 666)</td><td>No akkor hivatalosan is 10 adag csijjag illesse ezt a Rizi lyányt a meetes beszámoló elkészitésének furmányosan sírásba nevettető okán, mert megérdemli az a lyány.</td></tr>
-<tr><td>2013-06-03</td><td>+</td><td>Scor (1562 &rarr; 1564)</td><td>Yasa (1526 &rarr; 1536)</td><td>Mert rengeteget segítettél, hogy normálisan meg tudjuk tartani a vezetőségi meetet :3</td></tr>
-<tr><td>2013-06-03</td><td>+</td><td>Scor (1560 &rarr; 1562)</td><td>Marci (100 &rarr; 110)</td><td>Vezetőségi meet: mert vetted a fáradtságot, hogy elküldd a felvetéseidet. Köszönöm szépen ^^</td></tr>
-<tr><td>2013-06-03</td><td>+</td><td>Scor (1558 &rarr; 1560)</td><td>Yuuki (872 &rarr; 882)</td><td>Vezetőségi meet: mert vetted a fáradtságot, hogy elküldd a felvetéseidet. Köszönöm szépen ^^</td></tr>
-<tr><td>2013-06-03</td><td>+</td><td>Scor (1556 &rarr; 1558)</td><td>Rizi (646 &rarr; 656)</td><td>Vezetőségi meet: mert vetted a fáradtságot, hogy elküldd a felvetéseidet. Köszönöm szépen ^^</td></tr>
-<tr><td>2013-06-03</td><td>+</td><td>Scor (1554 &rarr; 1556)</td><td>Dóri (912 &rarr; 922)</td><td>Vezetőségi meet: mert vetted a fáradtságot, hogy elküldd a felvetéseidet. Köszönöm szépen ^^</td></tr>
