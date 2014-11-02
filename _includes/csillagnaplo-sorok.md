@@ -1,3 +1,35 @@
+<tr><td>2014-05-26</td><td>+</td><td>Zaku (1854 &rarr; 1856)</td><td>Luca (560 &rarr; 570)</td><td>Találkozásért és esernyős akcióért</td></tr>
+<tr><td>2014-05-26</td><td>+</td><td>Zaku (1852 &rarr; 1854)</td><td>Yoru (448 &rarr; 458)</td><td>Sütögetős szervezésért</td></tr>
+<tr><td>2014-05-26</td><td>+</td><td>Zaku (1850 &rarr; 1852)</td><td>Yoru (438 &rarr; 448)</td><td>Beszélgetésért és segítségért </td></tr>
+<tr><td>2014-05-26</td><td>+</td><td>Zaku (1848 &rarr; 1850)</td><td>Vanessa (140 &rarr; 150)</td><td>Beszélgetésért és segítségért </td></tr>
+<tr><td>2014-05-13</td><td>+</td><td>Zaku (1846 &rarr; 1848)</td><td>Szacsi (944 &rarr; 954)</td><td>Közös elborult LoL-ozás</td></tr>
+<tr><td>2014-05-13</td><td>+</td><td>Zaku (1844 &rarr; 1846)</td><td>Dóri (1004 &rarr; 1014)</td><td>Közös elborult LoL-ozás</td></tr>
+<tr><td>2014-05-13</td><td>+</td><td>Zaku (1842 &rarr; 1844)</td><td>Renátó (470 &rarr; 480)</td><td>Közös elborult LoL-ozás</td></tr>
+<tr><td>2014-05-12</td><td>+</td><td>Zaku (1840 &rarr; 1842)</td><td>Szacsi (934 &rarr; 944)</td><td>A cuki cicàs holmikért és tanácsokért</td></tr>
+<tr><td>2014-05-12</td><td>+</td><td>Zaku (1838 &rarr; 1840)</td><td>Yoru (428 &rarr; 438)</td><td>Vásárlós tippekért és mászkálásért</td></tr>
+<tr><td>2014-05-12</td><td>+</td><td>Zaku (1836 &rarr; 1838)</td><td>Marci (150 &rarr; 160)</td><td>Jók vele a random beszélgetések</td></tr>
+<tr><td>2014-05-12</td><td>+</td><td>Zaku (1834 &rarr; 1836)</td><td>Vanessa (130 &rarr; 140)</td><td>Érettségi közben a reggeli fuvarozásért és délutáni mászkálgatásokért </td></tr>
+<tr><td>2014-05-12</td><td>+</td><td>Zaku (1832 &rarr; 1834)</td><td>Rizi (886 &rarr; 896)</td><td>Régen adott egy tollat, most azzal írtam az érettségiket</td></tr>
+<tr><td>2014-11-01</td><td>+</td><td>Dóri (1002 &rarr; 1004)</td><td>Zaku (1822 &rarr; 1832)</td><td>Mert jó volt a mozizás</td></tr>
+<tr><td>2014-11-01</td><td>+</td><td>Dóri (1000 &rarr; 1002)</td><td>Yasa (1762 &rarr; 1772)</td><td>A hétköznapi boostos beszélgetésért és Nerienért</td></tr>
+<tr><td>2014-11-01</td><td>+</td><td>Dóri (998 &rarr; 1000)</td><td>Scor (1740 &rarr; 1750)</td><td>Fórum update-ért</td></tr>
+<tr><td>2014-05-12</td><td>+</td><td>Zaku (1820 &rarr; 1822)</td><td>Rizi (876 &rarr; 886)</td><td>Szuper rajzokért, a sikeres találkozásért</td></tr>
+<tr><td>2014-05-12</td><td>+</td><td>Zaku (1818 &rarr; 1820)</td><td>Dóri (988 &rarr; 998)</td><td>Beszélgetésért és mert jó volt látni </td></tr>
+<tr><td>2014-05-12</td><td>+</td><td>Zaku (1816 &rarr; 1818)</td><td>Szacsi (924 &rarr; 934)</td><td>Beszélgetésért és mert jó volt látni </td></tr>
+<tr><td>2014-05-06</td><td>+</td><td>Scor (1738 &rarr; 1740)</td><td>Yoru (418 &rarr; 428)</td><td>FB &quot;jelenlétért&quot;</td></tr>
+<tr><td>2014-05-06</td><td>+</td><td>Scor (1736 &rarr; 1738)</td><td>Taka (186 &rarr; 196)</td><td>FB &quot;jelenlétért&quot;</td></tr>
+<tr><td>2014-05-06</td><td>+</td><td>Scor (1734 &rarr; 1736)</td><td>Chesy (520 &rarr; 530)</td><td>FB &quot;jelenlétért&quot;</td></tr>
+<tr><td>2014-05-06</td><td>+</td><td>Scor (1732 &rarr; 1734)</td><td>Gaara (306 &rarr; 316)</td><td>FB &quot;jelenlétért&quot;</td></tr>
+<tr><td>2014-05-06</td><td>+</td><td>Scor (1730 &rarr; 1732)</td><td>Levi (60 &rarr; 70)</td><td>FB &quot;jelenlétért&quot;</td></tr>
+<tr><td>2014-05-06</td><td>+</td><td>Scor (1728 &rarr; 1730)</td><td>Zaku (1806 &rarr; 1816)</td><td>FB &quot;jelenlétért&quot;</td></tr>
+<tr><td>2014-05-06</td><td>+</td><td>Scor (1726 &rarr; 1728)</td><td>Rizi (866 &rarr; 876)</td><td>FB &quot;jelenlétért&quot;</td></tr>
+<tr><td>2014-05-06</td><td>+</td><td>Scor (1724 &rarr; 1726)</td><td>Yasa (1752 &rarr; 1762)</td><td>FB &quot;jelenlétért&quot;</td></tr>
+<tr><td>2014-05-06</td><td>+</td><td>Scor (1722 &rarr; 1724)</td><td>Rizi (856 &rarr; 866)</td><td>Örültem, hogy nálad lehettünk, jól éreztük magunkat!</td></tr>
+<tr><td>2014-05-06</td><td>+</td><td>Rizi (854 &rarr; 856)</td><td>Gaara (296 &rarr; 306)</td><td>Mert megosztotta a legós programot, amire el fogok menni!</td></tr>
+<tr><td>2014-05-06</td><td>+</td><td>Rizi (852 &rarr; 854)</td><td>Taka (176 &rarr; 186)</td><td>Mert meglátogatott</td></tr>
+<tr><td>2014-05-06</td><td>+</td><td>Rizi (850 &rarr; 852)</td><td>Zaku (1796 &rarr; 1806)</td><td>Mert úgy is gondol rám, hogy közben érettségizik</td></tr>
+<tr><td>2014-05-06</td><td>+</td><td>Rizi (848 &rarr; 850)</td><td>Scor (1712 &rarr; 1722)</td><td>Mert eljött hozzám egy picikét lazulni (és elviselt,még ha el is fáradt.:D)</td></tr>
+<tr><td>2014-05-06</td><td>+</td><td>Rizi (846 &rarr; 848)</td><td>Yasa (1742 &rarr; 1752)</td><td>Mert eljött hozzám egy picikét lazulni</td></tr>
 <tr><td>2014-05-12</td><td>+</td><td>Zaku (1794 &rarr; 1796)</td><td>Rizi (836 &rarr; 846)</td><td>Szuper rajzokért, a sikeres találkozásért</td></tr>
 <tr><td>2014-05-12</td><td>+</td><td>Zaku (1792 &rarr; 1794)</td><td>Dóri (978 &rarr; 988)</td><td>Beszélgetésért és mert jó volt látni </td></tr>
 <tr><td>2014-05-12</td><td>+</td><td>Zaku (1790 &rarr; 1792)</td><td>Szacsi (914 &rarr; 924)</td><td>Beszélgetésért és mert jó volt látni </td></tr>
@@ -66,35 +98,3 @@
 <tr><td>2014-04-18</td><td>+</td><td>Scor (1618 &rarr; 1620)</td><td>Yasa (1606 &rarr; 1616)</td><td>Mert segített összehozni a Sakura-ünnepes cikket :)</td></tr>
 <tr><td>2014-04-18</td><td>+</td><td>Scor (1616 &rarr; 1618)</td><td>Rizi (736 &rarr; 746)</td><td> Hogy jobbuljon meg mielőbb!</td></tr>
 <tr><td>2014-04-18</td><td>+</td><td>Scor (1614 &rarr; 1616)</td><td>Luca (510 &rarr; 520)</td><td>Mert jött meetre</td></tr>
-<tr><td>2014-04-17</td><td>+</td><td>Zaku (1702 &rarr; 1704)</td><td>Rizi (726 &rarr; 736)</td><td>Hősies helytállásáért a műtétkor</td></tr>
-<tr><td>2014-04-17</td><td>+</td><td>Zaku (1700 &rarr; 1702)</td><td>Rizi (716 &rarr; 726)</td><td>KRM felélesztéséért</td></tr>
-<tr><td>2014-04-17</td><td>+</td><td>Zaku (1698 &rarr; 1700)</td><td>Szacsi (894 &rarr; 904)</td><td>Segített keresgélni és végre találkoztunk &gt;.&lt;y</td></tr>
-<tr><td>2014-04-17</td><td>+</td><td>Zaku (1696 &rarr; 1698)</td><td>Dóri (958 &rarr; 968)</td><td>Sikerült elérnem neten és jót beszélgettünk *-*</td></tr>
-<tr><td>2014-04-17</td><td>+</td><td>Zaku (1694 &rarr; 1696)</td><td>Yasa (1596 &rarr; 1606)</td><td>Mert bebizonyította hogy a bajusz jól áll nekünk :D (fotózás)</td></tr>
-<tr><td>2014-04-17</td><td>+</td><td>Zaku (1692 &rarr; 1694)</td><td>Scor (1604 &rarr; 1614)</td><td>Weboldal élesztéséért, logó beüzemeléséért</td></tr>
-<tr><td>2014-04-17</td><td>+</td><td>Zaku (1690 &rarr; 1692)</td><td>Scor (1594 &rarr; 1604)</td><td>Képek szorgos feltöltéséért </td></tr>
-<tr><td>2014-04-16</td><td>+</td><td>Taka (124 &rarr; 126)</td><td>Zaku (1680 &rarr; 1690)</td><td>A sok tanulásért</td></tr>
-<tr><td>2014-04-16</td><td>+</td><td>Taka (122 &rarr; 124)</td><td>Yasa (1586 &rarr; 1596)</td><td>Mert mindig érdeklődik a tanulmányaim felől</td></tr>
-<tr><td>2014-04-16</td><td>+</td><td>Taka (120 &rarr; 122)</td><td>Rizi (706 &rarr; 716)</td><td>Mert bármikor meghallgat</td></tr>
-<tr><td>2014-04-16</td><td>+</td><td>Scor (1592 &rarr; 1594)</td><td>Zaku (1670 &rarr; 1680)</td><td>FB aktivitásért</td></tr>
-<tr><td>2014-04-16</td><td>+</td><td>Scor (1590 &rarr; 1592)</td><td>Chesy (460 &rarr; 470)</td><td>FB aktivitásért</td></tr>
-<tr><td>2014-04-16</td><td>+</td><td>Scor (1588 &rarr; 1590)</td><td>Taka (110 &rarr; 120)</td><td>Vizsgafelkészülésért</td></tr>
-<tr><td>2014-04-16</td><td>+</td><td>Scor (1586 &rarr; 1588)</td><td>Zaku (1660 &rarr; 1670)</td><td>Hogy türelmesen emlékeztetett a képekre</td></tr>
-<tr><td>2014-04-16</td><td>+</td><td>Scor (1584 &rarr; 1586)</td><td>Gaara (246 &rarr; 256)</td><td>Sakura-ünnepért</td></tr>
-<tr><td>2014-04-16</td><td>+</td><td>Scor (1582 &rarr; 1584)</td><td>Chesy (450 &rarr; 460)</td><td>Sakura-ünnepért</td></tr>
-<tr><td>2014-04-16</td><td>+</td><td>Scor (1580 &rarr; 1582)</td><td>Kova (0 &rarr; 10)</td><td>Sakura-ünnepért</td></tr>
-<tr><td>2014-04-16</td><td>+</td><td>Scor (1578 &rarr; 1580)</td><td>Zaku (1650 &rarr; 1660)</td><td>Sakura-ünnepért</td></tr>
-<tr><td>2014-04-16</td><td>+</td><td>Scor (1576 &rarr; 1578)</td><td>Yasa (1576 &rarr; 1586)</td><td>Sakura-ünnepért</td></tr>
-<tr><td>2014-04-16</td><td>+</td><td>Scor (1574 &rarr; 1576)</td><td>Yasa (1566 &rarr; 1576)</td><td>A tippekért az új főoldal kialakításához</td></tr>
-<tr><td>2014-04-16</td><td>+</td><td>Dóri (956 &rarr; 958)</td><td>Zaku (1640 &rarr; 1650)</td><td>Szintén jót beszélgettünk, hiányzott már</td></tr>
-<tr><td>2014-04-16</td><td>+</td><td>Dóri (954 &rarr; 956)</td><td>Szacsi (884 &rarr; 894)</td><td>Végre tudtunk találkozni, nagyon jót beszélgettünk</td></tr>
-<tr><td>2014-04-16</td><td>+</td><td>Dóri (952 &rarr; 954)</td><td>Scor (1564 &rarr; 1574)</td><td>Logo készítés</td></tr>
-<tr><td>2013-06-30</td><td>+</td><td>Zaku (1638 &rarr; 1640)</td><td>Dóri (942 &rarr; 952)</td><td>dA felélesztésében való segítségért</td></tr>
-<tr><td>2013-06-30</td><td>+</td><td>Zaku (1636 &rarr; 1638)</td><td>Rizi (696 &rarr; 706)</td><td>dA felélesztésében való segítségért</td></tr>
-<tr><td>2013-06-30</td><td>+</td><td>Zaku (1634 &rarr; 1636)</td><td>Yasa (1556 &rarr; 1566)</td><td>MAX tutorial-ért és sütögetésért :D</td></tr>
-<tr><td>2013-06-26</td><td>+</td><td>Zaku (1632 &rarr; 1634)</td><td>Yasa (1546 &rarr; 1556)</td><td>Mert átvettem az uralmat a gépem felett és győzedelmeskedett :D</td></tr>
-<tr><td>2013-06-20</td><td>+</td><td>Zaku (1630 &rarr; 1632)</td><td>Rizi (686 &rarr; 696)</td><td>mondókért &gt;.&lt;y </td></tr>
-<tr><td>2013-06-20</td><td>+</td><td>Zaku (1628 &rarr; 1630)</td><td>Marci (140 &rarr; 150)</td><td>beszélgetésért</td></tr>
-<tr><td>2013-06-20</td><td>+</td><td>Zaku (1626 &rarr; 1628)</td><td>Dóri (932 &rarr; 942)</td><td>beszélgetésért</td></tr>
-<tr><td>2013-06-20</td><td>+</td><td>Zaku (1624 &rarr; 1626)</td><td>Szacsi (874 &rarr; 884)</td><td>Mert kitartó és legyőzhetetlen &gt;.&lt;y</td></tr>
-<tr><td>2013-06-20</td><td>+</td><td>Zaku (1622 &rarr; 1624)</td><td>Yoru (388 &rarr; 398)</td><td>Mert lophattam a vizüket :D - a környéken nem volt víz ^^&quot;&quot;</td></tr>
