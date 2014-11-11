@@ -1,3 +1,16 @@
+<tr><td>2014-11-09</td><td>+</td><td>Zaku (1880 &rarr; 1882)</td><td>Rizi (916 &rarr; 926)</td><td>segített és mellettem volt amikor kellett</td></tr>
+<tr><td>2014-11-02</td><td>+</td><td>Zaku (1878 &rarr; 1880)</td><td>Yasa (1782 &rarr; 1792)</td><td>szervezőzsdiért</td></tr>
+<tr><td>2014-11-02</td><td>+</td><td>Zaku (1876 &rarr; 1878)</td><td>Yasa (1772 &rarr; 1782)</td><td>KRM-es és rajzolós aktivitásért </td></tr>
+<tr><td>2014-11-02</td><td>+</td><td>Zaku (1874 &rarr; 1876)</td><td>Scor (1770 &rarr; 1780)</td><td>weboldal és forúm feltápolásáért</td></tr>
+<tr><td>2014-11-02</td><td>+</td><td>Zaku (1872 &rarr; 1874)</td><td>Scor (1760 &rarr; 1770)</td><td>beszélgetésért és levelezésért</td></tr>
+<tr><td>2014-11-02</td><td>+</td><td>Zaku (1870 &rarr; 1872)</td><td>Scor (1750 &rarr; 1760)</td><td>Drupal-os segítségért és rögtönzött help-ért</td></tr>
+<tr><td>2014-11-02</td><td>+</td><td>Zaku (1868 &rarr; 1870)</td><td>Taka (196 &rarr; 206)</td><td>mert utálom és még mindig királyul “firkál”</td></tr>
+<tr><td>2014-11-02</td><td>+</td><td>Zaku (1866 &rarr; 1868)</td><td>Rizi (906 &rarr; 916)</td><td>mert nem lehet lelőni és tudom hogy csak “arra” kellek neki :D</td></tr>
+<tr><td>2014-11-02</td><td>+</td><td>Zaku (1864 &rarr; 1866)</td><td>Rizi (896 &rarr; 906)</td><td>lolozásért és szerepezésért</td></tr>
+<tr><td>2014-11-02</td><td>+</td><td>Zaku (1862 &rarr; 1864)</td><td>Dóri (1024 &rarr; 1034)</td><td>mozizásért és fangörcsökért</td></tr>
+<tr><td>2014-11-02</td><td>+</td><td>Zaku (1860 &rarr; 1862)</td><td>Dóri (1014 &rarr; 1024)</td><td>megnőtt aktivitásért és mert nem nyuszi</td></tr>
+<tr><td>2014-11-02</td><td>+</td><td>Zaku (1858 &rarr; 1860)</td><td>Yoru (458 &rarr; 468)</td><td>szülinapi meglepiért és rögtönzött találkozóért</td></tr>
+<tr><td>2014-11-02</td><td>+</td><td>Zaku (1856 &rarr; 1858)</td><td>Luca (570 &rarr; 580)</td><td>karaktertervek és játékfejlesztési munkákért</td></tr>
 <tr><td>2014-11-01</td><td>+</td><td>Dóri (1012 &rarr; 1014)</td><td>Zaku (1846 &rarr; 1856)</td><td>Mert jó volt a mozizás</td></tr>
 <tr><td>2014-11-01</td><td>+</td><td>Dóri (1010 &rarr; 1012)</td><td>Yasa (1762 &rarr; 1772)</td><td>A hétköznapi boostos beszélgetésért és Nerienért</td></tr>
 <tr><td>2014-11-01</td><td>+</td><td>Dóri (1008 &rarr; 1010)</td><td>Scor (1740 &rarr; 1750)</td><td>Fórum update-ért</td></tr>
@@ -85,16 +98,3 @@
 <tr><td>2014-04-22</td><td>+</td><td>Yasa (1660 &rarr; 1662)</td><td>Taka (136 &rarr; 146)</td><td>mert sokat ügyeskedik :) (nem csak a tanulmányaid érdekelnek ám ;))</td></tr>
 <tr><td>2014-04-22</td><td>+</td><td>Yasa (1658 &rarr; 1660)</td><td>Zaku (1724 &rarr; 1734)</td><td>Rengeteg tanulásért (hajrá, Zaku!), és mert le szokott támadni FB-n :D</td></tr>
 <tr><td>2014-04-22</td><td>+</td><td>Yasa (1656 &rarr; 1658)</td><td>Scor (1640 &rarr; 1650)</td><td>Klub folyamatos kis élesztgetéséért (Cikk írás, új főoldal, új logó, vakstars, mind - mind külön szavazatot érdemel ;))</td></tr>
-<tr><td>2014-04-21</td><td>+</td><td>Scor (1638 &rarr; 1640)</td><td>Dóri (968 &rarr; 978)</td><td>Csillagok szorgalmas felviteléért :D (oké ez picit meta de na...)</td></tr>
-<tr><td>2014-04-21</td><td>+</td><td>Scor (1636 &rarr; 1638)</td><td>Yasa (1646 &rarr; 1656)</td><td>Amiért noszogatott, hogy szavazzak Veletech-en - volt haszna ;)</td></tr>
-<tr><td>2014-04-18</td><td>+</td><td>Scor (1634 &rarr; 1636)</td><td>Yasa (1636 &rarr; 1646)</td><td>Segítségért a bevásárlásban :)</td></tr>
-<tr><td>2014-04-18</td><td>+</td><td>Scor (1632 &rarr; 1634)</td><td>Luca (520 &rarr; 530)</td><td>Meetup reg</td></tr>
-<tr><td>2014-04-18</td><td>+</td><td>Scor (1630 &rarr; 1632)</td><td>Yasa (1626 &rarr; 1636)</td><td>Meetup reg</td></tr>
-<tr><td>2014-04-18</td><td>+</td><td>Scor (1628 &rarr; 1630)</td><td>Zaku (1714 &rarr; 1724)</td><td>Meetup reg</td></tr>
-<tr><td>2014-04-18</td><td>+</td><td>Scor (1626 &rarr; 1628)</td><td>Taka (126 &rarr; 136)</td><td>FB aktivitás</td></tr>
-<tr><td>2014-04-18</td><td>+</td><td>Scor (1624 &rarr; 1626)</td><td>Yasa (1616 &rarr; 1626)</td><td>FB aktivitás</td></tr>
-<tr><td>2014-04-18</td><td>+</td><td>Scor (1622 &rarr; 1624)</td><td>Gaara (256 &rarr; 266)</td><td>FB aktivitás</td></tr>
-<tr><td>2014-04-18</td><td>+</td><td>Scor (1620 &rarr; 1622)</td><td>Zaku (1704 &rarr; 1714)</td><td>FB aktivitás</td></tr>
-<tr><td>2014-04-18</td><td>+</td><td>Scor (1618 &rarr; 1620)</td><td>Yasa (1606 &rarr; 1616)</td><td>Mert segített összehozni a Sakura-ünnepes cikket :)</td></tr>
-<tr><td>2014-04-18</td><td>+</td><td>Scor (1616 &rarr; 1618)</td><td>Rizi (736 &rarr; 746)</td><td> Hogy jobbuljon meg mielőbb!</td></tr>
-<tr><td>2014-04-18</td><td>+</td><td>Scor (1614 &rarr; 1616)</td><td>Luca (510 &rarr; 520)</td><td>Mert jött meetre</td></tr>
